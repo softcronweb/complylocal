@@ -1,0 +1,419 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA0DCB3B-8848-43E9-A0D5-153237E9FE70}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Complylocal</RootNamespace>
+    <AssemblyName>Complylocal</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44305</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="add-directors.aspx" />
+    <Content Include="additional-business-place.aspx" />
+    <Content Include="AOA-AMA.aspx" />
+    <Content Include="assets\css\StyleSheet.css" />
+    <Content Include="assets\images\aboutus.png" />
+    <Content Include="assets\images\aboutus2.png" />
+    <Content Include="assets\images\aboutusimg3.png" />
+    <Content Include="assets\images\blog-1.png" />
+    <Content Include="assets\images\blog-2.png" />
+    <Content Include="assets\images\blog-3.png" />
+    <Content Include="assets\images\client-logo-2.png" />
+    <Content Include="assets\images\client-logo-3.png" />
+    <Content Include="assets\images\client-logo-4.png" />
+    <Content Include="assets\images\client-logo-5.png" />
+    <Content Include="assets\images\client-logo-6.png" />
+    <Content Include="assets\images\client-logo-7.png" />
+    <Content Include="assets\images\client-logo-8.png" />
+    <Content Include="assets\images\client-logo-9.png" />
+    <Content Include="assets\images\clients-logo-1.png" />
+    <Content Include="assets\images\herotesting.png" />
+    <Content Include="assets\images\logo-black.png" />
+    <Content Include="assets\images\logo-complylocal.png" />
+    <Content Include="assets\images\logo.png" />
+    <Content Include="assets\images\Png-03.png" />
+    <Content Include="assets\images\Png-04.png" />
+    <Content Include="assets\images\quote-6.png" />
+    <Content Include="assets\images\quote.png" />
+    <Content Include="assets\images\step-1.png" />
+    <Content Include="assets\images\step-2.png" />
+    <Content Include="assets\images\step-3.png" />
+    <Content Include="assets\images\step-4.png" />
+    <Content Include="assets\images\step-5.png" />
+    <Content Include="assets\images\step-6.png" />
+    <Content Include="assets\images\stepwefollowimg.png" />
+    <Content Include="assets\images\testimonial-1.png" />
+    <Content Include="assets\images\testimonial-logo.png" />
+    <Content Include="assets\images\why-we-1.png" />
+    <Content Include="assets\images\why-we-2.png" />
+    <Content Include="assets\images\why-we-3.png" />
+    <Content Include="assets\images\why-we-4.png" />
+    <Content Include="assets\script\script.js" />
+    <Content Include="authorized-capital-change.aspx" />
+    <Content Include="business-name-change.aspx" />
+    <Content Include="components.aspx" />
+    <Content Include="digital-signature-registration.aspx" />
+    <Content Include="e-commerce-gst-return.aspx" />
+    <Content Include="e-commerce-gst.aspx" />
+    <Content Include="e-commerce-payment-reconciliation.aspx" />
+    <Content Include="e-way-bill-registration.aspx" />
+    <Content Include="fssai-registration.aspx" />
+    <Content Include="gst-registration.aspx" />
+    <Content Include="gst-returns.aspx" />
+    <Content Include="iec-code.aspx" />
+    <Content Include="income-tax-return.aspx" />
+    <Content Include="limited-liability-partnership.aspx" />
+    <Content Include="msme-registration.aspx" />
+    <Content Include="one-person-company.aspx" />
+    <Content Include="pan-registration.aspx" />
+    <Content Include="partnership-firm.aspx" />
+    <Content Include="pf-esi-registration.aspx" />
+    <Content Include="private-limited-company-services.aspx" />
+    <Content Include="proprietorship-firm.aspx" />
+    <Content Include="registered-office-change.aspx" />
+    <Content Include="revised-returns.aspx" />
+    <Content Include="tan-registration.aspx" />
+    <Content Include="tds-return.aspx" />
+    <Content Include="trademark-registration.aspx" />
+    <Content Include="virtual-business-place.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="index.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add-directors.aspx.cs">
+      <DependentUpon>add-directors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="add-directors.aspx.designer.cs">
+      <DependentUpon>add-directors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="additional-business-place.aspx.cs">
+      <DependentUpon>additional-business-place.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="additional-business-place.aspx.designer.cs">
+      <DependentUpon>additional-business-place.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AOA-AMA.aspx.cs">
+      <DependentUpon>AOA-AMA.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AOA-AMA.aspx.designer.cs">
+      <DependentUpon>AOA-AMA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="authorized-capital-change.aspx.cs">
+      <DependentUpon>authorized-capital-change.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="authorized-capital-change.aspx.designer.cs">
+      <DependentUpon>authorized-capital-change.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="business-name-change.aspx.cs">
+      <DependentUpon>business-name-change.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="business-name-change.aspx.designer.cs">
+      <DependentUpon>business-name-change.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="components.aspx.cs">
+      <DependentUpon>components.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="components.aspx.designer.cs">
+      <DependentUpon>components.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="digital-signature-registration.aspx.cs">
+      <DependentUpon>digital-signature-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="digital-signature-registration.aspx.designer.cs">
+      <DependentUpon>digital-signature-registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="e-commerce-gst-return.aspx.cs">
+      <DependentUpon>e-commerce-gst-return.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="e-commerce-gst-return.aspx.designer.cs">
+      <DependentUpon>e-commerce-gst-return.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="e-commerce-gst.aspx.cs">
+      <DependentUpon>e-commerce-gst.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="e-commerce-gst.aspx.designer.cs">
+      <DependentUpon>e-commerce-gst.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="e-commerce-payment-reconciliation.aspx.cs">
+      <DependentUpon>e-commerce-payment-reconciliation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="e-commerce-payment-reconciliation.aspx.designer.cs">
+      <DependentUpon>e-commerce-payment-reconciliation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="e-way-bill-registration.aspx.cs">
+      <DependentUpon>e-way-bill-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="e-way-bill-registration.aspx.designer.cs">
+      <DependentUpon>e-way-bill-registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="fssai-registration.aspx.cs">
+      <DependentUpon>fssai-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="fssai-registration.aspx.designer.cs">
+      <DependentUpon>fssai-registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gst-registration.aspx.cs">
+      <DependentUpon>gst-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gst-registration.aspx.designer.cs">
+      <DependentUpon>gst-registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gst-returns.aspx.cs">
+      <DependentUpon>gst-returns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gst-returns.aspx.designer.cs">
+      <DependentUpon>gst-returns.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="iec-code.aspx.cs">
+      <DependentUpon>iec-code.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="iec-code.aspx.designer.cs">
+      <DependentUpon>iec-code.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="income-tax-return.aspx.cs">
+      <DependentUpon>income-tax-return.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="income-tax-return.aspx.designer.cs">
+      <DependentUpon>income-tax-return.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="limited-liability-partnership.aspx.cs">
+      <DependentUpon>limited-liability-partnership.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="limited-liability-partnership.aspx.designer.cs">
+      <DependentUpon>limited-liability-partnership.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Master.Master.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master.Master.designer.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="msme-registration.aspx.cs">
+      <DependentUpon>msme-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="msme-registration.aspx.designer.cs">
+      <DependentUpon>msme-registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="one-person-company.aspx.cs">
+      <DependentUpon>one-person-company.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="one-person-company.aspx.designer.cs">
+      <DependentUpon>one-person-company.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pan-registration.aspx.cs">
+      <DependentUpon>pan-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pan-registration.aspx.designer.cs">
+      <DependentUpon>pan-registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="partnership-firm.aspx.cs">
+      <DependentUpon>partnership-firm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="partnership-firm.aspx.designer.cs">
+      <DependentUpon>partnership-firm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pf-esi-registration.aspx.cs">
+      <DependentUpon>pf-esi-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pf-esi-registration.aspx.designer.cs">
+      <DependentUpon>pf-esi-registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="private-limited-company-services.aspx.cs">
+      <DependentUpon>private-limited-company-services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="private-limited-company-services.aspx.designer.cs">
+      <DependentUpon>private-limited-company-services.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="proprietorship-firm.aspx.cs">
+      <DependentUpon>proprietorship-firm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="proprietorship-firm.aspx.designer.cs">
+      <DependentUpon>proprietorship-firm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="registered-office-change.aspx.cs">
+      <DependentUpon>registered-office-change.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="registered-office-change.aspx.designer.cs">
+      <DependentUpon>registered-office-change.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="revised-returns.aspx.cs">
+      <DependentUpon>revised-returns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="revised-returns.aspx.designer.cs">
+      <DependentUpon>revised-returns.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tan-registration.aspx.cs">
+      <DependentUpon>tan-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tan-registration.aspx.designer.cs">
+      <DependentUpon>tan-registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tds-return.aspx.cs">
+      <DependentUpon>tds-return.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tds-return.aspx.designer.cs">
+      <DependentUpon>tds-return.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="trademark-registration.aspx.cs">
+      <DependentUpon>trademark-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="trademark-registration.aspx.designer.cs">
+      <DependentUpon>trademark-registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="virtual-business-place.aspx.cs">
+      <DependentUpon>virtual-business-place.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="virtual-business-place.aspx.designer.cs">
+      <DependentUpon>virtual-business-place.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Master.Master" />
+    <Content Include="assets\font\Recoleta-RegularDEMO.otf" />
+    <Content Include="assets\font\Recoleta-RegularDEMO.woff" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52838</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44305/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

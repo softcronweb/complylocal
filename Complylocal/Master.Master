@@ -1,0 +1,215 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Complylocal.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+        integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+        integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="assets/css/StyleSheet.css">
+
+    <title>Complylocal</title>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div class=" w-full flex justify-between gap-8 items-center h-[10vh] p-1  sm:px-20 px-5  bg-[#fafafa] fixed -mt-[1px] z-[999] navfont">
+                <a href="index.aspx" class="h-full max-w-40 md:max-w-60 flex sm:justify-center items-center ">
+                    <img src="assets/images/logo-complylocal.png" alt="" class="w-full h-full object-contain">
+                </a>
+                <ul class="hidden lg:flex gap-2 flex-wrap items-center justify-center relative  z-50">
+
+                    <li class="group relative">
+                        <a href="#" class="px-2 py-1 ">Business Registration <span><i
+                            class="fa-solid fa-caret-down"></i></span></a>
+                        <ul
+                            class="absolute z-50 hidden group-hover:block top-full left-0 bg-black text-gray-400 rounded-sm shadow-lg w-64">
+                            <li><a href="private-limited-company-services.aspx" class="block px-4 py-2 hover:text-white ">Private Limited Company</a></li>
+                            <li><a href="one-person-company.aspx" class="block px-4 py-2 hover:text-white ">One Person Company</a></li>
+                            <li><a href="limited-liability-partnership.aspx" class="block px-4 py-2 hover:text-white ">Limited Liability Partnership</a></li>
+                            <li><a href="partnership-firm.aspx" class="block px-4 py-2 hover:text-white ">Partnership Firm</a></li>
+                            <li><a href="proprietorship-firm.aspx" class="block px-4 py-2 hover:text-white ">Proprietorship Firm</a></li>
+                        </ul>
+                    </li>
+                    <li class="group relative">
+                        <a href="#" class="px-2 py-1 ">MCA Services <i class="fa-solid fa-caret-down"></i></a>
+                        <ul
+                            class="absolute z-30 hidden group-hover:block top-full left-0 bg-black text-gray-400 rounded-sm shadow-lg w-64">
+                            <li><a href="AOA-AMA.aspx" class="block px-4 py-2 hover:text-white ">AOA/MOA Amendments</a></li>
+                            <li><a href="authorized-capital-change.aspx" class="block px-4 py-2 hover:text-white ">Authorized Capital Change</a></li>
+                            <li><a href="add-directors.aspx" class="block px-4 py-2 hover:text-white ">Add Directors</a></li>
+                            <li><a href="registered-office-change.aspx" class="block px-4 py-2 hover:text-white ">Registered Office Change</a></li>
+                            <li><a href="business-name-change.aspx" class="block px-4 py-2 hover:text-white ">Business Name Change</a></li>
+                        </ul>
+                    </li>
+                    <li class="group relative">
+                        <a href="#" class="px-2 py-1 ">E-commerce <i class="fa-solid fa-caret-down"></i></a>
+                        <ul
+                            class="absolute z-50 hidden group-hover:block top-full left-0 bg-black text-gray-400 rounded-sm shadow-lg w-64">
+                            <li><a href="additional-business-place.aspx" class="block px-4 py-2 hover:text-white ">Additional Business Place</a></li>
+                            <li><a href="virtual-business-place.aspx" class="block px-4 py-2 hover:text-white ">Virtual Business Place</a></li>
+                            <li><a href="e-commerce-gst.aspx" class="block px-4 py-2 hover:text-white ">E-Commerce GST</a></li>
+                            <li><a href="e-commerce-gst-return.aspx" class="block px-4 py-2 hover:text-white ">E-Commerce GST Returns</a></li>
+                            <li><a href="e-commerce-payment-reconciliation.aspx" class="block px-4 py-2 hover:text-white ">E-Commerce Payment Reconciliation</a></li>
+                            <li><a href="e-way-bill-registration.aspx" class="block px-4 py-2 hover:text-white ">E-Way Bill Registration</a></li>
+                        </ul>
+                    </li>
+                    <li class="group relative">
+                        <a href="#" class="px-2 py-1 ">TAX Filing <i class="fa-solid fa-caret-down"></i></a>
+                        <ul
+                            class="absolute z-50 hidden group-hover:block top-full left-0 bg-black text-gray-400 rounded-sm shadow-lg w-64">
+                            <li><a href="income-tax-return.aspx" class="block px-4 py-2 hover:text-white ">Income Tax Return</a></li>
+                            <li><a href="tds-return.aspx" class="block px-4 py-2 hover:text-white ">TDS Returns</a></li>
+                            <li><a href="gst-returns.aspx" class="block px-4 py-2 hover:text-white ">GST Returns</a></li>
+                            <li><a href="revised-returns.aspx" class="block px-4 py-2 hover:text-white ">Revised Returns</a></li>
+                        </ul>
+                    </li>
+                    <li class="group relative">
+                        <a href="#" class="px-2 py-1 ">Other Registration <i
+                            class="fa-solid fa-caret-down"></i></a>
+                        <ul
+                            class="absolute z-50 hidden group-hover:block top-full right-[50%] bg-black text-gray-400 rounded-sm shadow-lg w-64">
+                            <li><a href="digital-signature-registration.aspx" class="block px-4 py-2 hover:text-white ">Digital Signature Registration</a></li>
+                            <li><a href="trademark-registration.aspx" class="block px-4 py-2 hover:text-white ">Trademark Registration</a></li>
+                            <li><a href="pf-esi-registration.aspx" class="block px-4 py-2 hover:text-white ">PF ESI Registration</a></li>
+                            <li><a href="msme-registration.aspx" class="block px-4 py-2 hover:text-white ">MSME Registration</a></li>
+                            <li><a href="fssai-registration.aspx" class="block px-4 py-2 hover:text-white ">FSSAI Registration</a></li>
+                            <li><a href="gst-registration.aspx" class="block px-4 py-2 hover:text-white ">GST Registration</a></li>
+                            <li><a href="pan-registration.aspx" class="block px-4 py-2 hover:text-white ">PAN Registration</a></li>
+                            <li><a href="tan-registration.aspx" class="block px-4 py-2 hover:text-white ">TAN Registration</a></li>
+                            <li><a href="iec-code.aspx" class="block px-4 py-2 hover:text-white ">IEC Code</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <!-- footer -->
+            <div class="bg-purple-100">
+                <footer class="pt-20 sm:px-20 px-5 text-white w-full bg-black rounded-t-[50px] sm:rounded-t-[100px]">
+                    <div class="grid md:grid-cols-4 w-full justify-around gap-8 gap-y-20">
+                        <div class="w-full row-span-2">
+                            <div class="h-full max-w-40 md:max-w-60 flex md:items-start ">
+                                <img src="assets/images/png-04.png" alt="logo" />
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-4 w-full">
+                            <h2 class="font-semibold text-2xl">Service</h2>
+                            <ul class="text-gray-500 text-xl flex flex-col gap-2">
+                                <li><a href="#">GST Registration</a></li>
+                                <li><a href="#">Company Registration</a></li>
+                                <li><a href="#">GST Return Fillings</a></li>
+                                <li><a href="#">Income Tax Return</a></li>
+                            </ul>
+                        </div>
+                        <div class="flex flex-col gap-4 w-full">
+                            <h2 class="font-semibold text-2xl">More</h2>
+                            <ul class="text-gray-500 text-xl flex flex-col gap-2">
+                                <li><a href="#">Services</a></li>
+                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="#">About Us</a></li>
+                                
+                            </ul>
+                        </div>
+                        <div class="flex flex-col gap-4 w-full">
+                            <h2 class="font-semibold text-2xl">Address</h2>
+                            <ul class="text-gray-500 text-xl">
+                                <li><a class="" href="#">Shree Aarambh, 4 th Floor, DLF Colony, Haryana, Rohtak-124001</a></li>
+                                <li class="mt-4"><a href="tel:+91-9896805552">+91-9896805552</a></li>
+                               
+                            </ul>
+                        </div>
+
+                
+                        <div class="flex flex-col gap-4 w-full">
+                            <h2 class="font-semibold text-2xl">Follow Us</h2>
+                            <ul class="text-gray-500 text-xl flex gap-4">
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="py-10 mt-12 border-t border-gray-500 flex justify-center items-center">
+                        <p class="text-center text-gray-500 text-lg">
+                            &copy; Designed by
+                <span class="text-white font-semibold">Softcron</span>
+                        </p>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </form>
+
+    <!-- script -->
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="/assets/script/script.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            slidesPerView: 3,
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+                loop: true,
+            },
+        });
+    </script>
+    <!-- Initialize Swiper -->
+    <script>
+        var swiper = new Swiper(".mySwiper1", {
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
+    </script>
+    <!-- testimonial -->
+    <script>
+        var swiper = new Swiper(".testimonialSlider", {
+            slidesPerView: 2,
+            loop: true,
+            spaceBetween: 30,
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
+    </script>
+</body>
+</html>

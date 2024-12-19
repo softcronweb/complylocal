@@ -1,0 +1,48 @@
+﻿@font-face {
+    font-family: 'recoleta';
+    src: url('/assets/font/Recoleta-RegularDEMO.woff') format('woff'); 
+}
+
+body {
+    position: relative;
+    padding-top: 1px;
+    height: 100%;
+    font-family: 'recoleta', sans-serif;
+    font-feature-settings: "liga" 0, "clig" 0;
+    font-variant-ligatures: none; /* Fallback */
+}
+
+.navfont {
+    font-family: 'kanit', sans-serif;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    font-size: 18px;
+    background: #d8e8e3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+
+
+.line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Number of lines to show */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.line-clamp-5 {
+    display: -webkit-box;
+    -webkit-line-clamp: 4; /* Number of lines to show */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
