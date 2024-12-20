@@ -10,15 +10,26 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">Trademark Registration</h2>
-            <ul class="list-disc text-2xl  font-semibold ml-8 text-[#991c20]">
-                <li>Avoid LAte Payment and Pental Interest</li>
-                <li>Eliminate stress</li>
-                <li>Faster Processing of Loans, Visas and Credit Cards</li>
-                <li>Input of How to plan your taxes for the current financial year</li>
-                <li>Eliminate Error</li>
+            <div class=" text-lg font-semibold text-[#991c20]">
+                <h3 class="text-[#1c5a88] text-2xl">Protect Your Brand Identity with Trademark Registration</h3>
+                <p>
+                    A Trademark is a unique symbol, logo, word, name, or design that identifies and distinguishes your products or services from those of competitors. It serves as a valuable intellectual property asset for your business.
+                </p>
+                <p>It can be a:</p>
+                <ul class="font-semibold list-disc ml-8 text-[#1c5a88]">
+                    <li>Logo</li>
+                    <li>Brand Name </li>
+                    <li>Tagline/Slogan </li>
+                    <li>Symbol Unique Design </li>
+                </ul>
+
+                <p>
+                    A registered trademark gives you the exclusive right to use the mark, take legal action against unauthorized use, and build trust and brand recognition.
+
+                </p>
 
 
-            </ul>
+            </div>
         </div>
 
         <!-- Image -->
@@ -36,19 +47,24 @@
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
-                    <h3 class="text-3xl font-semibold">Trademark Registration
+                    <h3 class="text-3xl font-semibold">Timeframe for Trademark Registration
                     </h3>
                 </div>
                 <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
                     <p>
-                        Get your brand registration or TradeMark Registration online by getmyCA, Trademark means any sign capable of being represented graphically, and of distinguishing goods and services of one undertaking from those of another. A tradeMark Registration may consist of words (including personal names), figurative elements, letters, numerals or the shape of goods or their packaging. From Trademark registration , you can uniquely identify the related product or services. 
+                        The process typically takes 6-12 months to complete. However, you can start using the <sup>TM</sup> symbol immediately after filing the trademark application. Once the trademark is registered, you can use the (Registered) symbol.
                     </p>
-                    <p>
-                        We offers Trademark Registration services to Businesses products and services.Trademark attorneys and examiners arrange trademark applications according to the description and classes of goods or services to which the trademarks apply 
-                    </p>
-                    <p>
-                        When a proprietor registers his trademark , he acquires a property right, benefiting from specific remedies. Also, The proprietor of a registered trademark has exclusive rights in the trademark.
-                    </p>
+
+                    <h3 class="font-semibold text-2xl text-black">Trademark Symbols </h3>
+                    <ul class="ml-8 list-disc">
+                        <li>
+                            <span class="font-semibold">(TM Symbol):</span> Used to signify that the brand or logo is in the process of being trademarked.
+                        </li>
+                        <li>
+                            <span class="font-semibold">(Registered Symbol): </span>Used to signify that the trademark is officially registered and legally protected.
+                        </li>
+                    </ul>
+
 
 
                     <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
@@ -66,11 +82,27 @@
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Trademark Registration
+                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Why Choose Us for Trademark Registration?
                 </h2>
-                <p class="text-gray-600 text-lg mb-6">
-                    Protect your brand with the trademark registrations from ComplyLocal. Our team assists you through the entire process and provides complete support to your special brands and logos. Trademark registration also allows you the ability to protect your brand assets by lodging as a trademark thereby avoiding infringement of competitors. Do not allow your brand to be tarnished—protect it with our efficient and secure solutions.  
-                </p>
+                <div class="text-gray-600 text-lg mb-6">
+                    <ul class="ml-8 ">
+                        <li>
+                            <span class="font-semibold">Comprehensive Search:</span> We conduct a detailed trademark search to ensure your brand name/logo is unique.
+                        </li>
+                        <li>
+                            <span class="font-semibold">Quick Filing Process: </span>We handle the entire process from filing to certification, ensuring fast application submission.
+                        </li>
+                        <li>
+                            <span class="font-semibold">Expert Legal Assistance: </span>Our legal experts guide you through objections, hearings, and opposition proceedings.
+                        </li>
+                        <li>
+                            <span class="font-semibold">Transparent Pricing: </span>No hidden charges — clear pricing for trademark filing and support.
+                        </li>
+                        <li>
+                            <span class="font-semibold">Ongoing Support:  </span>We provide full support until you receive your trademark registration certificate.
+                        </li>
+                    </ul>
+                </div>
 
                 <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
                 </a>
@@ -98,51 +130,35 @@
             <div class="md:col-span-2 flex flex-col gap-4">
                 <div class=" border-y py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>What is the average time taken to register a private limited company? </h5>
+                        <h5>1. How long is a trademark valid? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The registration part is of 10–15 days; after that simply place and receive orders.</p>
+                    <p class="text-gray-500 text-sm hidden ans">10 years </p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Can a private limited company be registered with One Director? </h5>
+                        <h5>2. How much does it cost to register a trademark?</h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">You cannot; you must have at least two directors to register a private limited company.</p>
+                    <p class="text-gray-500 text-sm hidden ans">The cost varies depending on the type of applicant</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>What is the minimum capital requirement to register a private limited company? </h5>
+                        <h5>3. Can I trademark a logo and brand name together? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">No, there is no minimum capital required. You can even begin with a humble sum of money.</p>
+                    <p class="text-gray-500 text-sm hidden ans">Yes.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Do I need an actual office address to register? </h5>
+                        <h5>4. What happens if my trademark is opposed? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, you may need to have a registered office address as an individual or facility. It could be a residential or commercial property.</p>
-                </div>
-                <div class=" border-b py-4 faq-item">
-                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Whether overseas directors can be appointed in a private limited company? </h5>
-                        <span class="open">+</span>
-                        <span class="close hidden">-</span>
-                    </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
-                </div>
-                <div class=" border-b py-4 faq-item">
-                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Should I attend the registration face to face?</h5>
-                        <span class="open">+</span>
-                        <span class="close hidden">-</span>
-                    </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
+                    <p class="text-gray-500 text-sm hidden ans">If a third party opposes your trademark during the journal publication, you will need to respond to the opposition and attend hearings, if required. We will assist you with this process.</p>
                 </div>
             </div>
         </section>

@@ -8,17 +8,10 @@
 
         <!-- left Content -->
 
-        <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">GST Registration</h2>
-            <ul class="list-disc text-2xl  font-semibold ml-8 text-[#991c20]">
-                <li>Removing cascading tax effect</li>
-                <li>Higher threshold for Registration</li>
-                <li>Composition scheme for small businesses</li>
-                <li>Simpler online procedure under GST</li>
-                <li>Lesser number of compliances</li>
-                <li>Regulating the unorganized sector</li>
-                <li>Define treatment of E-Commerce</li>
-            </ul>
+        <div class="order-1 sm:order-2 flex flex-col lg:w-1/2 text-center lg:pl-8">
+            <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">GST (GOODS & SERVICES TAX)</h2>
+            <h4 class="text-2xl   font-semibold text-[#991c20]">Goods and Services Tax (GST) is a unified, destination-based indirect tax levied on the supply of goods and services, aimed at replacing multiple indirect taxes and promoting a seamless tax structure across the country
+            </h4>
         </div>
 
         <!-- Image -->
@@ -31,7 +24,7 @@
         </div>
     </section>
     <%--about--%>
-    <div class="bg-[#fafafa] ">
+    <%--<div class="bg-[#fafafa] ">
         <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
@@ -40,19 +33,39 @@
                     </h3>
                 </div>
                 <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
-                    <p>
-                        We provides GST Registration in which GST refers to Goods and Services Tax which subsumes all taxes such as Sales tax, Service tax, Excise duty etc. into GST. Our GST registration is primarily required, if your annual sales are more than Rs. 20 Lakh. Even if your sales are less than Rs. 20 Lakh, we suggest that you voluntarily opt for GST registration because You will not get any tax refunds on purchases (e.g. if you buy goods worth Rs 1 lakh in a year, and tax rate is 28% – you will lose tax refund of Rs. 28,000).You cannot sell outside your state.
-                    </p>
-                    <p>
-                        GST Registration typically takes between 2-6 working days. You need to file your application with the department and sign it with your digital signature. GST Registration can be done through us.
-                    </p>
+                    <ul class="">
+                        <li>-	GST Registration</li>
+                        <li>-	GST Return Filing</li>
+                        <li>
+                            <ul class="ml-8">
+                                <li><span class="font-semibold">GSTR-1:</span> Monthly/quarterly return for outward supplies.</li>
+                                <li><span class="font-semibold">GSTR-3B:</span> Monthly summary return of inward and outward supplies.</li>
+                                <li><span class="font-semibold">GSTR-9:</span> Annual return for regular taxpayers.</li>
+                                <li><span class="font-semibold">GSTR-4:</span> Return for composition scheme taxpayers.</li>
+                                <li><span class="font-semibold">GSTR-6:</span> Return for input service distributors.</li>
+                                <li><span class="font-semibold">GSTR-7:</span> Return for TDS (Tax Deducted at Source) under GST.</li>
+                                <li><span class="font-semibold">GSTR-9C- </span>GST reconciliation statement filed by applicable taxpayers</li>
+                                <li><span class="font-semibold">GSTR-8-</span> e-commerce operators who are required to deduct TCS under GST</li>
 
+                            </ul>
+                        </li>
+                        <li>-	GST Payment Services</li>
+                        <li>-	GST Consultancy</li>
+                        <li>-	GST Reconciliation Services</li>
+                        <li>-	GST Refund</li>
+                        <li>-	GST for E- Commerce Business</li>
+                        <li>-	E-Invoicing under GST</li>
+                        <li>-	GST Litigation & Proceedings</li>
+                        <li>-	GST on RCM (Reverse Charge Mechanism)</li>
+
+
+                    </ul>
 
                     <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
                 </div>
             </div>
         </div>
-    </div>
+    </div>--%>
 
     <!-- about -->
     <div class="bg-[#E5F1E3]">
@@ -63,12 +76,38 @@
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">FSSAI Registration
+                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">GST (GOODS & SERVICES TAX)
                 </h2>
-                <p class="text-gray-600 text-lg mb-6">
-                    Say hello to ComplyLocal, your one-stop shop for a simplified GST registration journey! Being a crucial part of the compliance ecosystem and prospective growth, every running business deals with the labyrinthine tax journey. Partner with ComplyLocal and make the GST registration hassle-free; we will be your reliable partner at every step of the process right from guidance to implementation. Our state-of-the-art platform with our knowledgeable professionals provides hassle-free documentation and filing throughout. Start your GST journey with ComplyLocal, and rest assured that all of your compliance needs are taken care of by us. Let GST registration be a cakewalk with ComplyLocal and give your businesses the winning edge.
+                <div class="text-gray-600 text-lg mb-6">
+                  <ul class="">
+    <li>-	GST Registration</li>
+    <li>-	GST Return Filing</li>
+    <li>
+        <ul class="ml-8">
+            <li><span class="font-semibold">GSTR-1:</span> Monthly/quarterly return for outward supplies.</li>
+            <li><span class="font-semibold">GSTR-3B:</span> Monthly summary return of inward and outward supplies.</li>
+            <li><span class="font-semibold">GSTR-9:</span> Annual return for regular taxpayers.</li>
+            <li><span class="font-semibold">GSTR-4:</span> Return for composition scheme taxpayers.</li>
+            <li><span class="font-semibold">GSTR-6:</span> Return for input service distributors.</li>
+            <li><span class="font-semibold">GSTR-7:</span> Return for TDS (Tax Deducted at Source) under GST.</li>
+            <li><span class="font-semibold">GSTR-9C- </span>GST reconciliation statement filed by applicable taxpayers</li>
+            <li><span class="font-semibold">GSTR-8-</span> e-commerce operators who are required to deduct TCS under GST</li>
 
-                </p>
+        </ul>
+    </li>
+    <li>-	GST Payment Services</li>
+    <li>-	GST Consultancy</li>
+    <li>-	GST Reconciliation Services</li>
+    <li>-	GST Refund</li>
+    <li>-	GST for E- Commerce Business</li>
+    <li>-	E-Invoicing under GST</li>
+    <li>-	GST Litigation & Proceedings</li>
+    <li>-	GST on RCM (Reverse Charge Mechanism)</li>
+
+
+</ul>
+
+                </div>
 
                 <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
                 </a>
@@ -96,51 +135,70 @@
             <div class="md:col-span-2 flex flex-col gap-4">
                 <div class=" border-y py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>What is the average time taken to register a private limited company? </h5>
+                        <h5>1.	Why was GST introduced? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The registration part is of 10–15 days; after that simply place and receive orders.</p>
+                    <p class="text-gray-500 text-sm hidden ans">
+                        GST was introduced to simplify the indirect tax system and remove the cascading effect of taxes, and create a unified market by replacing multiple state and central taxes.
+                    </p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Can a private limited company be registered with One Director? </h5>
+                        <h5>2.	Who is required to register for GST? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">You cannot; you must have at least two directors to register a private limited company.</p>
+                    <p class="text-gray-500 text-sm hidden ans">Businesses with an annual turnover exceeding the threshold limit (like <span class="font-semibold">₹20 lakh</span> for services and <span class="font-semibold">₹40 lakh</span> for goods in most states) must register for GST. Additionally, e-commerce operators and certain categories of taxpayers are required to register, regardless of turnover.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>What is the minimum capital requirement to register a private limited company? </h5>
+                        <h5>3.	Is GST applicable to all businesses? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">No, there is no minimum capital required. You can even begin with a humble sum of money.</p>
+                    <p class="text-gray-500 text-sm hidden ans">GST is applicable to manufacturers, traders, service providers, freelancers, and e-commerce operators. However, small businesses with turnover below the prescribed limit may opt for the <span class="font-semibold">Composition Scheme</span> to reduce compliance burdens.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Do I need an actual office address to register? </h5>
+                        <h5>4.	How do I register for GST?</h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, you may need to have a registered office address as an individual or facility. It could be a residential or commercial property.</p>
+                    <p class="text-gray-500 text-sm hidden ans">GST registration can be done online via the <span class="font-semibold">GST portal</span> (<a href="www.gst.gov.in" target="_blank">www.gst.gov.in</a> ). Businesses must submit details like PAN, business address, bank account, and business constitution to complete the registration.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Whether overseas directors can be appointed in a private limited company? </h5>
+                        <h5>5.	Is GST registration mandatory for all businesses? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
+                    <p class="text-gray-500 text-sm hidden ans">No, GST registration is only mandatory for businesses whose annual turnover exceeds the prescribed threshold limit. However, for certain categories (like e-commerce operators), registration is compulsory regardless of turnover.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Should I attend the registration face to face?</h5>
+                        <h5>6.	What is the due date for filing GST returns?</h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
+
+                    <ul class="ml-4 list-disc text-gray-500 text-sm hidden ans">
+
+                        <li><span class="font-semibold">GSTR-1:</span> 11th of the following month (monthly) or 13th of the next month (quarterly filers)</li>
+                        <li><span class="font-semibold">GSTR-3B:</span> 20th of the following month for monthly filers </li>
+                        <li><span class="font-semibold">GSTR-9:</span> 31st December of the following financial year</li>
+                    </ul>
+
+                </div>
+                <div class=" border-b py-4 faq-item">
+                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
+                        <h5>7.	Can I revise a GST return after submission?</h5>
+                        <span class="open">+</span>
+                        <span class="close hidden">-</span>
+                    </div>
+                    <p class="text-gray-500 text-sm hidden ans">
+                        No, once a GST return is submitted, it cannot be revised. However, any mistakes can be corrected in the subsequent return.
+                    </p>
                 </div>
             </div>
         </section>

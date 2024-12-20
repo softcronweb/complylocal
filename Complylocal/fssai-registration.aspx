@@ -10,11 +10,11 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">FSSAI Registration</h2>
-            <ul class="list-disc text-2xl  font-semibold ml-8 text-[#991c20]">
-                <li>FSSAI Basic Registration</li>
-                <li>FSSAI State Registration</li>
-                <li>FSSAI Central Registration </li>
-            </ul>
+            <div class="list-disc text-xl  font-semibold ml-8 text-[#991c20]">
+                <p class="font-semibold">
+                    The Food Safety and Standards Authority of India (FSSAI) regulates food safety standards in India. Any food-related business, must obtain an FSSAI Registration or License to operate legally. This license ensures that food products are safe for human consumption, which increases brand credibility and customer trust.
+                </p>
+            </div>
         </div>
 
         <!-- Image -->
@@ -32,18 +32,63 @@
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
-                    <h3 class="text-3xl font-semibold">FSSAI Registration services
+                    <h3 class="text-3xl font-semibold">Types of FSSAI Registration
                     </h3>
                 </div>
                 <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
                     <p>
-                        We offers FSSAI Registration Services or you can say Food License services , FSSAI is responsible for protecting and promoting public health through the regulation and supervision of food safety. Food license or FSSAI Registration is mandatory before starting any food business . Maintaining the food quality levels in order to ensure safety and providing satisfaction to every consumer is the aim of every Food Business Operator. Food safety and standards authority of India (FSSAI Registration Services ) plays an important role in formulating the controlling procedures. It implements the measures in order to eliminate the toxic and the hazardous elements. The result is that every consumer receives an equal level of assurance of food safety. All the manufacturers, traders, restaurants who are involved in food business must obtain a 14-digit registration or a license number which must be printed on food packages. This step is taken by government’s food licensing & registration system to ensure that food products undergo certain quality checks, thereby reducing the instances of adulteration, substandard products and improve accountability of manufacturers by issuing food service license. FSSAI Online Registration is done through GetMyCA (FSSAI license consultants). FSSAI online registration will be done by us for Basic, State and Central level.
-
-
+                        There are 3 types of FSSAI licenses based on the scale and nature of the business:
                     </p>
-                    <p>
-                        Based on Annual Turnover a FBO has to either apply for simple FSSAI Online Registration in FORM A with FSSAI or apply for a FSSAI Licensing in FORM B.
-                    </p>
+                    <h3 class="font-semibold text-black text-xl">1.	Basic FSSAI Registration</h3>
+                    <ul class="list-disc font-semibold ml-8">
+                        <li>For small businesses with an annual turnover of up to ₹12 Lakhs.
+                        </li>
+                        <li>This applies to small food vendors, hawkers, petty retailers, and cottage industries.
+                        </li>
+                    </ul>
+
+                    <h3 class="font-semibold text-black text-xl">2.	State FSSAI License</h3>
+                    <ul class="list-disc font-semibold ml-8">
+                        <li>For medium-sized food businesses with an annual turnover of ₹12 Lakhs to ₹20 Crores.
+                        </li>
+                        <li>This applies to restaurants, medium-scale food manufacturers, distributors, and food suppliers.
+                        </li>
+                    </ul>
+
+                    <h3 class="font-semibold text-black text-xl">3.	Central FSSAI License</h3>
+                    <ul class="list-disc font-semibold ml-8">
+                        <li>For large businesses with an annual turnover of above ₹20 Crores.
+                        </li>
+                        <li>Also required for importers, exporters, e-commerce platforms, and food businesses operating in multiple states.
+                        </li>
+                    </ul>
+
+                    <h3 class="font-semibold text-black text-xl">Benefits of FSSAI Registration</h3>
+
+                    <ol>
+                        <li>
+                            <span class="font-semibold">Legal Compliance: </span>Operating without an FSSAI license can result in hefty fines, penalties, and closure of the business.
+                        </li>
+                        <li>
+                            <span class="font-semibold">Build Customer Trust:  </span>The FSSAI logo on products reassures customers that the food is safe to consume.
+                        </li>
+                        <li>
+                            <span class="font-semibold">Market Expansion:  </span>An FSSAI license allows you to expand your food business nationwide and beyond.
+                        </li>
+                        <li>
+                            <span class="font-semibold">Use of FSSAI Logo:  </span>You can display the FSSAI logo on food packages, menus, and advertising materials, enhancing brand trust
+                        </li>
+                        <li>
+                            <span class="font-semibold">Business Credibility:  </span>It demonstrates that your business follows the necessary food safety standards.
+                        </li>
+                        <li>
+                            <span class="font-semibold">Legal Protection:   </span>In case of false complaints or legal issues, having an FSSAI license strengthens your legal position.
+                        </li>
+
+                        <li>
+                            <span class="font-semibold">Government Support  </span>Many government initiatives and subsidies are available only to FSSAI-registered businesses.
+                        </li>
+                    </ol>
 
 
                     <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
@@ -61,11 +106,33 @@
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">FSSAI Registration
+                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Documents Required for FSSAI Registration
                 </h2>
                 <p class="text-gray-600 text-lg mb-6">
-                    Welcome to ComplyLocal: Your seamless partner for FSSAI registration! We know how important an FSSAI registration is to secure food safety and regulatory compliance. ComplyLocal makes it easy to get registered with FSSAI by taking you through their simple and quick process. We make sure that the entire food business registration, from documentation to approval, is simplified on our platform in such a way there is no legal requirement whatsoever that your restaurant does not meet. So, you can rest easy knowing that your FSSAI registration is in good hands with ComplyLocal. Secure your food business with the peace of mind that it is safe and within the rules. Opt for ComplyLocal and register yourself effortlessly with the FSSAI so that you can cook across world horizons without any second thoughts.
+                    The specific documents required for <span class="font-semibold">FSSAI Registration</span> vary based on the type of license (Basic, State, or Central). Here’s a list of the general documents needed:
                 </p>
+
+                <h3 class="font-semibold text-xl ">For Basic FSSAI Registration</h3>
+                <ul class="ml-8 font-semibold my-4 list-disc text-gray-600">
+                    <li>Passport-size Photograph of the Owner/Proprietor</li>
+                    <li>Aadhaar Card, PAN Card, or Voter ID of the Proprietor</li>
+                    <li>Business Address Proof (Utility Bill, Lease Agreement, etc.)</li>
+                    <li>Nature of the Business (Manufacturer, Retailer, Distributor, etc.)</li>
+                </ul>
+
+
+                <h3 class="font-semibold text-xl ">For State/Central FSSAI License</h3>
+                <ul class="ml-8 font-semibold my-4 list-disc text-gray-600">
+                    <li>Passport-size Photograph of the Applicant/Owner</li>
+                    <li>PAN Card and Aadhaar Card of the Owner/Authorized Signatory</li>
+                    <li>Certificate of Incorporation (for companies, LLPs, etc.)</li>
+                    <li>Food Safety Management Plan (FSMS) Certificate</li>
+                    <li>Proof of Business Premises (Rent Agreement, Property Tax Bill, Utility Bill, etc.)</li>
+                    <li>List of Food Products or Food Categories to be manufactured/sold</li>
+                    <li>Water Test Report (for businesses in the beverage, water, or food manufacturing sectors)</li>
+                    <li>NOC from Local Authorities (if applicable)</li>
+                </ul>
+
 
                 <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
                 </a>
@@ -93,52 +160,51 @@
             <div class="md:col-span-2 flex flex-col gap-4">
                 <div class=" border-y py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>What is the average time taken to register a private limited company? </h5>
+                        <h5>1. Is FSSAI registration mandatory for all food businesses? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The registration part is of 10–15 days; after that simply place and receive orders.</p>
+                    <p class="text-gray-500 text-sm hidden ans">Yes.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Can a private limited company be registered with One Director? </h5>
+                        <h5>2. How long is an FSSAI license valid? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">You cannot; you must have at least two directors to register a private limited company.</p>
+                    <p class="text-gray-500 text-sm hidden ans">1 to 5 years, depending on the duration chosen by the applicant. </p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>What is the minimum capital requirement to register a private limited company? </h5>
+                        <h5>3. Can I apply for FSSAI registration online? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">No, there is no minimum capital required. You can even begin with a humble sum of money.</p>
+                    <p class="text-gray-500 text-sm hidden ans">Yes.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Do I need an actual office address to register? </h5>
+                        <h5>4. What is the penalty for operating without an FSSAI license? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, you may need to have a registered office address as an individual or facility. It could be a residential or commercial property.</p>
+                    <p class="text-gray-500 text-sm hidden ans">Operating without an FSSAI license can result in a fine of up to ₹5 Lakhs or imprisonment, depending on the nature of the violation.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Whether overseas directors can be appointed in a private limited company? </h5>
+                        <h5>5. What is the time frame for FSSAI Registration? </h5>
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
-                </div>
-                <div class=" border-b py-4 faq-item">
-                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Should I attend the registration face to face?</h5>
-                        <span class="open">+</span>
-                        <span class="close hidden">-</span>
+                    <div class="text-gray-500 text-sm hidden ans">
+                        <ul class="list-disc ml-8">
+                            <li>Basic FSSAI Registration: 7-10 working days.</li>
+                            <li>State FSSAI License: 15-30 working days.</li>
+                            <li>Central FSSAI License: 30-60 working days</li>
+                        </ul>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
                 </div>
+
             </div>
         </section>
     </div>

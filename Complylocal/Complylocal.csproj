@@ -111,6 +111,7 @@
     <Content Include="authorized-capital-change.aspx" />
     <Content Include="business-name-change.aspx" />
     <Content Include="components.aspx" />
+    <Content Include="designs.aspx" />
     <Content Include="digital-signature-registration.aspx" />
     <Content Include="e-commerce-gst-return.aspx" />
     <Content Include="e-commerce-gst.aspx" />
@@ -180,6 +181,13 @@
     </Compile>
     <Compile Include="components.aspx.designer.cs">
       <DependentUpon>components.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="designs.aspx.cs">
+      <DependentUpon>designs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="designs.aspx.designer.cs">
+      <DependentUpon>designs.aspx</DependentUpon>
     </Compile>
     <Compile Include="digital-signature-registration.aspx.cs">
       <DependentUpon>digital-signature-registration.aspx</DependentUpon>
