@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">Trademark Registration</h2>
-            <div class=" text-lg font-semibold text-[#991c20]">
+            <div class=" text-lg font-semibold ">
                 <h3 class="text-[#1c5a88] text-2xl">Protect Your Brand Identity with Trademark Registration</h3>
                 <p>
                     A Trademark is a unique symbol, logo, word, name, or design that identifies and distinguishes your products or services from those of competitors. It serves as a valuable intellectual property asset for your business.
@@ -41,21 +41,77 @@
             </div>
         </div>
     </section>
-    <%--about--%>
-    <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
-            <!--- heading -->
-            <div class="grid md:grid-cols-3 gap-8">
-                <div>
-                    <h3 class="text-3xl font-semibold">Timeframe for Trademark Registration
-                    </h3>
-                </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
+
+
+
+
+    <%-- why choose us --%>
+    <div class="bg-[#faf8f7]">
+        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+            <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
+                <h3 class="text-4xl font-semibold">Why Choose Us for Trademark Registration?</h3>
+
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Comprehensive Search
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    We conduct a detailed trademark search to ensure your brand name/logo is unique.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Quick Filing Process
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                    We handle the entire process from filing to certification, ensuring fast application submission.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Expert Legal Assistance
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">Our legal experts guide you through objections, hearings, and opposition proceedings.</p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Transparent Pricing
+
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    No hidden charges — clear pricing for trademark filing and support.
+                </p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Ongoing Support
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    We provide full support until you receive your trademark registration certificate.
+                </p>
+            </div>
+
+        </section>
+    </div>
+
+
+
+   
+
+    <!-- about -->
+    <div class="bg-[#d8e8e3]">
+        <section
+            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+
+
+            <!-- left Content -->
+
+            <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
+                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Timeframe for Trademark Registration
+                </h2>
+                <div class="text-gray-900 text-lg mb-6">
                     <p>
                         The process typically takes 6-12 months to complete. However, you can start using the <sup>TM</sup> symbol immediately after filing the trademark application. Once the trademark is registered, you can use the (Registered) symbol.
                     </p>
-
-                    <h3 class="font-semibold text-2xl text-black">Trademark Symbols </h3>
+                    <h3 class="font-semibold text-2xl text-black my-4">Trademark Symbols </h3>
                     <ul class="ml-8 list-disc">
                         <li>
                             <span class="font-semibold">(TM Symbol):</span> Used to signify that the brand or logo is in the process of being trademarked.
@@ -65,43 +121,6 @@
                         </li>
                     </ul>
 
-
-
-                    <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- about -->
-    <div class="bg-[#E5F1E3]">
-        <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
-
-
-            <!-- left Content -->
-
-            <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Why Choose Us for Trademark Registration?
-                </h2>
-                <div class="text-gray-600 text-lg mb-6">
-                    <ul class="ml-8 ">
-                        <li>
-                            <span class="font-semibold">Comprehensive Search:</span> We conduct a detailed trademark search to ensure your brand name/logo is unique.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Quick Filing Process: </span>We handle the entire process from filing to certification, ensuring fast application submission.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Expert Legal Assistance: </span>Our legal experts guide you through objections, hearings, and opposition proceedings.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Transparent Pricing: </span>No hidden charges — clear pricing for trademark filing and support.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Ongoing Support:  </span>We provide full support until you receive your trademark registration certificate.
-                        </li>
-                    </ul>
                 </div>
 
                 <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now

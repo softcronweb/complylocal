@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">Digital Signature Certificate (DSC) Registration Services</h2>
-            <p class="list-disc text-2xl  font-semibold ml-8 text-[#991c20]">
+            <p class="list-disc text-2xl  font-semibold ml-8 ">
                 A Digital Signature Certificate (DSC) is a secure digital key used to verify the identity of the certificate holder. We offer hassle-free DSC registration services to help you obtain your digital signature with ease and efficiency. With increasing digitalization, DSCs are required for a wide range of business, legal, and government processes.
            <br />
                 <br />
@@ -32,14 +32,14 @@
     </section>
     <%--about--%>
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+        <div class="bg-[#E5F1E3] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
                     <h3 class="text-3xl font-semibold">Why Do You Need a Digital Signature Certificate (DSC)?
                     </h3>
                 </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
+                <div class="md:col-span-2 flex flex-col gap-4 text-gray-900">
                     <h3 class="text-xl font-semibold">A Digital Signature Certificate (DSC) is required for:</h3>
                     <ul class="list-disc">
                         <li>Filing Income Tax Returns (ITR) 
@@ -53,14 +53,73 @@
                         <li><span class="font-semibold">E-Invoicing </span>for GST-compliant businesses</li>
                         <li><span class="font-semibold">Signing PDF Documents & Agreements </span>securely and legally.</li>
                     </ul>
-                    <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
+                    <a href="#" class="flex w-fit bg-white text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- about -->
+
+
+    <%-- why choose us --%>
     <div class="bg-[#E5F1E3]">
+        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+            <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
+                <h3 class="text-4xl font-semibold">Benefits of a Digital Signature Certificate (DSC)</h3>
+
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Legal Validity
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Documents signed using a DSC are legally valid under the <span class="font-semibold">Information Technology Act, 2000 </span>, and can be presented as evidence in court.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Data Security
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                    DSCs use encryption technology to protect the data being signed, ensuring the confidentiality and integrity of documents.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Time-Saving
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">Avoid the hassle of printing, signing, and scanning documents. Sign them instantly from anywhere in the world.</p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Cost-Effective
+
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Go paperless and reduce the cost of paper, printing, couriering, and storage.
+                </p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Identity Verification
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Authenticate the identity of the document signer to prevent fraud and impersonation.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Online Transaction Security             </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Secure online transactions and ensure authenticity while interacting with government websites and online portals.
+                </p>
+            </div>
+
+
+
+
+
+        </section>
+    </div>
+
+    <!-- about -->
+    <div class="bg-[#d8e8e3]">
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
@@ -68,34 +127,11 @@
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Benefits of a Digital Signature Certificate (DSC)
-                </h2>
-                <div class="text-gray-600 text-lg mb-6">
-                    <ol>
-                        <li>
-                            <span class="font-semibold">Legal Validity:</span> Documents signed using a DSC are legally valid under the <span class="font-semibold">Information Technology Act, 2000 </span>, and can be presented as evidence in court.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Data Security: </span>DSCs use encryption technology to protect the data being signed, ensuring the confidentiality and integrity of documents.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Time-Saving: </span>Avoid the hassle of printing, signing, and scanning documents. Sign them instantly from anywhere in the world.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Cost-Effective:</span> Go paperless and reduce the cost of paper, printing, couriering, and storage.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Identity Verification:</span> Authenticate the identity of the document signer to prevent fraud and impersonation.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Online Transaction Security:</span> Secure online transactions and ensure authenticity while interacting with government websites and online portals.
-                        </li>
-                    </ol>
-                </div>
 
-                <h2 class="text-xl font-bold text-gray-900 mb-6 leading-tight">Documents Required for DSC Registration</h2>
 
-                <ul class="list-disc ml-8 mb-8">
+                <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">Documents Required for DSC Registration</h2>
+
+                <ul class="list-disc ml-8 mb-8 font-medium">
                     <li>Passport-size Photograph</li>
                     <li>Copy of PAN Card</li>
                     <li>Copy of Aadhaar Card / Voter ID / Passport (as address proofs)</li>
@@ -161,7 +197,7 @@
                     </div>
                     <p class="text-gray-500 text-sm hidden ans">Yes.</p>
                 </div>
-               
+
             </div>
         </section>
     </div>

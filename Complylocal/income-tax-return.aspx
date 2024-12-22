@@ -9,9 +9,9 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h2 class="text-3xl font-bold mb-1 text-[#1c5a88] text-center">INCOME TAX</h2>
-            <h4 class="text-xl font-semibold mb-3 text-[#1c5a88] text-center">Maximize your refund, minimize your stress</h4>
-            <p class="list-disc text-2xl  font-semibold ml-8 text-[#991c20]">
+            <h2 class="text-3xl font-bold mb-1 text-[#1c5a88] ">INCOME TAX</h2>
+            <h4 class="text-xl font-semibold text-[#1c5a88] mb-3">Maximize your refund, minimize your stress</h4>
+            <p class="list-disc text-2xl  font-semibold ml-8 ">
                 Income tax or direct tax is an important part of the Indian tax structure affecting diverse persons including individuals, HUFs, Corporate, partnerships, LLPs, Societies and others.
             </p>
         </div>
@@ -24,39 +24,83 @@
             </div>
         </div>
     </section>
-    <%--about--%>
-    <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
-            <!--- heading -->
-            <div class="grid md:grid-cols-3 gap-8">
-                <div>
-                    <h3 class="text-3xl font-semibold">
-                    Services
-                </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
-                    <ul class="ml-8">
-                        <li>-	Return filing</li>
-                        <li>-	Defective return (Sec 139(9)</li>
-                        <li>-	Updated return (ITR -U)</li>
-                        <li>-	Rectification</li>
-                        <li>-	Projections</li>
-                        <li>-	Tax Advisory</li>
-                        <li>-	Register as Legal heir</li>
-                        <li>-	Response to outstanding demand</li>
-                        <li>-	Response to Income Tax Proceedings</li>
-                        <li>-	Obtaining various certificates from income tax departments</li>
-                        <li>-	Advance tax calculation</li>
 
-                    </ul>
 
-                    <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
-                </div>
+    <%-- why choose us --%>
+    <div class="bg-[#faf8f7]">
+        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+            <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
+                <h3 class="text-5xl font-semibold">Why Choose Us ?</h3>
+
             </div>
-        </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Expertise & Experience
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Seasoned tax advisors with in-depth knowledge of tax laws and regulations.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Personalized Solutions
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                    Tailored tax planning strategies to meet individual and business needs.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Compliance & Accuracy
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">Ensure 100 percent compliance with tax regulations, minimizing audit risks. </p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Tax Savings
+
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Maximize tax benefits and reduce liabilities with proactive planning.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">End-to-End Support
+
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">Assistance with filings, appeals, and audits at every step.</p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Time-Saving & Hassle-Free
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">Leave the paperwork to us while you focus on your business</p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Transparent Pricing
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">No hidden fees, clear and upfront pricing for all services.</p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Technology-Driven Approach
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">Use of modern software for seamless filing and tracking.</p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Dedicated Customer Support
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">Responsive support to resolve your queries quickly.</p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Confidential & Secure
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">Guaranteed confidentiality and data security for all financial information.</p>
+            </div>
+        </section>
     </div>
 
     <!-- about -->
-    <div class="bg-[#E5F1E3]">
+    <div class="bg-[#d8e8e3]">
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
@@ -64,24 +108,23 @@
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Why Choose Us?
+                <h2 class="text-3xl  font-bold text-gray-900  leading-tight">Sevices
                 </h2>
+                <ul class="ml-8 my-6 font-medium list-disc">
+                    <li>Return filing</li>
+                    <li>Defective return (Sec 139(9)</li>
+                    <li>Updated return (ITR -U)</li>
+                    <li>Rectification</li>
+                    <li>Projections</li>
+                    <li>Tax Advisory</li>
+                    <li>Register as Legal heir</li>
+                    <li>Response to outstanding demand</li>
+                    <li>Response to Income Tax Proceedings</li>
+                    <li>Obtaining various certificates from income tax departments</li>
+                    <li>Advance tax calculation</li>
 
-                <ul>
-
-                    <li>-	<span class="font-semibold">Expertise & Experience</span> – Seasoned tax advisors with in-depth knowledge of tax laws and regulations.</li>
-                    <li>-	<span class="font-semibold">Personalized Solutions </span> – Tailored tax planning strategies to meet individual and business needs.</li>
-                    <li>-	<span class="font-semibold">Compliance & Accuracy </span> – Ensure 100 percent compliance with tax regulations, minimizing audit risks.</li>
-                    
-                    <li>-	<span class="font-semibold">Tax Savings </span> – Maximize tax benefits and reduce liabilities with proactive planning.</li>
-                    <li>-	<span class="font-semibold">End-to-End Support </span> – Assistance with filings, appeals, and audits at every step.</li>
-                    <li>-	<span class="font-semibold">Time-Saving & Hassle-Free </span> –Leave the paperwork to us while you focus on your business.</li>
-
-                    <li>-	<span class="font-semibold">Transparent Pricing </span> – No hidden fees, clear and upfront pricing for all services.</li>
-                    <li>-	<span class="font-semibold">Technology-Driven Approach </span> – Use of modern software for seamless filing and tracking. </li>
-                    <li>-	<span class="font-semibold">Dedicated Customer Support </span> – Responsive support to resolve your queries quickly.</li>
-                    <li>-	<span class="font-semibold">Confidential & Secure  </span> – Guaranteed confidentiality and data security for all financial information.</li>
                 </ul>
+
 
                 <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
                 </a>
@@ -96,6 +139,8 @@
             </div>
         </section>
     </div>
+
+
 
     <!-- FAQ -->
     <div class="bg-[#DAEAFA]">
@@ -121,7 +166,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The basic exemption limit depends on the taxpayer’s age and type of filing status. For most individuals, it is <span class="font-semibold"> [mention limit based on the country's laws, e.g., ₹2,50,000 in India].</span> Senior citizens and super senior citizens have higher exemption limits.</p>
+                    <p class="text-gray-500 text-sm hidden ans">The basic exemption limit depends on the taxpayer’s age and type of filing status. For most individuals, it is <span class="font-semibold">[mention limit based on the country's laws, e.g., ₹2,50,000 in India].</span> Senior citizens and super senior citizens have higher exemption limits.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -145,7 +190,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">If you fail to file an ITR on time, you may face<span class="font-semibold"> late fees, penalties, and interest </span> on the outstanding tax liability. Additionally, you may lose the opportunity to carry forward certain losses.</p>
+                    <p class="text-gray-500 text-sm hidden ans">If you fail to file an ITR on time, you may face<span class="font-semibold"> late fees, penalties, and interest </span>on the outstanding tax liability. Additionally, you may lose the opportunity to carry forward certain losses.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">

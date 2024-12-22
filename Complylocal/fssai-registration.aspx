@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">FSSAI Registration</h2>
-            <div class="list-disc text-xl  font-semibold ml-8 text-[#991c20]">
+            <div class="list-disc text-xl  font-semibold ml-8 ">
                 <p class="font-semibold">
                     The Food Safety and Standards Authority of India (FSSAI) regulates food safety standards in India. Any food-related business, must obtain an FSSAI Registration or License to operate legally. This license ensures that food products are safe for human consumption, which increases brand credibility and customer trust.
                 </p>
@@ -35,12 +35,12 @@
                     <h3 class="text-3xl font-semibold">Types of FSSAI Registration
                     </h3>
                 </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
-                    <p>
+                <div class="md:col-span-2 flex flex-col gap-4 text-gray-900">
+                    <p class="text-xl font-semibold">
                         There are 3 types of FSSAI licenses based on the scale and nature of the business:
                     </p>
                     <h3 class="font-semibold text-black text-xl">1.	Basic FSSAI Registration</h3>
-                    <ul class="list-disc font-semibold ml-8">
+                    <ul class="list-disc  ml-8">
                         <li>For small businesses with an annual turnover of up to ₹12 Lakhs.
                         </li>
                         <li>This applies to small food vendors, hawkers, petty retailers, and cottage industries.
@@ -48,7 +48,7 @@
                     </ul>
 
                     <h3 class="font-semibold text-black text-xl">2.	State FSSAI License</h3>
-                    <ul class="list-disc font-semibold ml-8">
+                    <ul class="list-disc  ml-8">
                         <li>For medium-sized food businesses with an annual turnover of ₹12 Lakhs to ₹20 Crores.
                         </li>
                         <li>This applies to restaurants, medium-scale food manufacturers, distributors, and food suppliers.
@@ -56,49 +56,86 @@
                     </ul>
 
                     <h3 class="font-semibold text-black text-xl">3.	Central FSSAI License</h3>
-                    <ul class="list-disc font-semibold ml-8">
+                    <ul class="list-disc ml-8">
                         <li>For large businesses with an annual turnover of above ₹20 Crores.
                         </li>
                         <li>Also required for importers, exporters, e-commerce platforms, and food businesses operating in multiple states.
                         </li>
                     </ul>
 
-                    <h3 class="font-semibold text-black text-xl">Benefits of FSSAI Registration</h3>
+                 
 
-                    <ol>
-                        <li>
-                            <span class="font-semibold">Legal Compliance: </span>Operating without an FSSAI license can result in hefty fines, penalties, and closure of the business.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Build Customer Trust:  </span>The FSSAI logo on products reassures customers that the food is safe to consume.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Market Expansion:  </span>An FSSAI license allows you to expand your food business nationwide and beyond.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Use of FSSAI Logo:  </span>You can display the FSSAI logo on food packages, menus, and advertising materials, enhancing brand trust
-                        </li>
-                        <li>
-                            <span class="font-semibold">Business Credibility:  </span>It demonstrates that your business follows the necessary food safety standards.
-                        </li>
-                        <li>
-                            <span class="font-semibold">Legal Protection:   </span>In case of false complaints or legal issues, having an FSSAI license strengthens your legal position.
-                        </li>
-
-                        <li>
-                            <span class="font-semibold">Government Support  </span>Many government initiatives and subsidies are available only to FSSAI-registered businesses.
-                        </li>
-                    </ol>
-
-
-                    <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
+           
                 </div>
             </div>
         </div>
     </div>
 
+
+     <%-- why choose us --%>
+ <div class="bg-[#E5F1E3]">
+     <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+         <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
+             <h3 class="text-4xl font-semibold">Benefits of FSSAI Registration</h3>
+
+         </div>
+         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+             <h4 class="text-2xl font-semibold ">Legal Compliance
+             </h4>
+             <p class="text-gray-500 text-lg pl-4 mt-4">
+              Operating without an FSSAI license can result in hefty fines, penalties, and closure of the business.
+             </p>
+         </div>
+         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+             <h4 class="text-2xl font-semibold ">Build Customer Trust
+             </h4>
+             <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                 The FSSAI logo on products reassures customers that the food is safe to consume.
+             </p>
+         </div>
+         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+             <h4 class="text-2xl font-semibold ">Market Expansion
+             </h4>
+             <p class="text-gray-500 text-lg pl-4 mt-4">An FSSAI license allows you to expand your food business nationwide and beyond.</p>
+         </div>
+
+         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+             <h4 class="text-2xl font-semibold ">Use of FSSAI Logo
+
+             </h4>
+             <p class="text-gray-500 text-lg pl-4 mt-4">
+                 You can display the FSSAI logo on food packages, menus, and advertising materials, enhancing brand trust
+             </p>
+         </div>
+
+         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+             <h4 class="text-2xl font-semibold ">Business Credibility
+             </h4>
+             <p class="text-gray-500 text-lg pl-4 mt-4">
+                 It demonstrates that your business follows the necessary food safety standards.
+             </p>
+         </div>
+         
+         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+             <h4 class="text-2xl font-semibold ">Legal Protection
+             </h4>
+             <p class="text-gray-500 text-lg pl-4 mt-4">
+                In case of false complaints or legal issues, having an FSSAI license strengthens your legal position.
+             </p>
+         </div> 
+         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+             <h4 class="text-2xl font-semibold ">Government Support  
+             </h4>
+             <p class="text-gray-500 text-lg pl-4 mt-4">
+                Many government initiatives and subsidies are available only to FSSAI-registered businesses.
+             </p>
+         </div>
+
+     </section>
+ </div>
+
     <!-- about -->
-    <div class="bg-[#E5F1E3]">
+    <div class="bg-[#d8e8e3]">
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 

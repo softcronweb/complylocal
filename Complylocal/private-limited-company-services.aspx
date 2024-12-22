@@ -13,7 +13,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88]">Private Limited Company</h2>
-            <p class="list-disc text-2xl text-[#991c20] font-semibold ml-8">
+            <p class="text-2xl font-semibold ml-8">
                 A Private Limited Company (PLC) is a type of business entity privately held by a group of shareholders. It is one of the most popular and trusted forms of business structure in India due to its limited liability protection, separate legal identity, and ease of fundraising.
                 <br />
                 <br />
@@ -33,14 +33,14 @@
     </section>
     <%--about--%>
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+        <div class="bg-[#E5F1E3] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
                     <h3 class="text-3xl font-semibold">Why Register as a Private Limited Company?
                     </h3>
                 </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
+                <div class="md:col-span-2 flex flex-col gap-4 text-gray-900">
                   
                     <ol class="ml-8 list-decimal ">
                         <li>
@@ -74,7 +74,7 @@
                     </ol>
       
                   
-                    <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
+                    <a href="#" class="flex w-fit bg-white text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
                 </div>
             </div>
         </div>

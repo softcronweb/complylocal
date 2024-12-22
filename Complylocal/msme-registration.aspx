@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">MSME registration</h2>
-            <p class="list-disc text-xl  font-semibold ml-8 text-[#991c20]">
+            <p class="list-disc text-xl  font-semibold ml-8 ">
                 The Micro, Small, and Medium Enterprises (MSME) sector is one of the most vital parts of India's economy. To avail of these benefits, businesses must obtain an MSME Registration (also known as Udyam Registration).
                 <br />
                 <br />
@@ -30,14 +30,14 @@
     </section>
     <%--about--%>
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+        <div class="bg-[#E5F1E3]  px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
                     <h3 class="text-3xl font-semibold">Who Needs MSME Registration?
                     </h3>
                 </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
+                <div class="md:col-span-2 flex flex-col gap-4 text-gray-900">
 
                     <h4 class="font-semibold">Any business that meets the criteria defined for micro, small, or medium enterprises can apply for MSME registration. This includes:
                     </h4>
@@ -79,7 +79,7 @@
 
 
 
-                    <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
+
                 </div>
             </div>
         </div>
@@ -92,23 +92,28 @@
 
 
             <!-- left Content -->
+             <div class=" lg:w-1/2 flex justify-center items-center">
+     <div class="relative">
+         <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Benefits of MSME Registration
+         </h2>
+         <p class="text-gray-900 text-lg mb-6">
+             Registering as an MSME brings a range of benefits and support from the government. Here’s how it can help your business:
+         </p>
+         <ol class="list-decimal text-black font-semibold ml-8 mb-6">
+             <li>Access to Collateral-Free Loans</li>
+             <li>Subsidies & Government Support:</li>
+             <li>Lower Interest Rates on Loans:</li>
+             <li>Protection Against Delayed Payments:</li>
+             <li>Concession on Electricity Bills:</li>
+             <li>Eligibility for Government Tenders:</li>
+             <li>Tax Benefits: </li>
+             <li>Easier Access to Credit & Funding:</li>
+         </ol>
 
-            <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Benefits of MSME Registration
-                </h2>
-                <p class="text-gray-600 text-lg mb-6">
-                    Registering as an MSME brings a range of benefits and support from the government. Here’s how it can help your business:
-                </p>
-                <ol class="list-decimal text-black font-semibold ml-8 mb-6">
-                    <li>Access to Collateral-Free Loans</li>
-                    <li>Subsidies & Government Support:</li>
-                    <li>Lower Interest Rates on Loans:</li>
-                    <li>Protection Against Delayed Payments:</li>
-                    <li>Concession on Electricity Bills:</li>
-                    <li>Eligibility for Government Tenders:</li>
-                    <li>Tax Benefits: </li>
-                    <li>Easier Access to Credit & Funding:</li>
-                </ol>
+     </div>
+ </div>
+
+            <div class="flex flex-col lg:w-1/2 items-start">
 
                 <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Documents Required for MSME Registration
                 </h2>
@@ -127,14 +132,8 @@
                 <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
                 </a>
             </div>
-            <!-- Image -->
-            <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
-                <div class="relative">
-                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                    <!-- Decorative Element -->
-                    <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
-                </div>
-            </div>
+           
+           
         </section>
     </div>
 

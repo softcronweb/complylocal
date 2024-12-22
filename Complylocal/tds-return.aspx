@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">TDS Return</h2>
-            <div class="list-disc text-xl  font-semibold ml-8 text-[#991c20]">
+            <div class="list-disc text-xl  font-semibold ml-8 ">
                 <p class="text-[#1c5a88] text-2xl">Ensure timely compliance and maximize savings with our expert TDS advisory and filing services.</p>
                 <p>Tax Deducted at Source (TDS) is a system where tax is deducted directly from payments like salaries, interest, rent, and professional fees, ensuring timely collection of taxes at the source of income.</p>
                 <p>Tax Collected at Source (TCS) is a tax collected by a seller or vendor from the buyer at the time of sale of specified goods or services, which is then deposited with the government as per the applicable rates under the Income Tax Act.</p>
@@ -27,57 +27,97 @@
             </div>
         </div>
     </section>
-    <%--about--%>
-    <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
-            <!--- heading -->
-            <div class="grid md:grid-cols-3 gap-8">
-                <div>
-                    <h3 class="text-3xl font-semibold">Services
-                    </h3>
-                </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
-                    <ul>
-                        <li>-	TDS calculation and compliances
-                        </li>
-                        <li>-	TDS returns 
-                             <ul class="ml-8">
-                                 <li>Form 26Q- For non- salary TDS</li>
-                                 <li>Form 24Q- For salary related TDS</li>
-                                 <li>Form 27Q- For TDS on payment to non-residents</li>
-                                 <li>Form 27EQ- For TCS</li>
-                             </ul>
-                        </li>
-                        <li>-	TDS payment</li>
-                        <li>-	Tan application</li>
-                        <li>-	Tan registration at Traces & Income Tax Portal</li>
-                        <li>-	TDS Certificate Services
-                            <ul class="ml-8">
-                                <li>Form 16: A certificate issued by an employer to an employee showing the total TDS deducted from their salary during the year.
-                                </li>
-                                <li>Form 16A: Issued for non-salary payments showing the TDS deducted.
-                                </li>
-                                <li>Form 16B: For TDS related to property transactions.
-                                </li>
-                                <li>Form 16C: For TDS on rent payments.Form 16B: For TDS related to property transactions.
-                                </li>
-                                <li>Form 27D: TDS Certificate for Tax Collected at Source (TCS).
-                                </li>
-                            </ul>
-                        </li>
-                        <li>-	Form 26QB (TDs on sale of property)</li>
-                        <li>-	TDS Refund Services</li>
-                        <li>-	TDS Reconciliation</li>
-                    </ul>
 
-                    <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
-                </div>
+
+
+    <%-- why choose us --%>
+    <div class="bg-[#faf8f7]">
+        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+            <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
+                <h3 class="text-4xl font-semibold">Why Choose Us ?</h3>
+
             </div>
-        </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Expert Guidance
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Accurate TDS calculation, deduction, and timely deposit. 
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Compliance Assurance
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                    Stay 100% compliant with TDS laws and avoid penalties.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">End-to-End Support
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">From deduction to filing TDS returns, we handle it all.</p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Error-Free Filing
+
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Minimize errors with our advanced verification process.
+                </p>
+            </div>
+
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Timely Reminders 
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Never miss a deadline with our proactive alerts and notifications.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">PAN & TAN Assistance 
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Support with PAN, TAN registration, and corrections.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Dispute Resolution 
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Quick resolution of TDS notices and mismatch issues.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Affordable Pricing  
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Transparent pricing with no hidden charges.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Technology-Driven Approach 
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Use of smart tools for accuracy and speed.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Dedicated Customer Support
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Round-the-clock assistance from TDS experts.
+                </p>
+            </div>
+
+
+
+        </section>
     </div>
 
+
+
     <!-- about -->
-    <div class="bg-[#E5F1E3]">
+    <div class="bg-[#d8e8e3]">
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
@@ -85,20 +125,40 @@
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Why choose us 
+                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Services
                 </h2>
-                <div class="text-gray-600 text-lg mb-6">
+                <div class="text-gray-900 font-medium mb-6">
                     <ul>
-                        <li><span class="font-semibold">-	 Expert Guidance </span>– Accurate TDS calculation, deduction, and timely deposit.</li>
-                        <li><span class="font-semibold">-	Compliance Assurance  </span>– Stay 100% compliant with TDS laws and avoid penalties.</li>
-                        <li><span class="font-semibold">-	End-to-End Support </span>– From deduction to filing TDS returns, we handle it all.</li>
-                        <li><span class="font-semibold">-	Error-Free Filing  </span>– Minimize errors with our advanced verification process.</li>
-                        <li><span class="font-semibold">-	Timely Reminders  </span>– Never miss a deadline with our proactive alerts and notifications.</li>
-                        <li><span class="font-semibold">-	PAN & TAN Assistance  </span>– Support with PAN, TAN registration, and corrections.</li>
-                        <li><span class="font-semibold">-	Dispute Resolution  </span>– Quick resolution of TDS notices and mismatch issues.</li>
-                        <li><span class="font-semibold">-	Affordable Pricing  </span>– Transparent pricing with no hidden charges.</li>
-                        <li><span class="font-semibold">-	Technology-Driven Approach   </span>– Use of smart tools for accuracy and speed.</li>
-                        <li><span class="font-semibold">-	-	Dedicated Customer Support   </span>– Round-the-clock assistance from TDS experts.</li>
+                        <li>-	TDS calculation and compliances
+                        </li>
+                        <li>-	TDS returns 
+           <ul class="ml-8">
+               <li>Form 26Q- For non- salary TDS</li>
+               <li>Form 24Q- For salary related TDS</li>
+               <li>Form 27Q- For TDS on payment to non-residents</li>
+               <li>Form 27EQ- For TCS</li>
+           </ul>
+                        </li>
+                        <li>-	TDS payment</li>
+                        <li>-	Tan application</li>
+                        <li>-	Tan registration at Traces & Income Tax Portal</li>
+                        <li>-	TDS Certificate Services
+          <ul class="ml-8">
+              <li>Form 16: A certificate issued by an employer to an employee showing the total TDS deducted from their salary during the year.
+              </li>
+              <li>Form 16A: Issued for non-salary payments showing the TDS deducted.
+              </li>
+              <li>Form 16B: For TDS related to property transactions.
+              </li>
+              <li>Form 16C: For TDS on rent payments.Form 16B: For TDS related to property transactions.
+              </li>
+              <li>Form 27D: TDS Certificate for Tax Collected at Source (TCS).
+              </li>
+          </ul>
+                        </li>
+                        <li>-	Form 26QB (TDs on sale of property)</li>
+                        <li>-	TDS Refund Services</li>
+                        <li>-	TDS Reconciliation</li>
                     </ul>
                 </div>
 
@@ -163,7 +223,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">If the recipient does not provide a valid <span class="font-semibold"> PAN (Permanent Account Number)</span>, the TDS is deducted at a higher rate (usually 20%) as per Section 206AA of the Income Tax Act.</p>
+                    <p class="text-gray-500 text-sm hidden ans">If the recipient does not provide a valid <span class="font-semibold">PAN (Permanent Account Number)</span>, the TDS is deducted at a higher rate (usually 20%) as per Section 206AA of the Income Tax Act.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">

@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2 text-center lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">GST (GOODS & SERVICES TAX)</h2>
-            <h4 class="text-2xl   font-semibold text-[#991c20]">Goods and Services Tax (GST) is a unified, destination-based indirect tax levied on the supply of goods and services, aimed at replacing multiple indirect taxes and promoting a seamless tax structure across the country
+            <h4 class="text-2xl font-semibold ">Goods and Services Tax (GST) is a unified, destination-based indirect tax levied on the supply of goods and services, aimed at replacing multiple indirect taxes and promoting a seamless tax structure across the country
             </h4>
         </div>
 
@@ -78,7 +78,7 @@
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
                 <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">GST (GOODS & SERVICES TAX)
                 </h2>
-                <div class="text-gray-600 text-lg mb-6">
+                <div class="text-gray-900 text-lg mb-6">
                   <ul class="">
     <li>-	GST Registration</li>
     <li>-	GST Return Filing</li>
