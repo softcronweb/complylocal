@@ -164,13 +164,14 @@
              </a>
          </div>
          <!-- Image -->
-         <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
-             <div class="relative">
-                 <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                 <!-- Decorative Element -->
-                 <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
-             </div>
-         </div>
+        <div class="lg:order-1 lg:w-1/2 flex justify-center items-center lg:grid lg:grid-cols-2 lg:grid-rows-2 lg:gap-4">
+    <div class="relative lg:col-start-1 lg:row-start-1 lg:col-end-2 lg:row-end-2">
+        <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl max-w-[250px] h-full object-cover">
+    </div>
+    <div class="relative hidden lg:inline-block lg:col-start-2 lg:row-start-2 lg:col-end-3 lg:row-end-3">
+        <img src="assets/images/aboutusimg3.png" alt="Team Working" class="rounded-xl max-w-[250px] h-full object-cover">
+    </div>
+</div>
      </section>
  </div>
 
