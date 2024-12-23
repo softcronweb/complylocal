@@ -9,10 +9,10 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">Digital Signature Certificate (DSC) Registration Services</h2>
-            <p class="ml-8 ">
+            <h2 class="text-3xl font-bold mb-3 text-[#1c5a88]">Digital Signature Certificate (DSC) Registration Services</h2>
+            <p class="font-medium">
                 A Digital Signature Certificate (DSC) is a secure digital key used to verify the identity of the certificate holder. We offer hassle-free DSC registration services to help you obtain your digital signature with ease and efficiency. With increasing digitalization, DSCs are required for a wide range of business, legal, and government processes.
-           <br />
+                <br />
                 <br />
                 Having a DSC ensures legally valid, secure, and paperless document signing, saving both time and resources.
    
@@ -30,6 +30,7 @@
             </div>
         </div>
     </section>
+
     <%--about--%>
     <div class="bg-[#fafafa] ">
         <div class="bg-[#E5F1E3] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
@@ -40,8 +41,8 @@
                     </h3>
                 </div>
                 <div class="md:col-span-2 flex flex-col gap-4 text-gray-900">
-                    <h3 class="text-xl font-semibold">A Digital Signature Certificate (DSC) is required for:</h3>
-                    <ul class="list-disc">
+                    <h3 class="text-xl font-semibold">A Digital Signature Certificate (DSC) is required for :</h3>
+                    <ul class="list-disc ml-4">
                         <li>Filing Income Tax Returns (ITR) 
                         </li>
                         <li><span class="font-semibold">E-Tendering & E-Procurement</span> to participate in government tenders.
@@ -69,44 +70,50 @@
 
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Legal Validity
+                <h4 class="text-xl font-semibold ">
+                    Legal Validity
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <p class="text-gray-500 mt-4">
                     Documents signed using a DSC are legally valid under the <span class="font-semibold">Information Technology Act, 2000 </span>, and can be presented as evidence in court.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Data Security
+                <h4 class="text-xl font-semibold ">
+                    Data Security
                 </h4>
-                <p class="text-gray-500 text-lg mt-4 bg-white">
+                <p class="text-gray-500 mt-4">
                     DSCs use encryption technology to protect the data being signed, ensuring the confidentiality and integrity of documents.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Time-Saving
+                <h4 class="text-xl font-semibold ">
+                    Time-Saving
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">Avoid the hassle of printing, signing, and scanning documents. Sign them instantly from anywhere in the world.</p>
+                <p class="text-gray-500 mt-4">Avoid the hassle of printing, signing, and scanning documents. Sign them instantly from anywhere in the world.</p>
             </div>
 
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Cost-Effective
-
+                <h4 class="text-xl font-semibold ">
+                    Cost-Effective
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <p class="text-gray-500 mt-4">
                     Go paperless and reduce the cost of paper, printing, couriering, and storage.
                 </p>
             </div>
 
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Identity Verification
+                <h4 class="text-xl font-semibold ">
+                    Identity Verification
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <p class="text-gray-500 mt-4">
                     Authenticate the identity of the document signer to prevent fraud and impersonation.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Online Transaction Security             </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <h4 class="text-xl font-semibold ">
+                    Online Transaction Security
+                </h4>
+                <p class="text-gray-500 mt-4">
                     Secure online transactions and ensure authenticity while interacting with government websites and online portals.
                 </p>
             </div>
@@ -124,9 +131,9 @@
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
 
 
-                <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">Documents Required for DSC Registration</h2>
+                <h2 class="text-3xl font-semibold text-gray-900 mb-6 leading-tight">Documents Required for DSC Registration</h2>
 
-                <ul class="list-disc ml-8 mb-8 font-medium">
+                <ul class="list-disc ml-4 mb-8 font-medium">
                     <li>Passport-size Photograph</li>
                     <li>Copy of PAN Card</li>
                     <li>Copy of Aadhaar Card / Voter ID / Passport (as address proofs)</li>
@@ -154,7 +161,7 @@
     <div class="bg-[#DAEAFA]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
-                <h3 class="text-3xl font-bold">frequently asked questions</h3>
+                <h3 class="text-3xl font-semibold">frequently asked questions</h3>
                 <p class="text-gray-500 mt-4">
                     Frequently asked question (FAQ) pages to find answars.
                 </p>
@@ -166,7 +173,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">It takes 1-2 days</p>
+                    <p class="text-gray-500 pt-2 hidden ans">It takes 1-2 days</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -174,7 +181,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, it is mandatory for companies, LLPs, and certain categories of taxpayers</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Yes, it is mandatory for companies, LLPs, and certain categories of taxpayers</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -182,7 +189,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">A DSC is valid for 1 to 3 years, </p>
+                    <p class="text-gray-500 pt-2 hidden ans">A DSC is valid for 1 to 3 years, </p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -190,7 +197,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Yes.</p>
                 </div>
 
             </div>

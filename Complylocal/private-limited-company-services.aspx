@@ -12,8 +12,8 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h2 class="text-3xl font-bold mb-3 text-[#1c5a88]">Private Limited Company</h2>
-            <p class="font-medium ml-8">
+            <h1 class="text-3xl font-bold mb-3 text-[#1c5a88]">Private Limited Company</h1>
+            <p class="font-medium">
                 A Private Limited Company (PLC) is a type of business entity privately held by a group of shareholders. It is one of the most popular and trusted forms of business structure in India due to its limited liability protection, separate legal identity, and ease of fundraising.
                 <br />
                 <br />
@@ -33,40 +33,40 @@
     </section>
     <%--about--%>
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+        <div class="bg-[#e9edc9] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
-                    <h3 class="text-3xl font-semibold">Why Register as a Private Limited Company?
-                    </h3>
+                    <h2 class="text-3xl font-semibold">Why Register as a Private Limited Company?
+                    </h2>
                 </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-900">
+                <div class="md:col-span-2 flex flex-col gap-4 text-gray-900 md:pl-8">
                   
-                    <ol class="ml-8 list-decimal ">
-                        <li>
+                    <ol class="list-decimal ">
+                        <li class="pl-1">
                             <span class="font-semibold"> Limited Liability: </span>Shareholders' personal assets are protected in case of business losses or debts.
                         </li>
                         
-                        <li>
+                        <li class="pl-1">
                             <span class="font-semibold">Separate Legal Identity:  </span>The company has its own legal status, separate from its owners, and can own property, enter contracts, and sue or be sued.
                         </li>
                         
-                        <li>
+                        <li class="pl-1">
                             <span class="font-semibold">Fundraising & Investment:  </span>Private Limited Companies can attract venture capital, private equity, and angel investors.
                         </li>
                         
-                        <li>
+                        <li class="pl-1">
                             <span class="font-semibold">Perpetual Existence:  </span>The company’s existence is not affected by the death, retirement, or exit of shareholders or directors.
                         </li>
                         
-                        <li>
+                        <li class="pl-1">
                             <span class="font-semibold">Tax Benefits:  </span>Avail various tax benefits and deductions offered to companies under the Income Tax Act.
                         </li>
                         
-                        <li>
+                        <li class="pl-1">
                             <span class="font-semibold">Enhanced Credibility:   </span>Customers, investors, and financial institutions trust registered companies more than unregistered businesses.
                         </li>
-                        <li>
+                        <li class="pl-1">
                             <span class="font-semibold">Easy Transfer of Shares:   </span>Shares can be transferred among shareholders, enabling the entry and exit of investors easily.
                         </li>
 
@@ -81,9 +81,9 @@
     </div>
 
     <!-- about -->
-    <div class="bg-[#E5F1E3]">
+    <div class="bg-[#e9edc9]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-[#ffeddf] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
@@ -91,9 +91,9 @@
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
                 <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Requirements for Private Limited Company Registration
                 </h2>
-                <h4 class="text-xl font-semibold text-black">To register a Private Limited Company, you must meet the following basic requirements:</h4>
+                <h3 class="text-xl font-semibold text-black">To register a Private Limited Company, you must meet the following basic requirements:</h3>
 
-                <ol class="ml-8 my-8 list-decimal">
+                <ol class="ml-4 my-8 list-decimal">
                     <li>
                         <span class="font-semibold">Minimum Directors</span> At least 2 directors (maximum 15). One director must be an Indian resident.</li>
 
@@ -116,15 +116,12 @@
             <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
                 <div class="relative">
                     <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                    <!-- Decorative Element -->
-                    <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
                 </div>
             </div>
         </section>
     </div>
-
     <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
+    <div class="bg-[#ffeddf]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>
@@ -139,7 +136,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The Ministry of Corporate Affairs (MCA) is the government body responsible for regulating corporate affairs in India, overseeing company registration, compliance, and governance.</p>
+                    <p class="text-gray-500 hidden pt-2 ans">The Ministry of Corporate Affairs (MCA) is the government body responsible for regulating corporate affairs in India, overseeing company registration, compliance, and governance.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -147,7 +144,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, any business operating as a company in India must be registered with the MCA to comply with the Companies Act, 2013.</p>
+                    <p class="text-gray-500 hidden pt-2 ans">Yes, any business operating as a company in India must be registered with the MCA to comply with the Companies Act, 2013.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -155,7 +152,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The incorporation process typically takes 7-10 business days, depending on the type of company and document submission.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">The incorporation process typically takes 7-10 business days, depending on the type of company and document submission.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -163,7 +160,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Documents such as PAN card, Aadhaar card, proof of address, Photographs, and a Digital Signature Certificate (DSC) are required.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Documents such as PAN card, Aadhaar card, proof of address, Photographs, and a Digital Signature Certificate (DSC) are required.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -171,7 +168,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The cost varies depending on the service required. We offer customized pricing for all services based on the complexity and scope of your requirements.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">The cost varies depending on the service required. We offer customized pricing for all services based on the complexity and scope of your requirements.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -179,7 +176,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">We handle the entire process of filing your company’s annual return, including preparation of documents, and submission with the MCA.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">We handle the entire process of filing your company’s annual return, including preparation of documents, and submission with the MCA.</p>
                 </div>
             </div>
         </section>

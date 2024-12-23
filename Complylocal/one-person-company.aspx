@@ -11,8 +11,8 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2 lg:pl-8 ">
 
-            <h2 class="text-3xl  text-[#1c5a88] font-bold mb-3 ">One Person Company</h2>
-            <p class="font-medium ml-8 ">
+            <h1 class="text-3xl  text-[#1c5a88] font-bold mb-3 ">One Person Company</h1>
+            <p class="font-medium">
                 A One Person Company (OPC) is a business entity that is owned and run by a single individual, combining the benefits of a sole proprietorship with the advantages of a limited liability company. It was introduced under the Companies Act, 2013 to encourage individual entrepreneurs to operate as a corporate entity, while limiting liability and gaining access to funding opportunities.
                 <br />
                 <br />
@@ -45,38 +45,38 @@
     <div class="#FAFAFA">
         <section class="bg-[#E5F1E3]  sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h3 class="text-3xl font-semibold mb-4">Benefits of One Person Company (OPC)</h3>
+                <h3 class="text-3xl font-semibold mb-8">Benefits of One Person Company (OPC)</h3>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Limited Liability
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <p class="text-gray-500 mt-4">
                     Just like a Private Limited Company, an OPC offers limited liability, meaning the personal assets of the sole member are protected from any business debts or liabilities.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Separate Legal Entity
                 </h4>
-                <p class="text-gray-500 text-lg mt-4 bg-white">
+                <p class="text-gray-500 mt-4 bg-white">
                     An OPC is a separate legal entity from its owner, allowing the business to enter contracts, own property, and sue or be sued in its name.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Simple and Easy to Register: 
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">An OPC is easier to incorporate and manage than a private limited company, with fewer compliance requirements.</p>
+                <p class="text-gray-500 mt-4">An OPC is easier to incorporate and manage than a private limited company, with fewer compliance requirements.</p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Full Control
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">The sole member has complete control over the decision-making process, without the need for other directors or shareholders. </p>
+                <p class="text-gray-500  mt-4">The sole member has complete control over the decision-making process, without the need for other directors or shareholders. </p>
             </div>
 
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Attractive for Small Businesses
 
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <p class="text-gray-500  mt-4">
                     It is a suitable option for single entrepreneurs who want to start a business with limited risk and the ability to raise capital.
                 </p>
             </div>
@@ -84,13 +84,13 @@
                 <h4 class="text-xl font-semibold ">Perpetual Succession
 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">An OPC continues to exist even if the sole director or member dies or is incapacitated, ensuring the business is unaffected.</p>
+                <p class="text-gray-500 mt-4">An OPC continues to exist even if the sole director or member dies or is incapacitated, ensuring the business is unaffected.</p>
             </div>
 
-            <div class="p-8 border-t shadow-2xl rounded-xl bg-white">
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Easier Access to Credit
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">As a formal business structure, OPCs have a better chance of securing loans, financial services, and grants from banks or other financial institutions.</p>
+                <p class="text-gray-500 mt-4">As a formal business structure, OPCs have a better chance of securing loans, financial services, and grants from banks or other financial institutions.</p>
             </div>
         </section>
     </div>
@@ -99,10 +99,10 @@
     <div class="bg-[#E5F1E3]">
         <!-- document -->
         <div class=" bg-[#ece4db] w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] ">
-            <div class="text-center lg:text-left mb-12 flex flex-col justify-between px-6 lg:px-20 ">
+            <div class="text-center lg:text-left mb-12 flex flex-col justify-between ">
                 <h1 class="text-3xl font-bold mb-2 w-full">Documents Required for OPC Registration</h1>
-                <div class="flex flex-col gap- w-full">
-                    <p class="text-lg font-medium">
+                <div class="flex flex-col gap-2 w-full">
+                    <p class="text-xl font-medium">
                         To register an OPC, the following documents are required:
                     </p>
                     <a href="#" class="inline-block text-black font-medium underline hover:text-gray-600">Learn More
@@ -111,11 +111,11 @@
             </div>
 
 
-            <div class="grid grid-cols-1 md:grid-cols-3 items-stretch gap-4  px-6 place-items-center">
+            <div class="grid grid-cols-1 md:grid-cols-3 items-stretch gap-4  place-items-center">
                 <div class="flex flex-col  bg-[#f9f9f9]  rounded-2xl p-8 px-12 w-full shadow-xl">
 
                     <h3 class="text-2xl font-semibold mb-4">For the Sole Member (Shareholder)</h3>
-                    <ul class="text-gray-900 text-sm space-y-2 list-disc">
+                    <ul class="text-gray-900  space-y-2 list-disc">
                         <li><span class="font-semibold">PAN Card </span>(mandatory for Indian citizens)</li>
                         <li><span class="font-semibold">Aadhaar Card/Passport/ID Proof  </span>(for identity verification)</li>
                         <li><span class="font-semibold">Photograph </span>(passport-sized)</li>
@@ -131,7 +131,7 @@
                     <h3 class="text-2xl font-semibold mb-4 ">For the
                         <br />
                         Director</h3>
-                    <ul class="text-gray-900 text-sm space-y-2 list-disc">
+                    <ul class="text-gray-900  space-y-2 list-disc">
                         <li><span class="font-semibold">PAN Card </span></li>
                         <li><span class="font-semibold">Address Proof   </span>(bank statement, utility bill, or property tax receipt)</li>
                         <li><span class="font-semibold">Photograph </span></li>
@@ -143,7 +143,7 @@
                
                 <div class="flex flex-col bg-[#f9f9f9] rounded-2xl p-8 px-12 w-full shadow-xl">
                     <h3 class="text-2xl font-semibold mb-4 ">For the Registered Office Address</h3>
-                    <ul class="text-gray-900 text-sm space-y-2 list-disc">
+                    <ul class="text-gray-900 space-y-2 list-disc">
                         <li><span class="font-semibold">Utility Bill/Property Tax Receipt  </span>(for proof of the location)</li>
                         <li><span class="font-semibold">Rent Agreement </span>(if the office is leased)</li>
                         <li><span class="font-semibold">No Objection Certificate (NOC)  </span>from the property owner</li>
@@ -166,14 +166,14 @@
                 </h2>
                 <h4 class="text-xl font-semibold text-black">To form an OPC, you must meet the following eligibility criteria:</h4>
 
-                <ol class="ml-8 my-8 list-decimal">
-                    <li>
+                <ol class="ml-4 my-8 list-decimal">
+                    <li class="pl-1">
                         <span class="font-semibold">Single Member:</span> Only one individual can be the sole shareholder of the company, and that individual must be an Indian citizen and a resident of India.</li>
 
-                    <li>
+                    <li class="pl-1">
                         <span class="font-semibold">Director:</span> The OPC must have a minimum of one director (who can also be the sole shareholder). The director must be an Indian resident.</li>
 
-                    <li>
+                    <li class="pl-1">
                         <span class="font-semibold">Registered Office:</span> A local address in India must be provided for the company’s registered office.</li>
                 </ol>
 
@@ -206,7 +206,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The registration part is of 10–15 days; after that simply place and receive orders.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">The registration part is of 10–15 days; after that simply place and receive orders.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -214,7 +214,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">You cannot; you must have at least two directors to register a private limited company.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">You cannot; you must have at least two directors to register a private limited company.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -222,7 +222,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">No, there is no minimum capital required. You can even begin with a humble sum of money.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">No, there is no minimum capital required. You can even begin with a humble sum of money.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -230,7 +230,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, you may need to have a registered office address as an individual or facility. It could be a residential or commercial property.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Yes, you may need to have a registered office address as an individual or facility. It could be a residential or commercial property.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -238,7 +238,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -246,7 +246,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
                 </div>
             </div>
         </section>

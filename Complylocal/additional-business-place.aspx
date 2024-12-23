@@ -9,7 +9,7 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h2 class="text-3xl font-bold mb-3 text-[#1c5a88]">Additional Place of Business</h2>
+            <h1 class="text-3xl font-bold mb-3 text-[#1c5a88]">Additional Place of Business</h1>
             <ul class="list-disc text-2xl font-semibold ml-8 text-[#991c20]">
                 <li>GST Registration for Branches & Business Verticals in Different States</li>
                 <li>GST Resistration for Branches within a State</li>

@@ -39,11 +39,11 @@
         <!-- Right Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2 items-start">
-            <h2 class="text-5xl  font-bold text-gray-900 mb-6">Scale Your Ecommerce
+            <h1 class="text-3xl  font-bold text-gray-900 mb-6">Scale Your Ecommerce
                 <br />
                 Business with Ease
-            </h2>
-            <p class="text-gray-600 text-lg mb-6">
+            </h1>
+            <p class="text-gray-600  mb-6">
                 Get the power of our one-stop ecommerce platform. Easily get your GST number anywhere in all states with VPOB<sup>TM</sup> & APOB, used by Amazon and Flipkart sellers.
             </p>
             <a href="#" class="bg-[#991c20]  text-white px-6 py-3 rounded-md font-medium">Learn More
@@ -87,14 +87,14 @@
             <!-- Right Side (Text Content) -->
             <div class="flex flex-col gap-8 w-full mt-20 sm:mt-none">
                 <!-- Heading -->
-                <h1 class="text-4xl font-bold text-black leading-tight">Unlock marketing
+                <h1 class="text-3xl font-bold text-black leading-tight">Unlock marketing
                         <br>
                     <span class="text-[#991c20]">strategy</span> for your
                         <br>
                     business
                 </h1>
                 <!-- Subheading -->
-                <p class="text-gray-600 text-sm leading-relaxed">
+                <p class="text-gray-600 leading-relaxed">
                     We immerse ourselves in your issues and we put our knowledge and expertise at your service to provide you with an informed response.
                 </p>
                 <!-- Buttons -->
@@ -117,17 +117,18 @@
 
         </section>
     </div>
-    <div class="bg-[#dadded]">
         <!-- our Services -->
-        <div class=" bg-[#fde2e4] w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] ">
-            <div class="text-center lg:text-left mb-12 flex flex-col sm:flex-row justify-between px-6 lg:px-20 ">
-                <h1 class="text-4xl lg:text-6xl font-bold mb-4 w-full">Our exclusive services</h1>
+    <div class="bg-[#dadded]">
+      
+        
+        <div class=" bg-[#e2edcf] w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] ">
+            <div class=" mb-12 flex flex-col justify-between ">
+                <h1 class="text-3xl font-semibold mb-4 w-full ">Our exclusive services</h1>
                 <div class="flex flex-col gap-4 w-full">
-                    <p class="text-lg font-medium">
-                        Whether it's crafting a visually stunning brand identity, designing immersive digital experiences,
-                or developing strategic marketing campaigns.
+                    <p class="font-medium">
+                        Whether it's crafting a visually stunning brand identity, designing immersive digital experiences, or developing strategic marketing campaigns.
                     </p>
-                    <a href="#" class="inline-block mt-4 text-black font-medium underline hover:text-gray-600">Learn More
+                    <a href="#" class="inline-block text-black font-medium underline hover:text-gray-600">Learn More
                     </a>
                 </div>
             </div>
@@ -141,7 +142,7 @@
                     </div>
                     <h3 class="text-2xl font-semibold mb-4">Business<br>
                         Registration</h3>
-                    <ul class="text-gray-600 text-sm space-y-2 list-disc">
+                    <ul class="text-gray-600 space-y-2 list-disc">
                         <li>Private Limited Company</li>
                         <li>One Person Company</li>
                         <li>Limited Liability Partnership</li>
@@ -159,7 +160,7 @@
                     <h3 class="text-2xl font-semibold mb-4 ">MCA  
                         <br>
                         Services</h3>
-                    <ul class="text-gray-600 text-sm space-y-2 list-disc">
+                    <ul class="text-gray-600  space-y-2 list-disc">
                         <li>AOA/MOA Amendments</li>
                         <li>Authorized Capital Change</li>
                         <li>Add Directors</li>
@@ -177,7 +178,7 @@
                     <h3 class="text-2xl font-semibold mb-4 ">E-commerce
                         <br>
                         Services</h3>
-                    <ul class="text-gray-600 text-sm space-y-2 list-disc">
+                    <ul class="text-gray-600 space-y-2 list-disc">
                         <li>Additional Business Place</li>
                         <li>Virtual Business Place</li>
                         <li>E-Commerce GST</li>
@@ -195,7 +196,7 @@
                     <h3 class="text-2xl font-semibold mb-4">TAX Filing
                         <br>
                         Services</h3>
-                    <ul class="text-gray-600 text-sm space-y-2 list-disc">
+                    <ul class="text-gray-600 space-y-2 list-disc">
                         <li>Income Tax Return</li>
                         <li>TDS Returns</li>
                         <li>GST Returns</li>
@@ -206,9 +207,10 @@
 
         </div>
     </div>
+
     <!-- Statatics -->
-    <div class="bg-[#f5e1e1]">
-        <div class="bg-[#fefee3] sm:p-20 sm:px-20 px-5 py-20 flex flex-col sm:flex-row  justify-between items-center gap-10 sm:gap-0 sm:items-start rounded-t-[50px] rounded-t-[100px]">
+    <div class="bg-[#e2edcf]">
+        <div class="bg-[#ffedcf] sm:p-20 sm:px-20 px-5 py-20 flex flex-col sm:flex-row  justify-between items-center gap-10 sm:gap-0 sm:items-start rounded-t-[50px] rounded-t-[100px]">
             <div class="flex flex-col gap-4 text-center">
                 <h4 class="font-semibold text-5xl">1k+</h4>
                 <p class="text-gray-500">Clients</p>
@@ -229,10 +231,10 @@
     </div>
 
     <!-- Steps we follow -->
-    <div class="bg-[#fefee3]">
+    <div class="bg-[#ffedcf]">
         <div class="px-5 sm:px-20 py-20 bg-[#d8e8e3] rounded-t-[50px] sm:rounded-t-[100px]">
             <div class="flex gap-8 items-center pb-8 sm:pb-2">
-                <h2 class="text-5xl font-medium w-full">Easy Steps to Begin</h2>
+                <h2 class="text-3xl font-semibold w-full">Easy Steps to Begin</h2>
                 <div class="w-full hidden md:flex justify-center items-center">
                     <img src="assets/images/stepwefollowimg.png" alt="" class="w-[200px] h-[200px] object-cover">
                 </div>
@@ -334,8 +336,8 @@
     </div>
     <!-- why we stand out -->
     <div class="bg-[#d8e8e3]">
-        <div class="bg-[#bcd4e6] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
-            <h2 class="text-5xl text-black">Why ComplyLocal Stands Out</h2>
+        <div class="bg-[#faf8f7] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
+            <h2 class="text-3xl font-semibold text-black">Why ComplyLocal Stands Out</h2>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
                 <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
                     <span>01</span>
@@ -396,11 +398,9 @@
 
     <!-- testimonial -->
 
-    <div class="bg-[#bcd4e6]">
-        <div class="w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] bg-[#faf4f0] ">
-            <h2 class="text-6xl font-medium">What they say
-        <br>
-                about us
+    <div class="bg-[#faf8f7]">
+        <div class="w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] bg-[#bcd4e6] ">
+            <h2 class="text-3xl font-semibold">What they say <br /> about us
             </h2>
             <div class="grid grid-cols-12 gap-8 mt-12 ">
                 <div class="w-full col-span-12 md:col-span-4 flex flex-col items-center bg-[#fff] rounded-2xl p-4 py-8">
@@ -539,9 +539,7 @@
 
 
                         </div>
-                        <!-- <div class="swiper-button-next"></div>
-                    <div class="swiper-button-prev"></div> -->
-                        <!-- <div class="swiper-pagination"></div> -->
+                        
                     </div>
                 </div>
             </div>
@@ -550,12 +548,12 @@
     </div>
 
     <!-- client logo -->
-    <div class="bg-[#faf4f0]">
-        <div class=" px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] bg-white w-full">
+    <div class="bg-[#bcd4e6]">
+        <div class="px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] bg-[#edf4f1] w-full">
             <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 place-items-center ">
 
-                <div class="col-span-2 lg:col-span-3 flex items-center pb-10">
-                    <p class="text-2xl font-semibold">
+                <div class="col-span-2 lg:col-span-3 flex items-center pb-10 w-full">
+                    <p class="text-3xl font-semibold">
                         We worked with largest
                         <br>
                         global brands
@@ -609,9 +607,11 @@
     </div>
 
     <!-- blogs -->
+    <div class="bg-[#edf4f1]">
 
+    
     <div class="px-5 sm:px-20 py-20 rounded-t-[100px] bg-purple-100 grid md:grid-cols-3 gap-8 ">
-        <div class="text-4xl">Blogs from Complylocal</div>
+        <div class="text-3xl font-semibold">Blogs from Complylocal</div>
         <div class="md:col-span-2 md:justify-self-end flex gap-3 items-center">
             <a href="#" class="border rounded-full h-10 px-4 flex justify-center items-center text-white  bg-black">Read all post</a>
             <span class=" border rounded-full w-10 h-10 flex justify-center items-center text-white  bg-black"><i class="fa-solid fa-up-right-from-square"></i></span>
@@ -645,5 +645,5 @@
             </p>
         </div>
     </div>
-
+    </div>
 </asp:Content>

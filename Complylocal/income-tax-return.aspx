@@ -9,9 +9,9 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h2 class="text-3xl font-bold mb-1 text-[#1c5a88] ">INCOME TAX</h2>
-            <h4 class="text-xl font-semibold text-[#1c5a88] mb-3">Maximize your refund, minimize your stress</h4>
-            <p class="ml-8 ">
+            <h1 class="text-3xl font-bold mb-1 text-[#1c5a88] ">INCOME TAX</h1>
+            <h2 class="text-xl font-semibold text-[#1c5a88] mb-3">Maximize your refund, minimize your stress</h2>
+            <p class="font-medium">
                 Income tax or direct tax is an important part of the Indian tax structure affecting diverse persons including individuals, HUFs, Corporate, partnerships, LLPs, Societies and others.
             </p>
         </div>
@@ -31,33 +31,32 @@
         <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
                 <h3 class="text-3xl font-semibold mb-8">Why Choose Us ?</h3>
-
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Expertise & Experience
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <p class="text-gray-500 mt-4">
                     Seasoned tax advisors with in-depth knowledge of tax laws and regulations.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Personalized Solutions
                 </h4>
-                <p class="text-gray-500 text-lg mt-4 bg-white">
+                <p class="text-gray-500 mt-4">
                     Tailored tax planning strategies to meet individual and business needs.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Compliance & Accuracy
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">Ensure 100 percent compliance with tax regulations, minimizing audit risks. </p>
+                <p class="text-gray-500 mt-4">Ensure 100 percent compliance with tax regulations, minimizing audit risks. </p>
             </div>
 
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Tax Savings
 
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <p class="text-gray-500 mt-4">
                     Maximize tax benefits and reduce liabilities with proactive planning.
                 </p>
             </div>
@@ -65,36 +64,36 @@
                 <h4 class="text-xl font-semibold ">End-to-End Support
 
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">Assistance with filings, appeals, and audits at every step.</p>
+                <p class="text-gray-500 mt-4">Assistance with filings, appeals, and audits at every step.</p>
             </div>
 
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Time-Saving & Hassle-Free
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">Leave the paperwork to us while you focus on your business</p>
+                <p class="text-gray-500 mt-4">Leave the paperwork to us while you focus on your business</p>
             </div>
 
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Transparent Pricing
                 </h4>
-                <p class="text-gray-500 text-lg  mt-4">No hidden fees, clear and upfront pricing for all services.</p>
+                <p class="text-gray-500 mt-4">No hidden fees, clear and upfront pricing for all services.</p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+            <div class="p-8 border-t shadow-2xl rounded-xl bg-white">
                 <h4 class="text-2xl font-semibold ">Technology-Driven Approach
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">Use of modern software for seamless filing and tracking.</p>
+                <p class="text-gray-500 mt-4">Use of modern software for seamless filing and tracking.</p>
             </div>
 
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Dedicated Customer Support
                 </h4>
-                <p class="text-gray-500 text-lg  mt-4">Responsive support to resolve your queries quickly.</p>
+                <p class="text-gray-500 mt-4">Responsive support to resolve your queries quickly.</p>
             </div>
 
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Confidential & Secure
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">Guaranteed confidentiality and data security for all financial information.</p>
+                <p class="text-gray-500 mt-4">Guaranteed confidentiality and data security for all financial information.</p>
             </div>
         </section>
     </div>
@@ -103,14 +102,11 @@
     <div class="bg-[#d8e8e3]">
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
-
-
             <!-- left Content -->
-
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900  leading-tight">Sevices
+                <h2 class="text-3xl  font-bold text-gray-900  leading-tight">INCOME TAX SERVICES
                 </h2>
-                <ul class="ml-8 my-6 font-medium list-disc">
+                <ul class="ml-4 my-6 font-medium list-disc">
                     <li>Return filing</li>
                     <li>Defective return (Sec 139(9)</li>
                     <li>Updated return (ITR -U)</li>
@@ -140,8 +136,6 @@
         </section>
     </div>
 
-
-
     <!-- FAQ -->
     <div class="bg-[#DAEAFA]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
@@ -158,7 +152,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Any individual, business, or entity whose income exceeds the threshold limit prescribed by the government is required to file an income tax return. This includes salaried employees, self-employed professionals, and businesses.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Any individual, business, or entity whose income exceeds the threshold limit prescribed by the government is required to file an income tax return. This includes salaried employees, self-employed professionals, and businesses.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -166,7 +160,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The basic exemption limit depends on the taxpayer’s age and type of filing status. For most individuals, it is <span class="font-semibold">[mention limit based on the country's laws, e.g., ₹2,50,000 in India].</span> Senior citizens and super senior citizens have higher exemption limits.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">The basic exemption limit depends on the taxpayer’s age and type of filing status. For most individuals, it is <span class="font-semibold">[mention limit based on the country's laws, e.g., ₹2,50,000 in India].</span> Senior citizens and super senior citizens have higher exemption limits.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -174,7 +168,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The types of ITRs include ITR-1 (for salaried individuals), ITR-2 (for individuals with capital gains), ITR-3 (for business/professional income), ITR-4 (presumptive income for small businesses), ITR-5 for partnership firms and ITR-6 (for companies).</p>
+                    <p class="text-gray-500 pt-2 hidden ans">The types of ITRs include ITR-1 (for salaried individuals), ITR-2 (for individuals with capital gains), ITR-3 (for business/professional income), ITR-4 (presumptive income for small businesses), ITR-5 for partnership firms and ITR-6 (for companies).</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -182,7 +176,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The due date varies for different taxpayers. For salaried individuals and non-audit cases, the due date is usually <span class="font-semibold">July 31</span> of the following financial year. For businesses and taxpayers requiring audit, the due date is <span class="font-semibold">September 30 </span>(or later if extended).</p>
+                    <p class="text-gray-500 pt-2 hidden ans">The due date varies for different taxpayers. For salaried individuals and non-audit cases, the due date is usually <span class="font-semibold">July 31</span> of the following financial year. For businesses and taxpayers requiring audit, the due date is <span class="font-semibold">September 30 </span>(or later if extended).</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -190,7 +184,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">If you fail to file an ITR on time, you may face<span class="font-semibold"> late fees, penalties, and interest </span>on the outstanding tax liability. Additionally, you may lose the opportunity to carry forward certain losses.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">If you fail to file an ITR on time, you may face<span class="font-semibold"> late fees, penalties, and interest </span>on the outstanding tax liability. Additionally, you may lose the opportunity to carry forward certain losses.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -198,7 +192,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, you can file a revised return before the end of the assessment year or before the completion of the assessment, whichever is earlier.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Yes, you can file a revised return before the end of the assessment year or before the completion of the assessment, whichever is earlier.</p>
                 </div>
             </div>
         </section>

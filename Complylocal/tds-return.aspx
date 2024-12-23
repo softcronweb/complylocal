@@ -9,12 +9,19 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h2 class="text-3xl font-bold text-[#1c5a88] ">TDS Return</h2>
-            <p class="text-[#1c5a88] font-semibold mb-3 text-xl">Ensure timely compliance and maximize savings with our expert TDS advisory and filing services.</p>
+            <h1 class="text-3xl font-bold text-[#1c5a88] mb-2">TDS Return</h1>
+            <p class="text-[#1c5a88] font-semibold mb-3 text-xl">
+                Ensure timely compliance and maximize savings with our expert TDS advisory and filing services.
+            </p>
+            <div class="font-medium">
+                <p>
+                    Tax Deducted at Source (TDS) is a system where tax is deducted directly from payments like salaries, interest, rent, and professional fees, ensuring timely collection of taxes at the source of income.
 
-            <div class="list-disc ml-8 "> 
-                <p>Tax Deducted at Source (TDS) is a system where tax is deducted directly from payments like salaries, interest, rent, and professional fees, ensuring timely collection of taxes at the source of income.</p>
-                <p>Tax Collected at Source (TCS) is a tax collected by a seller or vendor from the buyer at the time of sale of specified goods or services, which is then deposited with the government as per the applicable rates under the Income Tax Act.</p>
+                </p>
+                <p>
+                    Tax Collected at Source (TCS) is a tax collected by a seller or vendor from the buyer at the time of sale of specified goods or services, which is then deposited with the government as per the applicable rates under the Income Tax Act.
+
+                </p>
 
             </div>
         </div>
@@ -35,8 +42,7 @@
     <div class="bg-[#faf8f7]">
         <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h3 class="text-3xl font-semibold mb-8">Why Choose Us ?</h3>
-
+                <h2 class="text-3xl font-semibold mb-8">Why Choose Us ?</h2>
             </div>
             <div class="p-8 border-t shadow-2xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Expert Guidance
@@ -109,9 +115,6 @@
                     Round-the-clock assistance from TDS experts.
                 </p>
             </div>
-
-
-
         </section>
     </div>
 
@@ -126,40 +129,40 @@
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Services
+                <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">Services
                 </h2>
                 <div class="text-gray-900 font-medium mb-6">
-                    <ul>
-                        <li>-	TDS calculation and compliances
+                    <ul class="list-disc font-medium ml-4">
+                        <li>TDS calculation and compliances
                         </li>
-                        <li>-	TDS returns 
-           <ul class="ml-8">
-               <li>Form 26Q- For non- salary TDS</li>
-               <li>Form 24Q- For salary related TDS</li>
-               <li>Form 27Q- For TDS on payment to non-residents</li>
-               <li>Form 27EQ- For TCS</li>
-           </ul>
+                        <li>TDS returns 
+                            <ul class=" ml-4">
+                                <li>Form 26Q- For non- salary TDS</li>
+                                <li>Form 24Q- For salary related TDS</li>
+                                <li>Form 27Q- For TDS on payment to non-residents</li>
+                                <li>Form 27EQ- For TCS</li>
+                            </ul>
                         </li>
-                        <li>-	TDS payment</li>
-                        <li>-	Tan application</li>
-                        <li>-	Tan registration at Traces & Income Tax Portal</li>
-                        <li>-	TDS Certificate Services
-          <ul class="ml-8">
-              <li>Form 16: A certificate issued by an employer to an employee showing the total TDS deducted from their salary during the year.
-              </li>
-              <li>Form 16A: Issued for non-salary payments showing the TDS deducted.
-              </li>
-              <li>Form 16B: For TDS related to property transactions.
-              </li>
-              <li>Form 16C: For TDS on rent payments.Form 16B: For TDS related to property transactions.
-              </li>
-              <li>Form 27D: TDS Certificate for Tax Collected at Source (TCS).
-              </li>
-          </ul>
+                        <li>TDS payment</li>
+                        <li>TAN application</li>
+                        <li>TAN registration at Traces & Income Tax Portal</li>
+                        <li>TDS Certificate Services
+                            <ul class="ml-4 ">
+                                <li>Form 16: A certificate issued by an employer to an employee showing the total TDS deducted from their salary during the year.
+                                </li>
+                                <li>Form 16A: Issued for non-salary payments showing the TDS deducted.
+                                </li>
+                                <li>Form 16B: For TDS related to property transactions.
+                                </li>
+                                <li>Form 16C: For TDS on rent payments.Form 16B: For TDS related to property transactions.
+                                </li>
+                                <li>Form 27D: TDS Certificate for Tax Collected at Source (TCS).
+                                </li>
+                            </ul>
                         </li>
-                        <li>-	Form 26QB (TDs on sale of property)</li>
-                        <li>-	TDS Refund Services</li>
-                        <li>-	TDS Reconciliation</li>
+                        <li>Form 26QB (TDS on sale of property)</li>
+                        <li>TDS Refund Services</li>
+                        <li>TDS Reconciliation</li>
                     </ul>
                 </div>
 
@@ -193,7 +196,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">TDS is a system where tax is deducted at the source of income, such as salaries, rent, interest, commission, and payments to contractors or professionals. The deducted amount is deposited with the government on behalf of the recipient.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">TDS is a system where tax is deducted at the source of income, such as salaries, rent, interest, commission, and payments to contractors or professionals. The deducted amount is deposited with the government on behalf of the recipient.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -201,7 +204,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">TDS is deducted by the payer or deductor, which could be an employer, bank, company, or any person making specified payments to the recipient.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">TDS is deducted by the payer or deductor, which could be an employer, bank, company, or any person making specified payments to the recipient.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -209,7 +212,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <div class="text-gray-500 text-sm hidden ans">
+                    <div class="text-gray-500 pt-2 hidden ans">
                         <ul class="list-disc">
                             <li>TDS (Tax Deducted at Source) is deducted when a payment is made (like salary, rent, etc.).
                             </li>
@@ -224,7 +227,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">If the recipient does not provide a valid <span class="font-semibold">PAN (Permanent Account Number)</span>, the TDS is deducted at a higher rate (usually 20%) as per Section 206AA of the Income Tax Act.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">If the recipient does not provide a valid <span class="font-semibold">PAN (Permanent Account Number)</span>, the TDS is deducted at a higher rate (usually 20%) as per Section 206AA of the Income Tax Act.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -232,7 +235,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">TDS must be deposited with the government by the <span class="font-semibold">7th of the following month</span> (except for March, where it is due on April 30).</p>
+                    <p class="text-gray-500 pt-2 hidden ans">TDS must be deposited with the government by the <span class="font-semibold">7th of the following month</span> (except for March, where it is due on April 30).</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -240,7 +243,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">You can view the details of TDS credited to your account by accessing your <span class="font-semibold">Form 26AS</span> through the Income Tax e-filing portal.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">You can view the details of TDS credited to your account by accessing your <span class="font-semibold">Form 26AS</span> through the Income Tax e-filing portal.</p>
                 </div>
             </div>
         </section>

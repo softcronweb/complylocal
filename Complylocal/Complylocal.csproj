@@ -117,7 +117,6 @@
     <Content Include="e-commerce-gst.aspx" />
     <Content Include="e-commerce-payment-reconciliation.aspx" />
     <Content Include="e-way-bill-registration.aspx" />
-    <Content Include="fssai-registration.aspx" />
     <Content Include="gst-registration.aspx" />
     <Content Include="gst-returns.aspx" />
     <Content Include="iec-code.aspx" />
@@ -138,6 +137,7 @@
     <Content Include="virtual-business-place.aspx" />
     <Content Include="Web.config" />
     <Content Include="index.aspx" />
+    <Content Include="fssai-registration.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="add-directors.aspx.cs">
@@ -223,13 +223,6 @@
     </Compile>
     <Compile Include="e-way-bill-registration.aspx.designer.cs">
       <DependentUpon>e-way-bill-registration.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="fssai-registration.aspx.cs">
-      <DependentUpon>fssai-registration.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="fssai-registration.aspx.designer.cs">
-      <DependentUpon>fssai-registration.aspx</DependentUpon>
     </Compile>
     <Compile Include="gst-registration.aspx.cs">
       <DependentUpon>gst-registration.aspx</DependentUpon>
@@ -371,6 +364,13 @@
     </Compile>
     <Compile Include="virtual-business-place.aspx.designer.cs">
       <DependentUpon>virtual-business-place.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="fssai-registration.aspx.cs">
+      <DependentUpon>fssai-registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="fssai-registration.aspx.designer.cs">
+      <DependentUpon>fssai-registration.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

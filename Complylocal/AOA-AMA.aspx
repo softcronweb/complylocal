@@ -9,7 +9,7 @@
         <!-- left Content -->
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88]">MCA</h2>
-            <p class=" font-semibold ml-8">
+            <p class=" font-medium">
                 We offer a comprehensive range of MCA services to help businesses meet their legal and regulatory obligations, from incorporation to ongoing compliance. 
             </p>
         </div>
@@ -29,16 +29,18 @@
 
             <div>
                 <h2 class="text-3xl text-black font-semibold">MCA SERVICES</h2>
-                <p class="text-lg text-gray-900 pt-4">
+                <p class="text-gray-900 pt-4">
                     We offer a comprehensive range of MCA services to help businesses meet their legal and regulatory obligations, from incorporation to ongoing compliance. Here’s a breakdown of the key services we provide	
                 </p>
             </div>
 
             <div class="grid sm:grid-cols-2 md:grid-cols-3  gap-4">
                 <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
-                    <h3 class="text-2xl">Company <br />Incorporation</h3>
-                    <p class="">Start your business on the right foot with our expert assistance in <span class="font-semibold">Company Registration</span> under the MCA. We handle everything from filing necessary documents to obtaining the <span class="font-semibold">Certificate of Incorporation</span>. Whether you are forming a <span class="font-semibold">Private Limited Company, Public Limited Company</span>, or <span class="font-semibold">One Person Company (OPC) </span>, we simplify the registration process for you.</p>
-                    <ul class="list-disc ml-8 ">
+                    <h3 class="text-2xl">Company
+                        <br />
+                        Incorporation</h3>
+                    <p>Start your business on the right foot with our expert assistance in <span class="font-semibold">Company Registration</span> under the MCA. We handle everything from filing necessary documents to obtaining the <span class="font-semibold">Certificate of Incorporation</span>. Whether you are forming a <span class="font-semibold">Private Limited Company, Public Limited Company</span>, or <span class="font-semibold">One Person Company (OPC) </span>, we simplify the registration process for you.</p>
+                    <ul class="list-disc ml-4 ">
                         <li>Private Limited Company Registration
                         </li>
                         <li>Public Limited Company Registration
@@ -56,11 +58,11 @@
                     <h3 class="text-2xl">Director Identification Number (DIN)
 
                     </h3>
-                    <p class=" ">
+                    <p>
                         The <span class="font-semibold">Director Identification Number (DIN) </span>is a unique number required for anyone who wishes to become a director of a company. We assist in obtaining DIN for individuals and guide you through the entire application process.
 
                     </p>
-                    <ul class=" list-disc ml-8 ">
+                    <ul class=" list-disc ml-4 ">
                         <li>DIN Application and Renewal
                         </li>
                         <li>DIN for Existing Directors
@@ -76,11 +78,11 @@
                     <h3 class="text-2xl">Digital Signature Certificate (DSC)
 
                     </h3>
-                    <p class=" ">
+                    <p>
                         A <span class="font-semibold">Digital Signature Certificate (DSC)</span> is essential for various MCA filings, including the submission of annual returns and other compliance-related documents. We help you obtain a <span class="font-semibold">DSC </span>that is legally recognized for signing electronic documents.
 
                     </p>
-                    <ul class=" list-disc ml-8 ">
+                    <ul class=" list-disc ml-4 ">
                         <li>DSC Application for Individuals and Companies
                         </li>
                         <li>DSC for Directors
@@ -98,16 +100,15 @@
                     <h3 class="text-2xl">Filing of Annual Returns and Financial Statements
 
                     </h3>
-                    <p class=" ">
+                    <p>
                         Maintain regulatory compliance by filing  <span class="font-semibold">annual returns </span>and  <span class="font-semibold">financial statements </span>with the MCA. Our team ensures timely submission, helping you avoid penalties and maintain your company's good standing.
                  
                     </p>
-                    <ul class=" list-disc ml-8 ">
+                    <ul class=" list-disc ml-4 ">
                         <li>Filing of Annual Returns (Form MGT-7)
                         </li>
                         <li>Filing of Financial Statements (Form AOC-4)
                         </li>
-
                         <li>Compliance with Provisions of the Companies Act, 2013
                         </li>
 
@@ -115,18 +116,19 @@
                 </div>
 
                 <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
-                    <h3 class="text-2xl">Change in <br />Company Details
+                    <h3 class="text-2xl">Change in
+                        <br />
+                        Company Details
 
                     </h3>
-                    <p class=" ">
+                    <p>
                         Whether you're updating your company’s name, registered office address, or shareholding structure, we handle all aspects of <span class="font-semibold">company amendments </span>and filings with the MCA.
                     </p>
-                    <ul class=" list-disc ml-8 ">
+                    <ul class=" list-disc ml-4 ">
                         <li>Change of Company Name
                         </li>
                         <li>Change in Registered Office Address
                         </li>
-
                         <li>Alteration in Memorandum and Articles of Association (MoA and AoA)
                         </li>
                         <li>Changes in Share Capital and Shareholders
@@ -140,10 +142,10 @@
                     <h3 class="text-2xl">Director and Shareholder Compliances
 
                     </h3>
-                    <p class="">
+                    <p>
                         We assist in ensuring that your company’s <span class="font-semibold">directors</span> and <span class="font-semibold">shareholders</span> comply with various MCA requirements such as maintaining board meetings, filing resolutions, and updating their details with the registrar.
                     </p>
-                    <ul class="list-disc ml-8 ">
+                    <ul class="list-disc ml-4">
                         <li>Appointment and Removal of Directors
                         </li>
                         <li>Director KYC Filings (DIR-3 KYC)
@@ -161,10 +163,10 @@
                     <h3 class="text-2xl">Company Annual Compliance
 
                     </h3>
-                    <p class=" ">
+                    <p>
                         As part of ongoing compliance, every company must adhere to regulatory requirements such as maintaining registers, filing forms, and conducting meetings. Our annual compliance services ensure your company stays on track.
                     </p>
-                    <ul class="list-disc ml-8 ">
+                    <ul class="list-disc ml-4">
                         <li>Filing of Annual Return (Form MGT-7)
                         </li>
                         <li>Filing of Financial Statements (Form AOC-4)
@@ -178,23 +180,22 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
-                    <h3 class="text-2xl">Corporate <br />Filings
+                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                    <h3 class="text-2xl">Corporate
+                        <br />
+                        Filings
 
                     </h3>
-                    <p class=" ">
+                    <p>
                         We assist with various <span class="font-semibold">corporate filings</span> required by the MCA, including submission of financial documents, resolutions, and statutory declarations.
                     </p>
-                    <ul class=" list-disc ml-8 ">
+                    <ul class=" list-disc ml-4">
                         <li>Filing of Resolutions (MGT-14)
                         </li>
                         <li>Filing of Return of Allotment (Form PAS-3)
                         </li>
-
                         <li>Filing of Charge Creation and Modification (Form CHG-1, CHG-9)
                         </li>
-
-
                     </ul>
                 </div>
 
@@ -202,15 +203,14 @@
                     <h3 class="text-2xl">Company Dissolution or Closure
 
                     </h3>
-                    <p class="">
+                    <p>
                         If your company is no longer operational or you wish to voluntarily dissolve it, we provide services related to <span class="font-semibold">company closure </span>and <span class="font-semibold">winding up</span>. We ensure that your company is legally dissolved, with all documents and filings done in accordance with MCA regulations.
                     </p>
-                    <ul class=" list-disc ml-8 ">
+                    <ul class=" list-disc ml-4 ">
                         <li>Voluntary Liquidation (Form STK-2)
                         </li>
                         <li>Winding up of a Company
                         </li>
-
                         <li>Dissolution of Private Limited Company
                         </li>
 
@@ -232,28 +232,28 @@
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Expert Guidance
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <p class="text-gray-500 mt-4">
                     Our team of legal and compliance experts guide you through every step of the MCA process, ensuring that your filings are accurate and timely.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Timely and Efficient
                 </h4>
-                <p class="text-gray-500 text-lg mt-4 bg-white">
+                <p class="text-gray-500  mt-4 ">
                     We understand the importance of meeting deadlines with MCA filings and ensure that your documents are submitted well within the stipulated time.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Comprehensive Services
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">From company incorporation to annual compliance, we provide end-to-end services for all your MCA-related needs.</p>
+                <p class="text-gray-500 mt-4">From company incorporation to annual compliance, we provide end-to-end services for all your MCA-related needs.</p>
             </div>
 
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Affordable Solutions
 
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">
+                <p class="text-gray-500 mt-4">
                     We offer competitive pricing for our services, ensuring that businesses of all sizes can access professional MCA support.
                 </p>
             </div>
@@ -261,11 +261,8 @@
                 <h4 class="text-xl font-semibold ">Simplified Process
 
                 </h4>
-                <p class="text-gray-500 text-lg mt-4">We handle the paperwork, filings, and legalities, making it easier for you to focus on growing your business.</p>
+                <p class="text-gray-500 mt-4">We handle the paperwork, filings, and legalities, making it easier for you to focus on growing your business.</p>
             </div>
-
-
-
         </section>
     </div>
 
@@ -285,7 +282,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The Ministry of Corporate Affairs (MCA) is the government body responsible for regulating corporate affairs in India, overseeing company registration, compliance, and governance.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">The Ministry of Corporate Affairs (MCA) is the government body responsible for regulating corporate affairs in India, overseeing company registration, compliance, and governance.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -293,7 +290,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Yes, any business operating as a company in India must be registered with the MCA to comply with the Companies Act, 2013.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Yes, any business operating as a company in India must be registered with the MCA to comply with the Companies Act, 2013.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -301,7 +298,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The incorporation process typically takes 7-10 business days, depending on the type of company and document submission.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">The incorporation process typically takes 7-10 business days, depending on the type of company and document submission.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -309,7 +306,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">Documents such as PAN card, Aadhaar card, proof of address, Photographs, and a Digital Signature Certificate (DSC) are required.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">Documents such as PAN card, Aadhaar card, proof of address, Photographs, and a Digital Signature Certificate (DSC) are required.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -317,7 +314,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">The cost varies depending on the service required. We offer customized pricing for all services based on the complexity and scope of your requirements.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">The cost varies depending on the service required. We offer customized pricing for all services based on the complexity and scope of your requirements.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">
@@ -325,7 +322,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 text-sm hidden ans">We handle the entire process of filing your company’s annual return, including preparation of documents, and submission with the MCA.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">We handle the entire process of filing your company’s annual return, including preparation of documents, and submission with the MCA.</p>
                 </div>
             </div>
         </section>

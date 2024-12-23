@@ -11,7 +11,7 @@ namespace Complylocal
 {
 
 
-    public partial class fssai_registraion
+    public partial class WebForm2
     {
     }
 }
