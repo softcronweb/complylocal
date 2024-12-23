@@ -13,7 +13,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88]">Private Limited Company</h2>
-            <p class="text-2xl font-semibold ml-8">
+            <p class="font-medium ml-8">
                 A Private Limited Company (PLC) is a type of business entity privately held by a group of shareholders. It is one of the most popular and trusted forms of business structure in India due to its limited liability protection, separate legal identity, and ease of fundraising.
                 <br />
                 <br />
@@ -127,8 +127,8 @@
     <div class="bg-[#DAEAFA]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
-                <h3 class="text-6xl font-bold">frequently asked questions</h3>
-                <p class="text-gray-500 text-xl mt-4">
+                <h3 class="text-3xl font-bold">frequently asked questions</h3>
+                <p class="text-gray-500 mt-4">
                     Frequently asked question (FAQ) pages to find answars.
                 </p>
             </div>

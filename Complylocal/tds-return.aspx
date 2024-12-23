@@ -9,9 +9,10 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">TDS Return</h2>
-            <div class="list-disc text-xl  font-semibold ml-8 ">
-                <p class="text-[#1c5a88] text-2xl">Ensure timely compliance and maximize savings with our expert TDS advisory and filing services.</p>
+            <h2 class="text-3xl font-bold text-[#1c5a88] ">TDS Return</h2>
+            <p class="text-[#1c5a88] font-semibold mb-3 text-xl">Ensure timely compliance and maximize savings with our expert TDS advisory and filing services.</p>
+
+            <div class="list-disc ml-8 "> 
                 <p>Tax Deducted at Source (TDS) is a system where tax is deducted directly from payments like salaries, interest, rent, and professional fees, ensuring timely collection of taxes at the source of income.</p>
                 <p>Tax Collected at Source (TCS) is a tax collected by a seller or vendor from the buyer at the time of sale of specified goods or services, which is then deposited with the government as per the applicable rates under the Income Tax Act.</p>
 
@@ -34,77 +35,77 @@
     <div class="bg-[#faf8f7]">
         <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h3 class="text-4xl font-semibold">Why Choose Us ?</h3>
+                <h3 class="text-3xl font-semibold mb-8">Why Choose Us ?</h3>
 
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Expert Guidance
+            <div class="p-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Expert Guidance
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg  mt-4">
                     Accurate TDS calculation, deduction, and timely deposit. 
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-2xl font-semibold ">Compliance Assurance
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                <p class="text-gray-500 text-lg mt-4 bg-white">
                     Stay 100% compliant with TDS laws and avoid penalties.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">End-to-End Support
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">End-to-End Support
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">From deduction to filing TDS returns, we handle it all.</p>
+                <p class="text-gray-500 text-lg mt-4">From deduction to filing TDS returns, we handle it all.</p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Error-Free Filing
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Error-Free Filing
 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     Minimize errors with our advanced verification process.
                 </p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Timely Reminders 
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Timely Reminders 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     Never miss a deadline with our proactive alerts and notifications.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">PAN & TAN Assistance 
+            <div class="p-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">PAN & TAN Assistance 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     Support with PAN, TAN registration, and corrections.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Dispute Resolution 
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Dispute Resolution 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     Quick resolution of TDS notices and mismatch issues.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Affordable Pricing  
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Affordable Pricing  
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     Transparent pricing with no hidden charges.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Technology-Driven Approach 
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Technology-Driven Approach 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     Use of smart tools for accuracy and speed.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Dedicated Customer Support
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Dedicated Customer Support
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     Round-the-clock assistance from TDS experts.
                 </p>
             </div>
@@ -180,8 +181,8 @@
     <div class="bg-[#DAEAFA]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
-                <h3 class="text-6xl font-bold">frequently asked questions</h3>
-                <p class="text-gray-500 text-xl mt-4">
+                <h3 class="text-3xl font-bold">frequently asked questions</h3>
+                <p class="text-gray-500 mt-4">
                     Frequently asked question (FAQ) pages to find answars.
                 </p>
             </div>

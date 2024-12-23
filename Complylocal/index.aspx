@@ -61,65 +61,65 @@
     </section>
     <!-- About Section -->
     <div class=" bg-[#faf8f7] ">
-            <section
-                class="min-h-screen px-6 lg:px-20 py-16 grid grid-cols-1 lg:grid-cols-2 gap-20 items-center bg-[#dadded] rounded-t-[50px] sm:rounded-t-[100px]">
-                <!-- Left Side (Images) -->
-                <div class="relative z-10 flex flex-col sm:flex-row items-center justify-center w-full">
-                    <!-- Decorative Circle -->
+        <section
+            class="min-h-screen px-6 lg:px-20 py-16 grid grid-cols-1 lg:grid-cols-2 gap-20 items-center bg-[#dadded] rounded-t-[50px] sm:rounded-t-[100px]">
+            <!-- Left Side (Images) -->
+            <div class="relative z-10 flex flex-col sm:flex-row items-center justify-center w-full">
+                <!-- Decorative Circle -->
 
-                    <!-- Top Image -->
-                    <div class="hidden md:inline-block">
-                        <img src="assets/images/aboutus.png" alt="Team Image 1"
-                            class="w-[200px] h-[200px] object-cover rounded-lg shadow-lg">
-                    </div>
-                    <!-- Bottom Image -->
-                    <div class=" md:absolute z-10 ">
-                        <img src="assets/images/aboutusimg3.png" alt="Team Image 3"
-                            class="rounded-lg shadow-lg w-[200px] h-[200px] sm:h-[400px] object-cover ">
-                    </div>
-                    <!-- Right Image -->
-                    <div class="hidden md:inline-block">
-                        <img src="assets/images/aboutus2.png" alt="Team Image 2"
-                            class="rounded-lg shadow-lg w-[200px] h-[200px] object-cover ">
-                    </div>
+                <!-- Top Image -->
+                <div class="hidden md:inline-block">
+                    <img src="assets/images/aboutus.png" alt="Team Image 1"
+                        class="w-[200px] h-[200px] object-cover rounded-lg shadow-lg">
                 </div>
+                <!-- Bottom Image -->
+                <div class=" md:absolute z-10 ">
+                    <img src="assets/images/aboutusimg3.png" alt="Team Image 3"
+                        class="rounded-lg shadow-lg w-[200px] h-[200px] sm:h-[400px] object-cover ">
+                </div>
+                <!-- Right Image -->
+                <div class="hidden md:inline-block">
+                    <img src="assets/images/aboutus2.png" alt="Team Image 2"
+                        class="rounded-lg shadow-lg w-[200px] h-[200px] object-cover ">
+                </div>
+            </div>
 
-                <!-- Right Side (Text Content) -->
-                <div class="flex flex-col gap-8 w-full mt-20 sm:mt-none">
-                    <!-- Heading -->
-                    <h1 class="text-4xl font-bold text-black leading-tight">Unlock marketing
+            <!-- Right Side (Text Content) -->
+            <div class="flex flex-col gap-8 w-full mt-20 sm:mt-none">
+                <!-- Heading -->
+                <h1 class="text-4xl font-bold text-black leading-tight">Unlock marketing
                         <br>
-                        <span class="text-[#991c20]">strategy</span> for your
+                    <span class="text-[#991c20]">strategy</span> for your
                         <br>
-                        business
-                    </h1>
-                    <!-- Subheading -->
-                    <p class="text-gray-600 text-sm leading-relaxed">
-                        We immerse ourselves in your issues and we put our knowledge and expertise at your service to provide you with an informed response.
+                    business
+                </h1>
+                <!-- Subheading -->
+                <p class="text-gray-600 text-sm leading-relaxed">
+                    We immerse ourselves in your issues and we put our knowledge and expertise at your service to provide you with an informed response.
+                </p>
+                <!-- Buttons -->
+                <div class="flex items-center gap-4">
+                    <a href="#"
+                        class="text-white px-6 py-3 rounded-md font-medium bg-[#991c20]">Learn More
+                    </a>
+                    <a href="#" class="text-[#1c5a88] font-semibold hover:underline">How we work
+                    </a>
+                </div>
+                <!-- Statistic -->
+                <div>
+                    <h2 class="text-6xl font-bold text-black mb-2 flex items-center ">15<span class="text-2xl font-normal">+</span>
+                    </h2>
+                    <p class="font-medium text-lg">
+                        Years of hall of fame & experience
                     </p>
-                    <!-- Buttons -->
-                    <div class="flex items-center gap-4">
-                        <a href="#"
-                            class="text-white px-6 py-3 rounded-md font-medium bg-[#991c20]">Learn More
-                        </a>
-                        <a href="#" class="text-[#1c5a88] font-semibold hover:underline">How we work
-                        </a>
-                    </div>
-                    <!-- Statistic -->
-                    <div>
-                        <h2 class="text-6xl font-bold text-black mb-2 flex items-center ">15<span class="text-2xl font-normal">+</span>
-                        </h2>
-                        <p class="font-medium text-lg">
-                            Years of hall of fame & experience
-                        </p>
-                    </div>
                 </div>
+            </div>
 
-            </section>
+        </section>
     </div>
     <div class="bg-[#dadded]">
         <!-- our Services -->
-        <div class=" bg-[#f5e1e1] w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] ">
+        <div class=" bg-[#fde2e4] w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] ">
             <div class="text-center lg:text-left mb-12 flex flex-col sm:flex-row justify-between px-6 lg:px-20 ">
                 <h1 class="text-4xl lg:text-6xl font-bold mb-4 w-full">Our exclusive services</h1>
                 <div class="flex flex-col gap-4 w-full">
@@ -133,9 +133,9 @@
             </div>
 
             <!-- Services Grid -->
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 items-stretch gap-4  px-6 place-items-center">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 items-stretch gap-4  place-items-center">
                 <!-- Service Card -->
-                <div class="flex flex-col bg-white rounded-2xl p-8 px-12">
+                <div class="flex flex-col bg-white rounded-2xl p-8 px-12 w-full">
                     <div class="mb-4 ">
                         <img src="https://via.placeholder.com/50" alt="Icon" class="">
                     </div>
@@ -152,7 +152,7 @@
                 </div>
 
                 <!-- Service Card -->
-                <div class="flex flex-col bg-white rounded-2xl p-8 px-12">
+                <div class="flex flex-col bg-white rounded-2xl p-8 px-12 w-full">
                     <div class="mb-4">
                         <img src="https://via.placeholder.com/50" alt="Icon" class="">
                     </div>
@@ -170,7 +170,7 @@
                 </div>
 
                 <!-- Service Card -->
-                <div class="flex flex-col bg-white rounded-2xl p-8 px-12">
+                <div class="flex flex-col bg-white rounded-2xl p-8 px-12 w-full">
                     <div class="mb-4">
                         <img src="https://via.placeholder.com/50" alt="Icon" class="">
                     </div>
@@ -188,7 +188,7 @@
                 </div>
 
                 <!-- Service Card -->
-                <div class="flex flex-col bg-white rounded-2xl p-8 px-12">
+                <div class="flex flex-col bg-white rounded-2xl p-8 px-12 w-full">
                     <div class="mb-4">
                         <img src="https://via.placeholder.com/50" alt="Icon" class="">
                     </div>
@@ -203,11 +203,12 @@
                     </ul>
                 </div>
             </div>
+
         </div>
     </div>
     <!-- Statatics -->
     <div class="bg-[#f5e1e1]">
- <div class="bg-[#fefee3] sm:p-20 sm:px-20 px-5 py-20 flex flex-col sm:flex-row  justify-between items-center gap-10 sm:gap-0 sm:items-start rounded-t-[50px] rounded-t-[100px]">
+        <div class="bg-[#fefee3] sm:p-20 sm:px-20 px-5 py-20 flex flex-col sm:flex-row  justify-between items-center gap-10 sm:gap-0 sm:items-start rounded-t-[50px] rounded-t-[100px]">
             <div class="flex flex-col gap-4 text-center">
                 <h4 class="font-semibold text-5xl">1k+</h4>
                 <p class="text-gray-500">Clients</p>
@@ -229,78 +230,78 @@
 
     <!-- Steps we follow -->
     <div class="bg-[#fefee3]">
-    <div class="px-5 sm:px-20 py-20 bg-[#d8e8e3] rounded-t-[50px] sm:rounded-t-[100px]">
-        <div class="flex gap-8 items-center pb-8 sm:pb-2">
-            <h2 class="text-5xl font-medium w-full">Easy Steps to Begin</h2>
-            <div class="w-full hidden md:flex justify-center items-center">
-                <img src="assets/images/stepwefollowimg.png" alt="" class="w-[200px] h-[200px] object-cover">
+        <div class="px-5 sm:px-20 py-20 bg-[#d8e8e3] rounded-t-[50px] sm:rounded-t-[100px]">
+            <div class="flex gap-8 items-center pb-8 sm:pb-2">
+                <h2 class="text-5xl font-medium w-full">Easy Steps to Begin</h2>
+                <div class="w-full hidden md:flex justify-center items-center">
+                    <img src="assets/images/stepwefollowimg.png" alt="" class="w-[200px] h-[200px] object-cover">
+                </div>
             </div>
-        </div>
-        <!-- swiper -->
-        <div class="swiper mySwiper  ">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide " style="border-right: 1px solid gray; border-left: 1px solid gray;">
-                    <div class="flex flex-col w-full p-8 gap-4 ">
-                        <p class="text-sm text-gray-500">Step - 01</p>
-                        <p class="text-gray-500 line-clamp-5">
-                            Contact us through our website or the given contact information. Let us know how we can help you and your exact need, for eg: accounting, income tax returns, GST returns, etc.
-                        </p>
-                        <div class=" border-gray-500 border rounded-full flex flex-col justify-center items-center mt-20 min-h-40  p-4 w-full relative">
-                            <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
-                                <img src="assets/images/step-1.png" alt="">
+            <!-- swiper -->
+            <div class="swiper mySwiper  ">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide " style="border-right: 1px solid gray; border-left: 1px solid gray;">
+                        <div class="flex flex-col w-full p-8 gap-4 ">
+                            <p class="text-sm text-gray-500">Step - 01</p>
+                            <p class="text-gray-500 line-clamp-5">
+                                Contact us through our website or the given contact information. Let us know how we can help you and your exact need, for eg: accounting, income tax returns, GST returns, etc.
+                            </p>
+                            <div class=" border-gray-500 border rounded-full flex flex-col justify-center items-center mt-20 min-h-40  p-4 w-full relative">
+                                <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
+                                    <img src="assets/images/step-1.png" alt="">
+                                </div>
+                                <h2 class="text-center text-2xl ">Contact Us</h2>
                             </div>
-                            <h2 class="text-center text-2xl ">Contact Us</h2>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="swiper-slide " style="border-right: 1px solid gray;">
-                    <div class="flex flex-col w-full p-8 gap-4">
-                        <p class="text-sm text-gray-500">Step - 02</p>
-                        <p class="text-gray-500 line-clamp-5">
-                            Book an ExpertConsultation We will talk about what you are looking for, review your current financial health, and map our service to help get you there.
-                        </p>
-                        <div class=" border-gray-500 border rounded-full flex flex-col justify-center items-center mt-20 min-h-40  p-4 w-full relative">
-                            <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
-                                <img src="assets/images/step-1.png" alt="">
+                    <div class="swiper-slide " style="border-right: 1px solid gray;">
+                        <div class="flex flex-col w-full p-8 gap-4">
+                            <p class="text-sm text-gray-500">Step - 02</p>
+                            <p class="text-gray-500 line-clamp-5">
+                                Book an ExpertConsultation We will talk about what you are looking for, review your current financial health, and map our service to help get you there.
+                            </p>
+                            <div class=" border-gray-500 border rounded-full flex flex-col justify-center items-center mt-20 min-h-40  p-4 w-full relative">
+                                <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
+                                    <img src="assets/images/step-1.png" alt="">
+                                </div>
+                                <h2 class="text-center text-2xl ">Consultation</h2>
                             </div>
-                            <h2 class="text-center text-2xl ">Consultation</h2>
                         </div>
                     </div>
-                </div>
 
-                <div class="swiper-slide " style="border-right: 1px solid gray;">
-                    <div class="flex flex-col w-full p-8 gap-4">
-                        <p class="text-sm text-gray-500">Step - 03</p>
-                        <p class="text-gray-500 line-clamp-5">
-                            Do not worry; we will assist you with all the legal document validation. This may involve collecting financial, tax and some other related records required for the services we provide.
-                        </p>
-                        <div class=" border-gray-500 border rounded-full flex flex-col justify-center items-center mt-20 min-h-40  p-4 w-full relative">
-                            <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
-                                <img src="assets/images/step-2.png" alt="">
+                    <div class="swiper-slide " style="border-right: 1px solid gray;">
+                        <div class="flex flex-col w-full p-8 gap-4">
+                            <p class="text-sm text-gray-500">Step - 03</p>
+                            <p class="text-gray-500 line-clamp-5">
+                                Do not worry; we will assist you with all the legal document validation. This may involve collecting financial, tax and some other related records required for the services we provide.
+                            </p>
+                            <div class=" border-gray-500 border rounded-full flex flex-col justify-center items-center mt-20 min-h-40  p-4 w-full relative">
+                                <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
+                                    <img src="assets/images/step-2.png" alt="">
+                                </div>
+                                <h2 class="text-center text-2xl ">Documentation</h2>
                             </div>
-                            <h2 class="text-center text-2xl ">Documentation</h2>
                         </div>
                     </div>
-                </div>
 
-                <div class="swiper-slide " style="border-right: 1px solid gray;">
-                    <div class="flex flex-col w-full p-8 gap-4">
-                        <p class="text-sm text-gray-500">Step - 04</p>
-                        <p class="text-gray-500 line-clamp-5">
-                            Now, we will implement our services after collecting the files. This may include acting on accounting systems, tax returns, or reconciliations. And with our team, you get updated through the whole process and we ensure all of it is done immediately.
-                        </p>
-                        <div class=" border-gray-500 border rounded-full flex flex-col justify-center items-center mt-20 min-h-40  p-4 w-full relative">
-                            <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
-                                <img src="assets/images/step-3.png" alt="">
+                    <div class="swiper-slide " style="border-right: 1px solid gray;">
+                        <div class="flex flex-col w-full p-8 gap-4">
+                            <p class="text-sm text-gray-500">Step - 04</p>
+                            <p class="text-gray-500 line-clamp-5">
+                                Now, we will implement our services after collecting the files. This may include acting on accounting systems, tax returns, or reconciliations. And with our team, you get updated through the whole process and we ensure all of it is done immediately.
+                            </p>
+                            <div class=" border-gray-500 border rounded-full flex flex-col justify-center items-center mt-20 min-h-40  p-4 w-full relative">
+                                <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
+                                    <img src="assets/images/step-3.png" alt="">
+                                </div>
+                                <h2 class="text-center text-2xl ">Implementation</h2>
                             </div>
-                            <h2 class="text-center text-2xl ">Implementation</h2>
                         </div>
                     </div>
-                </div>
 
-                <%--    <div class="swiper-slide " style="border-right: 1px solid gray;">
+                    <%--    <div class="swiper-slide " style="border-right: 1px solid gray;">
                     <div class="flex flex-col w-full p-8 gap-40">
                         <p class="text-sm text-gray-500">Step - 05</p>
                         <div class=" border-gray-500 border rounded-full flex flex-col justify-center items-center mt-20 h-40  p-4 w-full relative">
@@ -325,69 +326,68 @@
                         </div>
                     </div>
                 </div>--%>
-            </div>
 
+                </div>
+
+            </div>
         </div>
     </div>
- </div>
     <!-- why we stand out -->
     <div class="bg-[#d8e8e3]">
-        <div class="bg-[#121212] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
-
-            <h2 class="text-5xl">Why ComplyLocal Stands Out</h2>
-
+        <div class="bg-[#bcd4e6] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
+            <h2 class="text-5xl text-black">Why ComplyLocal Stands Out</h2>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-                <div class="flex flex-col gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
                     <span>01</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-1.png" alt="">
                     </div>
                     <h3 class="text-2xl">Expertise</h3>
-                    <p class="text-gray-500 text-lg">We have a team of experts dealing with accounting, taxation, and financial regulations. We improve our knowledge and adapt to changes in the industry. So that you can ask the right questions and get really good, specific guidance. All of our interactions are held to the highest standard of professional conduct.</p>
+                    <p class=" text-lg">We have a team of experts dealing with accounting, taxation, and financial regulations. We improve our knowledge and adapt to changes in the industry. So that you can ask the right questions and get really good, specific guidance. All of our interactions are held to the highest standard of professional conduct.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
                     <span>02</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-2.png" alt="">
                     </div>
                     <h3 class="text-2xl">Customized Solutions</h3>
-                    <p class="text-gray-500 text-lg">Each client has unique needs. We personalize our solutions to meet these varying needs — regardless of whether you are a small business or a large corporation. We are affordable, and our services are tailored to your unique situation. This individualized treatment makes sure that you have the best support and solutions.</p>
+                    <p class=" text-lg">Each client has unique needs. We personalize our solutions to meet these varying needs — regardless of whether you are a small business or a large corporation. We are affordable, and our services are tailored to your unique situation. This individualized treatment makes sure that you have the best support and solutions.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
                     <span>03</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-3.png" alt="">
                     </div>
                     <h3 class="text-2xl">Convenience</h3>
-                    <p class="text-gray-500 text-lg">Use our expertise anywhere and anytime. Get in Touch – Easily contact us by phone, video conference, or email. You can choose from flexible communication to suit your availability. After all, it is this convenience that can make managing your finances a breeze while not disturbing your daily life.</p>
+                    <p class="text-lg">Use our expertise anywhere and anytime. Get in Touch – Easily contact us by phone, video conference, or email. You can choose from flexible communication to suit your availability. After all, it is this convenience that can make managing your finances a breeze while not disturbing your daily life.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
                     <span>04</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-4.png" alt="">
                     </div>
                     <h3 class="text-2xl">Transparency</h3>
-                    <p class="text-gray-500 text-lg">We believe in clear communication and an open pricing policy. No hidden costs, no surprise. Our direct way of doing things means you can take our word for it and we bring justice and decency in everything as a service. We value honesty & reliability, and we expect the same from our clients.</p>
+                    <p class="text-lg">We believe in clear communication and an open pricing policy. No hidden costs, no surprise. Our direct way of doing things means you can take our word for it and we bring justice and decency in everything as a service. We value honesty & reliability, and we expect the same from our clients.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
                     <span>05</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-4.png" alt="">
                     </div>
                     <h3 class="text-2xl">Compliance</h3>
-                    <p class="text-gray-500 text-lg">We always adhere to accounting standards, tax laws, and regulations in all cases. All of our services comply with all the necessary legal rules. You can sleep safe with us; we take care of your financial aspects Compliance is important to prevent legal issues and have a stable business operation.</p>
+                    <p class="text-lg">We always adhere to accounting standards, tax laws, and regulations in all cases. All of our services comply with all the necessary legal rules. You can sleep safe with us; we take care of your financial aspects Compliance is important to prevent legal issues and have a stable business operation.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
                     <span>06</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-4.png" alt="">
                     </div>
                     <h3 class="text-2xl">Timeliness</h3>
-                    <p class="text-gray-500 text-lg ">Emphasizing the fact that we value time deadlines. We are faster in other services our team is very dedicated and provides quality work before due time. We work faster to process your financial requests and do not compromise on the quality of service you get from us. Achieving deadlines sets you control along with information to remain on target, concentrating on increasing your business.</p>
+                    <p class="text-lg ">Emphasizing the fact that we value time deadlines. We are faster in other services our team is very dedicated and provides quality work before due time. We work faster to process your financial requests and do not compromise on the quality of service you get from us. Achieving deadlines sets you control along with information to remain on target, concentrating on increasing your business.</p>
                 </div>
             </div>
 
-            <div class='text-center p-8 px-12 rounded-full bg-[#1c1c1c] w-fit sm:col-span-2 md:col-span-3 place-self-center'>
+            <div class='text-center p-8 px-12 rounded-full bg-[#3c3c3c] w-fit sm:col-span-2 md:col-span-3 place-self-center'>
                 <h2>Save your precious time for finding a solution.</h2>
                 <a href="#" class="underline">Contact Us now</a>
             </div>
@@ -396,7 +396,7 @@
 
     <!-- testimonial -->
 
-    <div class="bg-[#121212]">
+    <div class="bg-[#bcd4e6]">
         <div class="w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] bg-[#faf4f0] ">
             <h2 class="text-6xl font-medium">What they say
         <br>

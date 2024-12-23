@@ -9,14 +9,14 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">Trademark Registration</h2>
-            <div class=" text-lg font-semibold ">
-                <h3 class="text-[#1c5a88] text-2xl">Protect Your Brand Identity with Trademark Registration</h3>
+            <h2 class="text-3xl font-bold text-[#1c5a88] ">Trademark Registration</h2>
+            <h3 class="text-[#1c5a88] font-semibold mb-3 text-xl">Protect Your Brand Identity with Trademark Registration</h3>
+            <div class="ml-8">  
                 <p>
                     A Trademark is a unique symbol, logo, word, name, or design that identifies and distinguishes your products or services from those of competitors. It serves as a valuable intellectual property asset for your business.
                 </p>
                 <p>It can be a:</p>
-                <ul class="font-semibold list-disc ml-8 text-[#1c5a88]">
+                <ul class="font-semibold list-disc ml-8">
                     <li>Logo</li>
                     <li>Brand Name </li>
                     <li>Tagline/Slogan </li>
@@ -49,42 +49,42 @@
     <div class="bg-[#faf8f7]">
         <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h3 class="text-4xl font-semibold">Why Choose Us for Trademark Registration?</h3>
+                <h3 class="text-4xl font-semibold mb-8">Why Choose Us for Trademark Registration?</h3>
 
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Comprehensive Search
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Comprehensive Search
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     We conduct a detailed trademark search to ensure your brand name/logo is unique.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Quick Filing Process
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Quick Filing Process
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                <p class="text-gray-500 text-lg mt-4 bg-white">
                     We handle the entire process from filing to certification, ensuring fast application submission.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Expert Legal Assistance
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Expert Legal Assistance
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">Our legal experts guide you through objections, hearings, and opposition proceedings.</p>
+                <p class="text-gray-500 text-lg mt-4">Our legal experts guide you through objections, hearings, and opposition proceedings.</p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Transparent Pricing
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Transparent Pricing
 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     No hidden charges — clear pricing for trademark filing and support.
                 </p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Ongoing Support
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Ongoing Support
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     We provide full support until you receive your trademark registration certificate.
                 </p>
             </div>
@@ -141,8 +141,8 @@
     <div class="bg-[#DAEAFA]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
-                <h3 class="text-6xl font-bold">frequently asked questions</h3>
-                <p class="text-gray-500 text-xl mt-4">
+                <h3 class="text-3xl font-bold">frequently asked questions</h3>
+                <p class="text-gray-500 mt-4">
                     Frequently asked question (FAQ) pages to find answars.
                 </p>
             </div>

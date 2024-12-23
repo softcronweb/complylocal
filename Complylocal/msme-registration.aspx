@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">MSME registration</h2>
-            <p class="list-disc text-xl  font-semibold ml-8 ">
+            <p class="ml-8 ">
                 The Micro, Small, and Medium Enterprises (MSME) sector is one of the most vital parts of India's economy. To avail of these benefits, businesses must obtain an MSME Registration (also known as Udyam Registration).
                 <br />
                 <br />
@@ -92,33 +92,33 @@
 
 
             <!-- left Content -->
-             <div class=" lg:w-1/2 flex justify-center items-center">
-     <div class="relative">
-         <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Benefits of MSME Registration
-         </h2>
-         <p class="text-gray-900 text-lg mb-6">
-             Registering as an MSME brings a range of benefits and support from the government. Here’s how it can help your business:
-         </p>
-         <ol class="list-decimal text-black font-semibold ml-8 mb-6">
-             <li>Access to Collateral-Free Loans</li>
-             <li>Subsidies & Government Support:</li>
-             <li>Lower Interest Rates on Loans:</li>
-             <li>Protection Against Delayed Payments:</li>
-             <li>Concession on Electricity Bills:</li>
-             <li>Eligibility for Government Tenders:</li>
-             <li>Tax Benefits: </li>
-             <li>Easier Access to Credit & Funding:</li>
-         </ol>
+            <div class=" lg:w-1/2 flex justify-center items-center">
+                <div class="relative">
+                    <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">Benefits of MSME Registration
+                    </h2>
+                    <p class="text-gray-900 text-lg mb-6">
+                        Registering as an MSME brings a range of benefits and support from the government. Here’s how it can help your business:
+                    </p>
+                    <ol class="list-decimal text-black ml-8 mb-6">
+                        <li>Access to Collateral-Free Loans</li>
+                        <li>Subsidies & Government Support:</li>
+                        <li>Lower Interest Rates on Loans:</li>
+                        <li>Protection Against Delayed Payments:</li>
+                        <li>Concession on Electricity Bills:</li>
+                        <li>Eligibility for Government Tenders:</li>
+                        <li>Tax Benefits:</li>
+                        <li>Easier Access to Credit & Funding:</li>
+                    </ol>
 
-     </div>
- </div>
+                </div>
+            </div>
 
             <div class="flex flex-col lg:w-1/2 items-start">
 
                 <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Documents Required for MSME Registration
                 </h2>
 
-                <ol class="list-decimal text-black font-semibold ml-8 mb-6">
+                <ol class="list-decimal text-black ml-8 mb-6">
                     <li>Aadhaar Card </li>
                     <li>PAN Card </li>
                     <li>Business Address Proof </li>
@@ -132,8 +132,8 @@
                 <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
                 </a>
             </div>
-           
-           
+
+
         </section>
     </div>
 
@@ -141,8 +141,8 @@
     <div class="bg-[#DAEAFA]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
-                <h3 class="text-6xl font-bold">frequently asked questions</h3>
-                <p class="text-gray-500 text-xl mt-4">
+                <h3 class="text-3xl font-bold">frequently asked questions</h3>
+                <p class="text-gray-500 mt-4">
                     Frequently asked question (FAQ) pages to find answars.
                 </p>
             </div>

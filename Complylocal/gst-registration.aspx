@@ -8,9 +8,9 @@
 
         <!-- left Content -->
 
-        <div class="order-1 sm:order-2 flex flex-col lg:w-1/2 text-center lg:pl-8">
+        <div class="order-1 sm:order-2 flex flex-col lg:w-1/2 lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">GST (GOODS & SERVICES TAX)</h2>
-            <h4 class="text-2xl font-semibold ">Goods and Services Tax (GST) is a unified, destination-based indirect tax levied on the supply of goods and services, aimed at replacing multiple indirect taxes and promoting a seamless tax structure across the country
+            <h4 class="font-semibold ml-8 ">Goods and Services Tax (GST) is a unified, destination-based indirect tax levied on the supply of goods and services, aimed at replacing multiple indirect taxes and promoting a seamless tax structure across the country
             </h4>
         </div>
 
@@ -23,49 +23,7 @@
             </div>
         </div>
     </section>
-    <%--about--%>
-    <%--<div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
-            <!--- heading -->
-            <div class="grid md:grid-cols-3 gap-8">
-                <div>
-                    <h3 class="text-3xl font-semibold">GST Registration services
-                    </h3>
-                </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
-                    <ul class="">
-                        <li>-	GST Registration</li>
-                        <li>-	GST Return Filing</li>
-                        <li>
-                            <ul class="ml-8">
-                                <li><span class="font-semibold">GSTR-1:</span> Monthly/quarterly return for outward supplies.</li>
-                                <li><span class="font-semibold">GSTR-3B:</span> Monthly summary return of inward and outward supplies.</li>
-                                <li><span class="font-semibold">GSTR-9:</span> Annual return for regular taxpayers.</li>
-                                <li><span class="font-semibold">GSTR-4:</span> Return for composition scheme taxpayers.</li>
-                                <li><span class="font-semibold">GSTR-6:</span> Return for input service distributors.</li>
-                                <li><span class="font-semibold">GSTR-7:</span> Return for TDS (Tax Deducted at Source) under GST.</li>
-                                <li><span class="font-semibold">GSTR-9C- </span>GST reconciliation statement filed by applicable taxpayers</li>
-                                <li><span class="font-semibold">GSTR-8-</span> e-commerce operators who are required to deduct TCS under GST</li>
-
-                            </ul>
-                        </li>
-                        <li>-	GST Payment Services</li>
-                        <li>-	GST Consultancy</li>
-                        <li>-	GST Reconciliation Services</li>
-                        <li>-	GST Refund</li>
-                        <li>-	GST for E- Commerce Business</li>
-                        <li>-	E-Invoicing under GST</li>
-                        <li>-	GST Litigation & Proceedings</li>
-                        <li>-	GST on RCM (Reverse Charge Mechanism)</li>
-
-
-                    </ul>
-
-                    <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
-                </div>
-            </div>
-        </div>
-    </div>--%>
+   
 
     <!-- about -->
     <div class="bg-[#E5F1E3]">
@@ -79,9 +37,9 @@
                 <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">GST (GOODS & SERVICES TAX)
                 </h2>
                 <div class="text-gray-900 text-lg mb-6">
-                  <ul class="">
-    <li>-	GST Registration</li>
-    <li>-	GST Return Filing</li>
+                  <ul class=" list-disc">
+    <li>	GST Registration</li>
+    <li>	GST Return Filing</li>
     <li>
         <ul class="ml-8">
             <li><span class="font-semibold">GSTR-1:</span> Monthly/quarterly return for outward supplies.</li>
@@ -91,18 +49,18 @@
             <li><span class="font-semibold">GSTR-6:</span> Return for input service distributors.</li>
             <li><span class="font-semibold">GSTR-7:</span> Return for TDS (Tax Deducted at Source) under GST.</li>
             <li><span class="font-semibold">GSTR-9C- </span>GST reconciliation statement filed by applicable taxpayers</li>
-            <li><span class="font-semibold">GSTR-8-</span> e-commerce operators who are required to deduct TCS under GST</li>
+            <li><span class="font-semibold">GSTR-8-</span> E-commerce operators who are required to deduct TCS under GST</li>
 
         </ul>
     </li>
-    <li>-	GST Payment Services</li>
-    <li>-	GST Consultancy</li>
-    <li>-	GST Reconciliation Services</li>
-    <li>-	GST Refund</li>
-    <li>-	GST for E- Commerce Business</li>
-    <li>-	E-Invoicing under GST</li>
-    <li>-	GST Litigation & Proceedings</li>
-    <li>-	GST on RCM (Reverse Charge Mechanism)</li>
+    <li>	GST Payment Services</li>
+    <li>	GST Consultancy</li>
+    <li>	GST Reconciliation Services</li>
+    <li>	GST Refund</li>
+    <li>	GST for E- Commerce Business</li>
+    <li>	E-Invoicing under GST</li>
+    <li>	GST Litigation & Proceedings</li>
+    <li>	GST on RCM (Reverse Charge Mechanism)</li>
 
 
 </ul>
@@ -127,8 +85,8 @@
     <div class="bg-[#DAEAFA]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
-                <h3 class="text-6xl font-bold">frequently asked questions</h3>
-                <p class="text-gray-500 text-xl mt-4">
+                <h3 class="text-3xl font-bold">frequently asked questions</h3>
+                <p class="text-gray-500 mt-4">
                     Frequently asked question (FAQ) pages to find answars.
                 </p>
             </div>

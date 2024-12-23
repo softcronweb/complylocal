@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="fssai-registration.aspx.cs" Inherits="Complylocal.fssai_registraion" %>
+﻿    `   1<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="fssai-registration.aspx.cs" Inherits="Complylocal.fssai_registraion" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -62,77 +62,73 @@
                         <li>Also required for importers, exporters, e-commerce platforms, and food businesses operating in multiple states.
                         </li>
                     </ul>
-
-                 
-
-           
                 </div>
             </div>
         </div>
     </div>
 
 
-     <%-- why choose us --%>
- <div class="bg-[#E5F1E3]">
-     <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
-         <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-             <h3 class="text-4xl font-semibold">Benefits of FSSAI Registration</h3>
+    <%-- why choose us --%>
+    <div class="bg-[#E5F1E3]">
+        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+            <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
+                <h3 class="text-4xl font-semibold">Benefits of FSSAI Registration</h3>
 
-         </div>
-         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-             <h4 class="text-2xl font-semibold ">Legal Compliance
-             </h4>
-             <p class="text-gray-500 text-lg pl-4 mt-4">
-              Operating without an FSSAI license can result in hefty fines, penalties, and closure of the business.
-             </p>
-         </div>
-         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-             <h4 class="text-2xl font-semibold ">Build Customer Trust
-             </h4>
-             <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
-                 The FSSAI logo on products reassures customers that the food is safe to consume.
-             </p>
-         </div>
-         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-             <h4 class="text-2xl font-semibold ">Market Expansion
-             </h4>
-             <p class="text-gray-500 text-lg pl-4 mt-4">An FSSAI license allows you to expand your food business nationwide and beyond.</p>
-         </div>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Legal Compliance
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Operating without an FSSAI license can result in hefty fines, penalties, and closure of the business.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Build Customer Trust
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                    The FSSAI logo on products reassures customers that the food is safe to consume.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Market Expansion
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">An FSSAI license allows you to expand your food business nationwide and beyond.</p>
+            </div>
 
-         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-             <h4 class="text-2xl font-semibold ">Use of FSSAI Logo
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Use of FSSAI Logo
 
-             </h4>
-             <p class="text-gray-500 text-lg pl-4 mt-4">
-                 You can display the FSSAI logo on food packages, menus, and advertising materials, enhancing brand trust
-             </p>
-         </div>
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    You can display the FSSAI logo on food packages, menus, and advertising materials, enhancing brand trust
+                </p>
+            </div>
 
-         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-             <h4 class="text-2xl font-semibold ">Business Credibility
-             </h4>
-             <p class="text-gray-500 text-lg pl-4 mt-4">
-                 It demonstrates that your business follows the necessary food safety standards.
-             </p>
-         </div>
-         
-         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-             <h4 class="text-2xl font-semibold ">Legal Protection
-             </h4>
-             <p class="text-gray-500 text-lg pl-4 mt-4">
-                In case of false complaints or legal issues, having an FSSAI license strengthens your legal position.
-             </p>
-         </div> 
-         <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-             <h4 class="text-2xl font-semibold ">Government Support  
-             </h4>
-             <p class="text-gray-500 text-lg pl-4 mt-4">
-                Many government initiatives and subsidies are available only to FSSAI-registered businesses.
-             </p>
-         </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Business Credibility
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    It demonstrates that your business follows the necessary food safety standards.
+                </p>
+            </div>
 
-     </section>
- </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Legal Protection
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    In case of false complaints or legal issues, having an FSSAI license strengthens your legal position.
+                </p>
+            </div>
+            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
+                <h4 class="text-2xl font-semibold ">Government Support  
+                </h4>
+                <p class="text-gray-500 text-lg pl-4 mt-4">
+                    Many government initiatives and subsidies are available only to FSSAI-registered businesses.
+                </p>
+            </div>
+
+        </section>
+    </div>
 
     <!-- about -->
     <div class="bg-[#d8e8e3]">

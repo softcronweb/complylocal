@@ -11,7 +11,7 @@
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-1 text-[#1c5a88] ">INCOME TAX</h2>
             <h4 class="text-xl font-semibold text-[#1c5a88] mb-3">Maximize your refund, minimize your stress</h4>
-            <p class="list-disc text-2xl  font-semibold ml-8 ">
+            <p class="ml-8 ">
                 Income tax or direct tax is an important part of the Indian tax structure affecting diverse persons including individuals, HUFs, Corporate, partnerships, LLPs, Societies and others.
             </p>
         </div>
@@ -30,54 +30,54 @@
     <div class="bg-[#faf8f7]">
         <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h3 class="text-5xl font-semibold">Why Choose Us ?</h3>
+                <h3 class="text-3xl font-semibold mb-8">Why Choose Us ?</h3>
 
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Expertise & Experience
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Expertise & Experience
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     Seasoned tax advisors with in-depth knowledge of tax laws and regulations.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Personalized Solutions
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Personalized Solutions
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                <p class="text-gray-500 text-lg mt-4 bg-white">
                     Tailored tax planning strategies to meet individual and business needs.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Compliance & Accuracy
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Compliance & Accuracy
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">Ensure 100 percent compliance with tax regulations, minimizing audit risks. </p>
+                <p class="text-gray-500 text-lg mt-4">Ensure 100 percent compliance with tax regulations, minimizing audit risks. </p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Tax Savings
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Tax Savings
 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-gray-500 text-lg mt-4">
                     Maximize tax benefits and reduce liabilities with proactive planning.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">End-to-End Support
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">End-to-End Support
 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">Assistance with filings, appeals, and audits at every step.</p>
+                <p class="text-gray-500 text-lg mt-4">Assistance with filings, appeals, and audits at every step.</p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Time-Saving & Hassle-Free
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Time-Saving & Hassle-Free
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">Leave the paperwork to us while you focus on your business</p>
+                <p class="text-gray-500 text-lg mt-4">Leave the paperwork to us while you focus on your business</p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Transparent Pricing
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Transparent Pricing
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">No hidden fees, clear and upfront pricing for all services.</p>
+                <p class="text-gray-500 text-lg  mt-4">No hidden fees, clear and upfront pricing for all services.</p>
             </div>
             <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
                 <h4 class="text-2xl font-semibold ">Technology-Driven Approach
@@ -85,16 +85,16 @@
                 <p class="text-gray-500 text-lg pl-4 mt-4">Use of modern software for seamless filing and tracking.</p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Dedicated Customer Support
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Dedicated Customer Support
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">Responsive support to resolve your queries quickly.</p>
+                <p class="text-gray-500 text-lg  mt-4">Responsive support to resolve your queries quickly.</p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Confidential & Secure
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Confidential & Secure
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">Guaranteed confidentiality and data security for all financial information.</p>
+                <p class="text-gray-500 text-lg mt-4">Guaranteed confidentiality and data security for all financial information.</p>
             </div>
         </section>
     </div>
@@ -146,8 +146,8 @@
     <div class="bg-[#DAEAFA]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
-                <h3 class="text-6xl font-bold">frequently asked questions</h3>
-                <p class="text-gray-500 text-xl mt-4">
+                <h3 class="text-3xl font-bold">frequently asked questions</h3>
+                <p class="text-gray-500 mt-4">
                     Frequently asked question (FAQ) pages to find answars.
                 </p>
             </div>

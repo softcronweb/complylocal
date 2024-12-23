@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">E-Commerce Services</h2>
-            <p class="text-2xl font-semibold ml-8 ">
+            <p class="ml-8 ">
                 In the fast-paced world of e-commerce, managing your financial records accurately is essential for growth and compliance. At Complylocal, we specialize in providing comprehensive accounting services tailored to the unique needs of e-commerce businesses. From handling day-to-day transactions to tax planning and financial reporting, we ensure your financial processes are streamlined, transparent, and compliant.
 
             </p>
@@ -28,20 +28,20 @@
     <%--about--%>
 
     <div class="bg-[#faf8f7]">
-        <div class="bg-[#121212] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
+        <div class="bg-[#bcd4e6] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
 
             <div>
-                <h2 class="text-5xl">Our E-Commerce Services</h2>
-                <p class="text-2xl text-gray-500 pt-4">
+                <h2 class="text-3xl text-black font-semibold text-black">Our E-Commerce Services</h2>
+                <p class="text-xl text-gray-900 pt-4">
                     We offer a range of accounting solutions to help e-commerce businesses stay organized, financially healthy, and compliant with tax regulations. 	
                 </p>
             </div>
 
             <div class="grid sm:grid-cols-2 md:grid-cols-3  gap-4">
-                <div class="flex flex-col gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
                     <h3 class="text-2xl">Bookkeeping and Financial Record Keeping</h3>
-                    <p class="text-gray-500 text-lg">We offer complete <span class="font-semibold">bookkeeping</span> services to maintain accurate financial records of all your transactions, including sales, returns, and operating expenses. Our goal is to ensure that your financial data is organized and ready for tax filing and reporting.</p>
-                    <ul class="text-gray-500 list-disc ml-8 ">
+                    <p class="">We offer complete <span class="font-semibold">bookkeeping</span> services to maintain accurate financial records of all your transactions, including sales, returns, and operating expenses. Our goal is to ensure that your financial data is organized and ready for tax filing and reporting.</p>
+                    <ul class=" list-disc ml-8 ">
                         <li>Daily/Monthly Bookkeeping</li>
                         <li>Recording Sales and Purchases</li>
                         <li>Handling Returns and Refunds</li>
@@ -51,15 +51,15 @@
                 </div>
 
 
-                <div class="flex flex-col gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
                     <h3 class="text-2xl">E-Commerce Financial Reporting
 
                     </h3>
-                    <p class="text-gray-500 text-lg">
+                    <p class="">
                         Our team prepares clear and comprehensive <span class="font-semibold">financial reports</span> that provide insights into the financial health of your e-commerce business. These reports help you make informed decisions, plan future growth, and assess the profitability of your business.
 
                     </p>
-                    <ul class="text-gray-500 list-disc ml-8 ">
+                    <ul class=" list-disc ml-8 ">
                         <li>Profit and Loss Statements (P&L)</li>
                         <li>Balance Sheets</li>
                         <li>Cash Flow Statements</li>
@@ -70,15 +70,15 @@
                 </div>
 
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
                     <h3 class="text-2xl">GST Compliance and Filing
 
                     </h3>
-                    <p class="text-gray-500 text-lg">
+                    <p class="">
                         Managing <span class="font-semibold">GST</span> can be complicated for e-commerce businesses, especially if you sell in multiple states or countries. We help you navigate the complexities of <span class="font-semibold">GST compliance</span> by ensuring accurate calculation, collection, and timely filing of sales tax returns.
 
                     </p>
-                    <ul class="text-gray-500 list-disc ml-8 ">
+                    <ul class="list-disc ml-8 ">
                         <li>Sales Tax Registration</li>
                         <li>Sales Tax Calculation & Filing</li>
                         <li>Multi-State GST Compliance</li>
@@ -88,14 +88,14 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
                     <h3 class="text-2xl">Profitability Analysis
 
                     </h3>
-                    <p class="text-gray-500 text-lg">
+                    <p class=" ">
                         We conduct a detailed <span class="font-semibold">profitability analysis</span> to help you understand the costs involved in running your e-commerce business, identify potential areas for improvement, and optimize your profit margins.
                     </p>
-                    <ul class="text-gray-500 list-disc ml-8 ">
+                    <ul class=" list-disc ml-8 ">
                         <li>Cost of Goods Sold (COGS) Analysis</li>
                         <li>Expense Tracking and Optimization</li>
                         <li>Gross Margin and Net Profit Analysis</li>
@@ -105,14 +105,14 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
                     <h3 class="text-2xl">Tax Planning and Filing
 
                     </h3>
-                    <p class="text-gray-500 text-lg">
+                    <p class="">
                         Our accounting team ensures that your e-commerce business is tax-efficient by offering personalized <span class="font-semibold">tax planning</span> services. We help with tax-saving strategies, preparing tax returns, and ensuring compliance with local and international tax laws.
                     </p>
-                    <ul class="text-gray-500 list-disc ml-8 ">
+                    <ul class=" list-disc ml-8 ">
                         <li>Income Tax Return Filing (ITR)</li>
                         <li>Tax Deductions and Credits Optimization</li>
                         <li>GST and TDS Filing</li>
@@ -121,14 +121,14 @@
                 </div>
 
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
                     <h3 class="text-2xl">Cash Flow Management
 
                     </h3>
-                    <p class="text-gray-500 text-lg">
+                    <p class="">
                         We help you maintain a healthy <span class="font-semibold">cash flow</span> by managing accounts payable and receivable, tracking incoming payments from customers, and ensuring that your business has the liquidity it needs for day-to-day operations.
                     </p>
-                    <ul class="text-gray-500 list-disc ml-8 ">
+                    <ul class=" list-disc ml-8 ">
                         <li>Accounts Receivable and Payable Management</li>
                         <li>Cash Flow Forecasting</li>
                         <li>Debt Collection and Management</li>
@@ -138,14 +138,14 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
                     <h3 class="text-2xl">Financial Forecasting and Budgeting
 
                     </h3>
-                    <p class="text-gray-500 text-lg">
+                    <p class="">
                         We assist with <span class="font-semibold">financial forecasting </span>and <span class="font-semibold">budgeting</span> to plan for future growth and ensure that you are on track to meet your financial goals. Whether it’s preparing for seasonal demand or expanding into new markets, we help you build accurate and achievable financial forecasts.
                     </p>
-                    <ul class="text-gray-500 list-disc ml-8 ">
+                    <ul class=" list-disc ml-8 ">
                         <li>Revenue and Expense Forecasting</li>
                         <li>Setting Financial Goals and Milestones</li>
                         <li>Creating Annual and Quarterly Budgets</li>
@@ -155,14 +155,14 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#1c1c1c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
                     <h3 class="text-2xl">E-Commerce Business Consulting
 
                     </h3>
-                    <p class="text-gray-500 text-lg">
+                    <p class="">
                         Our team provides expert advice to help you improve your e-commerce operations and financial performance. Whether you're looking to scale, optimize costs, or restructure your financial processes, our consulting services provide actionable insights.
                     </p>
-                    <ul class="text-gray-500 list-disc ml-8 ">
+                    <ul class=" list-disc ml-8 ">
                         <li>Business Strategy and Financial Planning</li>
                         <li>Profitability and Cost Reduction Strategies</li>
                         <li>Tax Strategy and Savings Recommendations</li>
@@ -172,51 +172,42 @@
 
                     </ul>
                 </div>
-
-
-
-
-
-
-
-
-
             </div>
 
         </div>
     </div>
 
     <%-- Why choose us --%>
-    <div class="bg-[#121212]">
+    <div class="bg-[#bcd4e6]">
         <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h3 class="text-5xl font-semibold">Why Choose Us for E-Commerce Accounting Services?</h3>
+                <h3 class="text-3xl font-semibold">Why Choose Us for E-Commerce Accounting Services?</h3>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Customized Solutions
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Customized Solutions
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class="text-lg mt-4">
                     We offer personalized accounting services tailored to your business size, structure, and needs.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Technology-Driven
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Technology-Driven
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4 bg-white">
+                <p class=" text-lg mt-4 bg-white">
                     We leverage the latest accounting software and tools to automate processes and provide real-time insights into your business’s financial health.
                 </p>
             </div>
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Compliance Focused
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Compliance Focused
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">We ensure that your e-commerce business stays compliant with all local and international tax and accounting regulations. </p>
+                <p class="text-lg mt-4">We ensure that your e-commerce business stays compliant with all local and international tax and accounting regulations. </p>
             </div>
 
-            <div class="p-4 py-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Scalable Services
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Scalable Services
 
                 </h4>
-                <p class="text-gray-500 text-lg pl-4 mt-4">
+                <p class=" text-lg mt-4">
                     As your business grows, our services scale with you, providing continuous support through every stage of your e-commerce journey.
                 </p>
             </div>
@@ -267,8 +258,8 @@
     <div class="bg-[#DAEAFA]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
-                <h3 class="text-6xl font-bold">frequently asked questions</h3>
-                <p class="text-gray-500 text-xl mt-4">
+                <h3 class="text-3xl font-bold">frequently asked questions</h3>
+                <p class="text-gray-500 mt-4">
                     Frequently asked question (FAQ) pages to find answars.
                 </p>
             </div>
