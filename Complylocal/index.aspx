@@ -250,7 +250,7 @@
                                 <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
                                     <img src="assets/images/step-1.png" alt="">
                                 </div>
-                                <h2 class="text-center text-2xl ">Contact Us</h2>
+                                <h2 class="text-center text-sm sm:text-lg md:text-2xl ">Contact Us</h2>
                             </div>
                         </div>
                     </div>
@@ -266,7 +266,7 @@
                                 <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
                                     <img src="assets/images/step-1.png" alt="">
                                 </div>
-                                <h2 class="text-center text-2xl ">Consultation</h2>
+                                <h2 class="text-center text-sm sm:text-lg md:text-2xl ">Consultation</h2>
                             </div>
                         </div>
                     </div>
@@ -281,7 +281,7 @@
                                 <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
                                     <img src="assets/images/step-2.png" alt="">
                                 </div>
-                                <h2 class="text-center text-2xl ">Documentation</h2>
+                                <h2 class="text-center text-sm sm:text-lg md:text-2xl">Documentation</h2>
                             </div>
                         </div>
                     </div>
@@ -296,7 +296,7 @@
                                 <div class="bg-black rounded-full sm:w-20 sm:h-20 w-10 h-10 p-4 flex justify-center items-center absolute -top-5 sm:-top-12 overflow-hidden">
                                     <img src="assets/images/step-3.png" alt="">
                                 </div>
-                                <h2 class="text-center text-2xl ">Implementation</h2>
+                                <h2 class="text-center text-sm sm:text-lg md:text-2xl ">Implementation</h2>
                             </div>
                         </div>
                     </div>

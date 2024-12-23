@@ -38,32 +38,32 @@
                 </h2>
                 <div class="text-gray-900 text-lg mb-6">
                   <ul class=" list-disc">
-    <li>	GST Registration</li>
-    <li>	GST Return Filing</li>
-    <li>
-        <ul class="ml-8">
-            <li><span class="font-semibold">GSTR-1:</span> Monthly/quarterly return for outward supplies.</li>
-            <li><span class="font-semibold">GSTR-3B:</span> Monthly summary return of inward and outward supplies.</li>
-            <li><span class="font-semibold">GSTR-9:</span> Annual return for regular taxpayers.</li>
-            <li><span class="font-semibold">GSTR-4:</span> Return for composition scheme taxpayers.</li>
-            <li><span class="font-semibold">GSTR-6:</span> Return for input service distributors.</li>
-            <li><span class="font-semibold">GSTR-7:</span> Return for TDS (Tax Deducted at Source) under GST.</li>
-            <li><span class="font-semibold">GSTR-9C- </span>GST reconciliation statement filed by applicable taxpayers</li>
-            <li><span class="font-semibold">GSTR-8-</span> E-commerce operators who are required to deduct TCS under GST</li>
+                        <li>	GST Registration</li>
+                        <li>	GST Return Filing</li>
+                        <li>
+                            <ul class="ml-8">
+                                <li><span class="font-semibold">GSTR-1:</span> Monthly/quarterly return for outward supplies.</li>
+                                <li><span class="font-semibold">GSTR-3B:</span> Monthly summary return of inward and outward supplies.</li>
+                                <li><span class="font-semibold">GSTR-9:</span> Annual return for regular taxpayers.</li>
+                                <li><span class="font-semibold">GSTR-4:</span> Return for composition scheme taxpayers.</li>
+                                <li><span class="font-semibold">GSTR-6:</span> Return for input service distributors.</li>
+                                <li><span class="font-semibold">GSTR-7:</span> Return for TDS (Tax Deducted at Source) under GST.</li>
+                                <li><span class="font-semibold">GSTR-9C- </span>GST reconciliation statement filed by applicable taxpayers</li>
+                                <li><span class="font-semibold">GSTR-8-</span> E-commerce operators who are required to deduct TCS under GST</li>
 
-        </ul>
-    </li>
-    <li>	GST Payment Services</li>
-    <li>	GST Consultancy</li>
-    <li>	GST Reconciliation Services</li>
-    <li>	GST Refund</li>
-    <li>	GST for E- Commerce Business</li>
-    <li>	E-Invoicing under GST</li>
-    <li>	GST Litigation & Proceedings</li>
-    <li>	GST on RCM (Reverse Charge Mechanism)</li>
+                            </ul>
+                        </li>
+                        <li>	GST Payment Services</li>
+                        <li>	GST Consultancy</li>
+                        <li>	GST Reconciliation Services</li>
+                        <li>	GST Refund</li>
+                        <li>	GST for E- Commerce Business</li>
+                        <li>	E-Invoicing under GST</li>
+                        <li>	GST Litigation & Proceedings</li>
+                        <li>	GST on RCM (Reverse Charge Mechanism)</li>
 
 
-</ul>
+                </ul>
 
                 </div>
 

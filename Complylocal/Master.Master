@@ -35,8 +35,8 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <nav>
-            <div class=" w-full flex justify-between gap-8 items-center h-[10vh] p-1  sm:px-20 px-5  bg-[#fafafa] fixed -mt-[1px] z-[999] navfont">
+        <div>
+            <nav class=" w-full flex justify-between gap-8 items-center h-[10vh] p-1  sm:px-20 px-5  bg-[#fafafa] fixed -mt-[1px] z-[999] navfont">
                 <a href="index.aspx" class="h-full max-w-40 md:max-w-60 flex sm:justify-center items-center ">
                     <img src="assets/images/logo-complylocal.png" alt="" class="w-full h-full object-contain">
                 </a>
@@ -104,7 +104,7 @@
                         </ul>
                     </li>
                 </ul>
-            </div>
+            </nav>
 
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
@@ -172,7 +172,7 @@
                     </div>
                 </footer>
             </div>
-        </nav>
+        </div>
     </form>
 
     <!-- script -->
