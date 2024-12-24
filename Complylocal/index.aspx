@@ -117,11 +117,11 @@
 
         </section>
     </div>
-        <!-- our Services -->
+    <!-- our Services -->
     <div class="bg-[#dadded]">
-      
-        
-        <div class=" bg-[#e2edcf] w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] ">
+
+
+        <div class=" bg-[#e9f5db] w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] ">
             <div class=" mb-12 flex flex-col justify-between ">
                 <h1 class="text-3xl font-semibold mb-4 w-full ">Our exclusive services</h1>
                 <div class="flex flex-col gap-4 w-full">
@@ -136,13 +136,13 @@
             <!-- Services Grid -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 items-stretch gap-4  place-items-center">
                 <!-- Service Card -->
-                <div class="flex flex-col bg-white rounded-2xl p-8 px-12 w-full">
-                    <div class="mb-4 ">
-                        <img src="https://via.placeholder.com/50" alt="Icon" class="">
+                <div class="flex flex-col bg-white rounded-2xl p-8 px-8 w-full">
+                    <div class="mb-4 bg-black w-fit p-1 rounded-md">
+                        <img src="assets/images/why-we-1.png" alt="Icon" class="">
                     </div>
                     <h3 class="text-2xl font-semibold mb-4">Business<br>
                         Registration</h3>
-                    <ul class="text-gray-600 space-y-2 list-disc">
+                    <ul class="text-gray-600 space-y-2 list-disc ml-4">
                         <li>Private Limited Company</li>
                         <li>One Person Company</li>
                         <li>Limited Liability Partnership</li>
@@ -153,14 +153,14 @@
                 </div>
 
                 <!-- Service Card -->
-                <div class="flex flex-col bg-white rounded-2xl p-8 px-12 w-full">
-                    <div class="mb-4">
-                        <img src="https://via.placeholder.com/50" alt="Icon" class="">
+                <div class="flex flex-col bg-white rounded-2xl p-8 px-8 w-full">
+                    <div class="mb-4 bg-black w-fit p-1 rounded-md">
+                        <img src="assets/images/why-we-1.png" alt="Icon" class="">
                     </div>
                     <h3 class="text-2xl font-semibold mb-4 ">MCA  
                         <br>
                         Services</h3>
-                    <ul class="text-gray-600  space-y-2 list-disc">
+                    <ul class="text-gray-600  space-y-2 list-disc ml-4">
                         <li>AOA/MOA Amendments</li>
                         <li>Authorized Capital Change</li>
                         <li>Add Directors</li>
@@ -171,14 +171,14 @@
                 </div>
 
                 <!-- Service Card -->
-                <div class="flex flex-col bg-white rounded-2xl p-8 px-12 w-full">
-                    <div class="mb-4">
-                        <img src="https://via.placeholder.com/50" alt="Icon" class="">
+                <div class="flex flex-col bg-white rounded-2xl p-8 px-8 w-full">
+                    <div class="mb-4 bg-black w-fit p-1 rounded-md">
+                        <img src="assets/images/why-we-1.png" alt="Icon" class="">
                     </div>
                     <h3 class="text-2xl font-semibold mb-4 ">E-commerce
                         <br>
                         Services</h3>
-                    <ul class="text-gray-600 space-y-2 list-disc">
+                    <ul class="text-gray-600 space-y-2 list-disc ml-4">
                         <li>Additional Business Place</li>
                         <li>Virtual Business Place</li>
                         <li>E-Commerce GST</li>
@@ -189,14 +189,14 @@
                 </div>
 
                 <!-- Service Card -->
-                <div class="flex flex-col bg-white rounded-2xl p-8 px-12 w-full">
-                    <div class="mb-4">
-                        <img src="https://via.placeholder.com/50" alt="Icon" class="">
+                <div class="flex flex-col bg-white rounded-2xl p-8 px-8 w-full">
+                    <div class="mb-4 bg-black w-fit p-1 rounded-md">
+                        <img src="assets/images/why-we-1.png" alt="Icon" class="">
                     </div>
                     <h3 class="text-2xl font-semibold mb-4">TAX Filing
                         <br>
                         Services</h3>
-                    <ul class="text-gray-600 space-y-2 list-disc">
+                    <ul class="text-gray-600 space-y-2 list-disc ml-4">
                         <li>Income Tax Return</li>
                         <li>TDS Returns</li>
                         <li>GST Returns</li>
@@ -209,8 +209,8 @@
     </div>
 
     <!-- Statatics -->
-    <div class="bg-[#e2edcf]">
-        <div class="bg-[#ffedcf] sm:p-20 sm:px-20 px-5 py-20 flex flex-col sm:flex-row  justify-between items-center gap-10 sm:gap-0 sm:items-start rounded-t-[50px] rounded-t-[100px]">
+    <div class="bg-[#e9f5db]">
+        <div class="bg-[#ffe3e0] sm:p-20 sm:px-20 px-5 py-20 flex flex-col sm:flex-row  justify-between items-center gap-10 sm:gap-0 sm:items-start rounded-t-[50px] rounded-t-[100px]">
             <div class="flex flex-col gap-4 text-center">
                 <h4 class="font-semibold text-5xl">1k+</h4>
                 <p class="text-gray-500">Clients</p>
@@ -231,7 +231,7 @@
     </div>
 
     <!-- Steps we follow -->
-    <div class="bg-[#ffedcf]">
+    <div class="bg-[#ffe3e0]">
         <div class="px-5 sm:px-20 py-20 bg-[#d8e8e3] rounded-t-[50px] sm:rounded-t-[100px]">
             <div class="flex gap-8 items-center pb-8 sm:pb-2">
                 <h2 class="text-3xl font-semibold w-full">Easy Steps to Begin</h2>
@@ -328,7 +328,6 @@
                         </div>
                     </div>
                 </div>--%>
-
                 </div>
 
             </div>
@@ -337,9 +336,11 @@
     <!-- why we stand out -->
     <div class="bg-[#d8e8e3]">
         <div class="bg-[#faf8f7] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
-            <h2 class="text-3xl font-semibold text-black">Why ComplyLocal Stands Out</h2>
+            <h2 class="text-3xl font-semibold text-black">Why ComplyLocal
+                <br />
+                Stands Out</h2>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#4f5d75] rounded-xl">
                     <span>01</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-1.png" alt="">
@@ -347,7 +348,7 @@
                     <h3 class="text-2xl">Expertise</h3>
                     <p class=" text-lg">We have a team of experts dealing with accounting, taxation, and financial regulations. We improve our knowledge and adapt to changes in the industry. So that you can ask the right questions and get really good, specific guidance. All of our interactions are held to the highest standard of professional conduct.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#4f5d75] rounded-xl">
                     <span>02</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-2.png" alt="">
@@ -355,7 +356,7 @@
                     <h3 class="text-2xl">Customized Solutions</h3>
                     <p class=" text-lg">Each client has unique needs. We personalize our solutions to meet these varying needs — regardless of whether you are a small business or a large corporation. We are affordable, and our services are tailored to your unique situation. This individualized treatment makes sure that you have the best support and solutions.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#4f5d75] rounded-xl">
                     <span>03</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-3.png" alt="">
@@ -363,7 +364,7 @@
                     <h3 class="text-2xl">Convenience</h3>
                     <p class="text-lg">Use our expertise anywhere and anytime. Get in Touch – Easily contact us by phone, video conference, or email. You can choose from flexible communication to suit your availability. After all, it is this convenience that can make managing your finances a breeze while not disturbing your daily life.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#4f5d75] rounded-xl">
                     <span>04</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-4.png" alt="">
@@ -371,7 +372,7 @@
                     <h3 class="text-2xl">Transparency</h3>
                     <p class="text-lg">We believe in clear communication and an open pricing policy. No hidden costs, no surprise. Our direct way of doing things means you can take our word for it and we bring justice and decency in everything as a service. We value honesty & reliability, and we expect the same from our clients.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#4f5d75] rounded-xl">
                     <span>05</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-4.png" alt="">
@@ -379,7 +380,7 @@
                     <h3 class="text-2xl">Compliance</h3>
                     <p class="text-lg">We always adhere to accounting standards, tax laws, and regulations in all cases. All of our services comply with all the necessary legal rules. You can sleep safe with us; we take care of your financial aspects Compliance is important to prevent legal issues and have a stable business operation.</p>
                 </div>
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#4f5d75] rounded-xl">
                     <span>06</span>
                     <div class="mt-8">
                         <img src="assets/images/why-we-4.png" alt="">
@@ -389,7 +390,7 @@
                 </div>
             </div>
 
-            <div class='text-center p-8 px-12 rounded-full bg-[#3c3c3c] w-fit sm:col-span-2 md:col-span-3 place-self-center'>
+            <div class='text-center p-8 px-12 rounded-full bg-[#4f5d75] w-fit sm:col-span-2 md:col-span-3 place-self-center'>
                 <h2>Save your precious time for finding a solution.</h2>
                 <a href="#" class="underline">Contact Us now</a>
             </div>
@@ -400,7 +401,9 @@
 
     <div class="bg-[#faf8f7]">
         <div class="w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] bg-[#bcd4e6] ">
-            <h2 class="text-3xl font-semibold">What they say <br /> about us
+            <h2 class="text-3xl font-semibold">What they say
+                <br />
+                about us
             </h2>
             <div class="grid grid-cols-12 gap-8 mt-12 ">
                 <div class="w-full col-span-12 md:col-span-4 flex flex-col items-center bg-[#fff] rounded-2xl p-4 py-8">
@@ -535,11 +538,8 @@
                                     </div>
                                 </div>
                             </div>
-
-
-
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -605,45 +605,42 @@
             </div>
         </div>
     </div>
-
     <!-- blogs -->
     <div class="bg-[#edf4f1]">
+        <div class="px-5 sm:px-20 py-20 rounded-t-[100px] bg-purple-100 grid md:grid-cols-3 gap-8 ">
+            <div class="text-3xl font-semibold">Blogs from Complylocal</div>
+            <div class="md:col-span-2 md:justify-self-end flex gap-3 items-center">
+                <a href="#" class="border rounded-full h-10 px-4 flex justify-center items-center text-white  bg-black">Read all post</a>
+                <span class=" border rounded-full w-10 h-10 flex justify-center items-center text-white  bg-black"><i class="fa-solid fa-up-right-from-square"></i></span>
+            </div>
 
-    
-    <div class="px-5 sm:px-20 py-20 rounded-t-[100px] bg-purple-100 grid md:grid-cols-3 gap-8 ">
-        <div class="text-3xl font-semibold">Blogs from Complylocal</div>
-        <div class="md:col-span-2 md:justify-self-end flex gap-3 items-center">
-            <a href="#" class="border rounded-full h-10 px-4 flex justify-center items-center text-white  bg-black">Read all post</a>
-            <span class=" border rounded-full w-10 h-10 flex justify-center items-center text-white  bg-black"><i class="fa-solid fa-up-right-from-square"></i></span>
-        </div>
-
-        <div class="rounded-2xl bg-white flex flex-col overflow-hidden gap-8 pb-20">
-            <div class="rounded-2xl overflow-hidden">
-                <img src="assets/images/blog-1.png" alt="">
+            <div class="rounded-2xl bg-white flex flex-col overflow-hidden gap-8 pb-20">
+                <div class="rounded-2xl overflow-hidden">
+                    <img src="assets/images/blog-1.png" alt="">
+                </div>
+                <h5 class="text-2xl px-4 line-clamp-2">Secure Your Brand Effortlessly: The Ultimate Guide to Online Trademark Registration Services</h5>
+                <p class="text-gray-500 px-4">
+                    Welcome to ComplyLocal's blog! Here, we delve into the intricate world of trademark registration and provide you with the knowledge and tools you need to protect your brand.
+                </p>
             </div>
-            <h5 class="text-2xl px-4 line-clamp-2">Secure Your Brand Effortlessly: The Ultimate Guide to Online Trademark Registration Services</h5>
-            <p class="text-gray-500 px-4">
-                Welcome to ComplyLocal's blog! Here, we delve into the intricate world of trademark registration and provide you with the knowledge and tools you need to protect your brand.
-            </p>
-        </div>
-        <div class="rounded-2xl bg-white flex flex-col overflow-hidden gap-8 pb-10">
-            <div class="rounded-2xl overflow-hidden">
-                <img src="assets/images/blog-2.png" alt="">
+            <div class="rounded-2xl bg-white flex flex-col overflow-hidden gap-8 pb-10">
+                <div class="rounded-2xl overflow-hidden">
+                    <img src="assets/images/blog-2.png" alt="">
+                </div>
+                <h5 class="text-2xl px-4 line-clamp-2">GST Registration:A Comprehensive Guide for Businesses</h5>
+                <p class="text-gray-500 px-4">
+                    GST is an indirect tax that has streamlined the tax system and unified different types of taxes.If you're a business owner, understanding how to register for GST is essential to comply with the law and avoid potential penalties.
+                </p>
             </div>
-            <h5 class="text-2xl px-4 line-clamp-2">GST Registration:A Comprehensive Guide for Businesses</h5>
-            <p class="text-gray-500 px-4">
-                GST is an indirect tax that has streamlined the tax system and unified different types of taxes.If you're a business owner, understanding how to register for GST is essential to comply with the law and avoid potential penalties.
-            </p>
-        </div>
-        <div class="rounded-xl bg-white flex flex-col overflow-hidden gap-8 pb-10">
-            <div class="rounded-xl overflow-hidden">
-                <img src="assets/images/blog-3.png" alt="">
+            <div class="rounded-xl bg-white flex flex-col overflow-hidden gap-8 pb-10">
+                <div class="rounded-xl overflow-hidden">
+                    <img src="assets/images/blog-3.png" alt="">
+                </div>
+                <h5 class="text-2xl px-4 line-clamp-2">The Importance of FSSAI Registration: A Comprehensive Guide</h5>
+                <p class="text-gray-500 px-4">
+                    Are you a food business operator looking to start or grow your business in India? One of the essential steps you must take is obtaining FSSAI registration.In this  guide,  why it's important, and how you can apply for it.
+                </p>
             </div>
-            <h5 class="text-2xl px-4 line-clamp-2">The Importance of FSSAI Registration: A Comprehensive Guide</h5>
-            <p class="text-gray-500 px-4">
-                Are you a food business operator looking to start or grow your business in India? One of the essential steps you must take is obtaining FSSAI registration.In this  guide,  why it's important, and how you can apply for it.
-            </p>
         </div>
-    </div>
     </div>
 </asp:Content>

@@ -2,10 +2,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-
-
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
     <section
         class="flex flex-col lg:flex-row items-center justify-between bg-[#faf8f7] min-h-screen py-20 pt-[12vh] px-5 sm:px-20 gap-10 lg:gap-20">
 
@@ -33,7 +30,7 @@
     </section>
     <%--about--%>
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#e9edc9] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
@@ -42,7 +39,7 @@
                 </div>
                 <div class="md:col-span-2 flex flex-col gap-4 text-gray-900 md:pl-8">
                   
-                    <ol class="list-decimal ">
+                    <ol class="list-decimal ml-4">
                         <li class="pl-1">
                             <span class="font-semibold"> Limited Liability: </span>Shareholders' personal assets are protected in case of business losses or debts.
                         </li>
@@ -69,21 +66,18 @@
                         <li class="pl-1">
                             <span class="font-semibold">Easy Transfer of Shares:   </span>Shares can be transferred among shareholders, enabling the entry and exit of investors easily.
                         </li>
-
-
                     </ol>
-      
                   
-                    <a href="#" class="flex w-fit bg-white text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
+                    <a href="#" class="flex w-fit bg-[#faf8f7] text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
                 </div>
             </div>
         </div>
     </div>
 
     <!-- about -->
-    <div class="bg-[#e9edc9]">
+    <div class="bg-[#dadded]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#ffeddf] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
