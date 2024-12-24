@@ -23,8 +23,8 @@
         </div>
     </section>
     <%--about--%>
-    <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+    <div class="bg-[#faf8f7] ">
+        <div class="bg-[#dadded] text-black px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
@@ -63,8 +63,8 @@
     </div>
 
     <%-- why choose us --%>
-    <div class="bg-[#E5F1E3]">
-        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+    <div class="bg-[#dadded]">
+        <section class="bg-[#e9f5db] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
                 <h3 class="text-3xl mb-8 font-semibold">Benefits of FSSAI Registration</h3>
 
@@ -125,7 +125,7 @@
     </div>
 
     <!-- about -->
-    <div class="bg-[#d8e8e3]">
+    <div class="bg-[#e9f5db]">
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 

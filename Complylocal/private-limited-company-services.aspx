@@ -38,28 +38,28 @@
                     </h2>
                 </div>
                 <div class="md:col-span-2 flex flex-col gap-4 text-gray-900 md:pl-8">
-                  
+
                     <ol class="list-decimal ml-4">
                         <li class="pl-1">
-                            <span class="font-semibold"> Limited Liability: </span>Shareholders' personal assets are protected in case of business losses or debts.
+                            <span class="font-semibold">Limited Liability: </span>Shareholders' personal assets are protected in case of business losses or debts.
                         </li>
-                        
+
                         <li class="pl-1">
                             <span class="font-semibold">Separate Legal Identity:  </span>The company has its own legal status, separate from its owners, and can own property, enter contracts, and sue or be sued.
                         </li>
-                        
+
                         <li class="pl-1">
                             <span class="font-semibold">Fundraising & Investment:  </span>Private Limited Companies can attract venture capital, private equity, and angel investors.
                         </li>
-                        
+
                         <li class="pl-1">
                             <span class="font-semibold">Perpetual Existence:  </span>The company’s existence is not affected by the death, retirement, or exit of shareholders or directors.
                         </li>
-                        
+
                         <li class="pl-1">
                             <span class="font-semibold">Tax Benefits:  </span>Avail various tax benefits and deductions offered to companies under the Income Tax Act.
                         </li>
-                        
+
                         <li class="pl-1">
                             <span class="font-semibold">Enhanced Credibility:   </span>Customers, investors, and financial institutions trust registered companies more than unregistered businesses.
                         </li>
@@ -67,7 +67,7 @@
                             <span class="font-semibold">Easy Transfer of Shares:   </span>Shares can be transferred among shareholders, enabling the entry and exit of investors easily.
                         </li>
                     </ol>
-                  
+
                     <a href="#" class="flex w-fit bg-[#faf8f7] text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
                 </div>
             </div>

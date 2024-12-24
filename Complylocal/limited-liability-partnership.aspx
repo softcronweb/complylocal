@@ -35,7 +35,7 @@
 
     <%-- why choose us --%>
     <div class="bg-[#faf8f7]">
-        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+        <section class="bg-[#dadded] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
                 <h2 class="text-3xl font-semibold mb-8">Why Choose an LLP for Your Business?</h2>
 
@@ -92,9 +92,9 @@
     </div>
 
     <!-- about -->
-    <div class="bg-[#d8e8e3]">
+    <div class="bg-[#dadded]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
@@ -122,8 +122,8 @@
     </div>
 
       <%-- why choose us --%>
-  <div class="bg-[#DAEAFA]">
-      <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+  <div class="bg-[#e9f5db]">
+      <section class="bg-[#ffe3e0] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
           <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
               <h3 class="text-3xl font-semibold mb-8">Why Choose a Partnership for Your Business?</h3>
 
@@ -176,62 +176,62 @@
             <div class=" max-w-4xl mx-auto p-4 overflow-x-auto sm:col-span-2">
         <table class="w-full border-collapse border border-gray-300">
             <thead>
-                <tr class="bg-gray-100">
-                    <th class="border border-gray-300 font-bold text-center p-3 w-1/4">Aspect</th>
-                    <th class="border border-gray-300 font-bold text-center p-3 w-2/5">LLP</th>
-                    <th class="border border-gray-300 font-bold text-center p-3 w-2/5">Partnership</th>
+                <tr class="bg-gray-200 text-left">
+                    <th class="border border-gray-900 font-bold p-3 w-1/4">Aspect</th>
+                    <th class="border border-gray-900 font-bold p-3 w-2/5">LLP</th>
+                    <th class="border border-gray-900 font-bold p-3 w-2/5">Partnership</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Liability</td>
-                    <td class="border border-gray-300 p-3">Limited liability</td>
-                    <td class="border border-gray-300 p-3">Unlimited liability</td>
+                    <td class="border border-gray-900 font-bold p-3">Liability</td>
+                    <td class="border border-gray-900 p-3">Limited liability</td>
+                    <td class="border border-gray-900 p-3">Unlimited liability</td>
                 </tr>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Legal Status</td>
-                    <td class="border border-gray-300 p-3">Separate legal entity</td>
-                    <td class="border border-gray-300 p-3">No separate legal entity</td>
+                    <td class="border border-gray-900 font-bold p-3">Legal Status</td>
+                    <td class="border border-gray-900 p-3">Separate legal entity</td>
+                    <td class="border border-gray-900 p-3">No separate legal entity</td>
                 </tr>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Management</td>
-                    <td class="border border-gray-300 p-3">Flexibility in management, designated partners</td>
-                    <td class="border border-gray-300 p-3">Shared management among partners</td>
+                    <td class="border border-gray-900 font-bold p-3">Management</td>
+                    <td class="border border-gray-900 p-3">Flexibility in management, designated partners</td>
+                    <td class="border border-gray-900 p-3">Shared management among partners</td>
                 </tr>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Registration</td>
-                    <td class="border border-gray-300 p-3">Mandatory registration with ROC</td>
-                    <td class="border border-gray-300 p-3">Optional, but recommended</td>
+                    <td class="border border-gray-900 font-bold p-3">Registration</td>
+                    <td class="border border-gray-900 p-3">Mandatory registration with ROC</td>
+                    <td class="border border-gray-900 p-3">Optional, but recommended</td>
                 </tr>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Profit Sharing</td>
-                    <td class="border border-gray-300 p-3">Based on the LLP Agreement</td>
-                    <td class="border border-gray-300 p-3">Based on the Partnership Agreement</td>
+                    <td class="border border-gray-900 font-bold p-3">Profit Sharing</td>
+                    <td class="border border-gray-900 p-3">Based on the LLP Agreement</td>
+                    <td class="border border-gray-900 p-3">Based on the Partnership Agreement</td>
                 </tr>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Taxation</td>
-                    <td class="border border-gray-300 p-3">Separate entity taxation</td>
-                    <td class="border border-gray-300 p-3">Partners are taxed individually</td>
+                    <td class="border border-gray-900 font-bold p-3">Taxation</td>
+                    <td class="border border-gray-900 p-3">Separate entity taxation</td>
+                    <td class="border border-gray-900 p-3">Partners are taxed individually</td>
                 </tr>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Continuity</td>
-                    <td class="border border-gray-300 p-3">Perpetual succession</td>
-                    <td class="border border-gray-300 p-3">Ends with death or withdrawal of a partner</td>
+                    <td class="border border-gray-900 font-bold p-3">Continuity</td>
+                    <td class="border border-gray-900 p-3">Perpetual succession</td>
+                    <td class="border border-gray-900 p-3">Ends with death or withdrawal of a partner</td>
                 </tr>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Compliance</td>
-                    <td class="border border-gray-300 p-3">Subject to more compliance and regulatory requirements</td>
-                    <td class="border border-gray-300 p-3">Less compliance requirements</td>
+                    <td class="border border-gray-900 font-bold p-3">Compliance</td>
+                    <td class="border border-gray-900 p-3">Subject to more compliance and regulatory requirements</td>
+                    <td class="border border-gray-900 p-3">Less compliance requirements</td>
                 </tr>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Conversion</td>
-                    <td class="border border-gray-300 p-3">Can be converted into a Private Limited Company</td>
-                    <td class="border border-gray-300 p-3">Cannot be directly converted into an LLP</td>
+                    <td class="border border-gray-900 font-bold p-3">Conversion</td>
+                    <td class="border border-gray-900 p-3">Can be converted into a Private Limited Company</td>
+                    <td class="border border-gray-900 p-3">Cannot be directly converted into an LLP</td>
                 </tr>
                 <tr>
-                    <td class="border border-gray-300 font-bold p-3">Suitability</td>
-                    <td class="border border-gray-300 p-3">Suitable for businesses requiring limited liability</td>
-                    <td class="border border-gray-300 p-3">Suitable for small or family-run businesses</td>
+                    <td class="border border-gray-900 font-bold p-3">Suitability</td>
+                    <td class="border border-gray-900 p-3">Suitable for businesses requiring limited liability</td>
+                    <td class="border border-gray-900 p-3">Suitable for small or family-run businesses</td>
                 </tr>
             </tbody>
         </table>
@@ -241,9 +241,9 @@
 
 
      <!-- about -->
- <div class="bg-[#d8e8e3]">
+ <div class="bg-[#ffe3e0]">
      <section
-         class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAF1] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+         class="flex flex-col lg:flex-row items-center justify-between bg-[#d8e8e3] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
          <!-- left Content -->
@@ -254,7 +254,7 @@
             
 
              <div>
-                   <h3 class="font-semibold text-black mb-4"> Both LLPs and partnerships are popular business structures for entrepreneurs, but they serve different needs:</h3>
+                   <h3 class="font-medium text-black mb-4"> Both LLPs and partnerships are popular business structures for entrepreneurs, but they serve different needs:</h3>
 
                     <ul class="list-disc ml-4">
                         <li>Choose an <span class="font-semibold">LLP</span> if you want <span class="font-semibold"> limited liability protection, separate legal identity,</span> and flexibility in management and ownership.</li>
@@ -279,7 +279,7 @@
  </div>
 
     <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
+    <div class="bg-[#d8e8e3]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>

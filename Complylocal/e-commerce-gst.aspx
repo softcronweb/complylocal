@@ -28,7 +28,7 @@
     <%--about--%>
 
     <div class="bg-[#faf8f7]">
-        <div class="bg-[#bcd4e6] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
+        <div class="bg-[#dadded] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
             <div>
                 <h2 class="text-3xl text-black font-semibold text-black">Our E-Commerce Services</h2>
                 <p class="text-lg text-gray-900 pt-4">
@@ -37,7 +37,7 @@
             </div>
 
             <div class="grid sm:grid-cols-2 md:grid-cols-3  gap-4">
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black  rounded-xl">
                     <h3 class="text-2xl">Bookkeeping and Financial Record Keeping</h3>
                     <p>We offer complete <span class="font-semibold">bookkeeping</span> services to maintain accurate financial records of all your transactions, including sales, returns, and operating expenses. Our goal is to ensure that your financial data is organized and ready for tax filing and reporting.</p>
                     <ul class="list-disc ml-4 ">
@@ -50,7 +50,7 @@
                 </div>
 
 
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black  rounded-xl">
                     <h3 class="text-2xl">E-Commerce Financial Reporting
 
                     </h3>
@@ -68,7 +68,7 @@
                 </div>
 
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black  rounded-xl">
                     <h3 class="text-2xl">GST Compliance and Filing
 
                     </h3>
@@ -84,7 +84,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Profitability Analysis
 
                     </h3>
@@ -100,7 +100,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black  rounded-xl">
                     <h3 class="text-2xl">Tax Planning and Filing
 
                     </h3>
@@ -115,7 +115,7 @@
                 </div>
 
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">
                         Cash Flow Management
                     </h3>
@@ -132,7 +132,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Financial Forecasting and Budgeting
 
                     </h3>
@@ -149,7 +149,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c]  rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">
                         E-Commerce Business Consulting
                     </h3>
@@ -173,8 +173,8 @@
     <%-- Why choose us --%>
 
 
-    <div class="bg-[#bcd4e6]">
-        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+    <div class="bg-[#dadded]">
+        <section class="bg-[#e9f5db] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
                 <h3 class="text-3xl font-semibold mb-8">Why Choose Us for E-Commerce Accounting Services ?</h3>
             </div>
@@ -210,7 +210,7 @@
     </div>
 
     <!-- about -->
-    <div class="bg-[#d8e8e3]">
+    <div class="bg-[#e9f5db]">
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 

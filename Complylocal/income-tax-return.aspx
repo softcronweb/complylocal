@@ -28,7 +28,7 @@
 
     <%-- why choose us --%>
     <div class="bg-[#faf8f7]">
-        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+        <section class="bg-[#dadded] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
                 <h3 class="text-3xl font-semibold mb-8">Why Choose Us ?</h3>
             </div>
@@ -99,9 +99,9 @@
     </div>
 
     <!-- about -->
-    <div class="bg-[#d8e8e3]">
+    <div class="bg-[#dadded]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
             <!-- left Content -->
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
                 <h2 class="text-3xl  font-bold text-gray-900  leading-tight">INCOME TAX SERVICES
@@ -137,7 +137,7 @@
     </div>
 
     <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
+    <div class="bg-[#e9f5db]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>

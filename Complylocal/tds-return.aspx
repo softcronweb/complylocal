@@ -40,7 +40,7 @@
 
     <%-- why choose us --%>
     <div class="bg-[#faf8f7]">
-        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+        <section class="bg-[#dadded] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
                 <h2 class="text-3xl font-semibold mb-8">Why Choose Us ?</h2>
             </div>
@@ -55,7 +55,7 @@
                 <h4 class="text-2xl font-semibold ">Compliance Assurance
                 </h4>
                 <p class="text-gray-500 text-lg mt-4 bg-white">
-                    Stay 100% compliant with TDS laws and avoid penalties.
+                    Stay 100 percent compliant with TDS laws and avoid penalties.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
@@ -121,9 +121,9 @@
 
 
     <!-- about -->
-    <div class="bg-[#d8e8e3]">
+    <div class="bg-[#dadded]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
@@ -132,7 +132,7 @@
                 <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">Services
                 </h2>
                 <div class="text-gray-900 font-medium mb-6">
-                    <ul class="list-disc font-medium ml-4">
+                    <ul class="list-disc ml-4">
                         <li>TDS calculation and compliances
                         </li>
                         <li>TDS returns 
@@ -181,7 +181,7 @@
     </div>
 
     <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
+    <div class="bg-[#e9f5db]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>
@@ -227,7 +227,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 pt-2 hidden ans">If the recipient does not provide a valid <span class="font-semibold">PAN (Permanent Account Number)</span>, the TDS is deducted at a higher rate (usually 20%) as per Section 206AA of the Income Tax Act.</p>
+                    <p class="text-gray-500 pt-2 hidden ans">If the recipient does not provide a valid <span class="font-semibold">PAN (Permanent Account Number)</span>, the TDS is deducted at a higher rate (usually 20 percent) as per Section 206AA of the Income Tax Act.</p>
                 </div>
                 <div class=" border-b py-4 faq-item">
                     <div class="text-lg font-semibold flex gap-4 justify-between items-center">

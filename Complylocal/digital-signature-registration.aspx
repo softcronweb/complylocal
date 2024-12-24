@@ -32,13 +32,13 @@
     </section>
 
     <%--about--%>
-    <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+    <div class="bg-[#faf8f7] ">
+        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
-                    <h3 class="text-3xl font-semibold">Why Do You Need a Digital Signature Certificate (DSC)?
-                    </h3>
+                    <h2 class="text-3xl font-semibold">Why Do You Need a Digital Signature Certificate (DSC)?
+                    </h2>
                 </div>
                 <div class="md:col-span-2 flex flex-col gap-4 text-gray-900">
                     <h3 class="text-xl font-semibold">A Digital Signature Certificate (DSC) is required for :</h3>
@@ -54,7 +54,7 @@
                         <li><span class="font-semibold">E-Invoicing </span>for GST-compliant businesses</li>
                         <li><span class="font-semibold">Signing PDF Documents & Agreements </span>securely and legally.</li>
                     </ul>
-                    <a href="#" class="flex w-fit bg-white text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
+                    <a href="#" class="flex w-fit bg-[#faf8f7] text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
                 </div>
             </div>
         </div>
@@ -63,8 +63,8 @@
 
 
     <%-- why choose us --%>
-    <div class="bg-[#E5F1E3]">
-        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+    <div class="bg-[#dadded]">
+        <section class="bg-[#e9f5db] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
                 <h3 class="text-3xl font-semibold mb-8">Benefits of a Digital Signature Certificate (DSC)</h3>
 
@@ -121,9 +121,9 @@
     </div>
 
     <!-- about -->
-    <div class="bg-[#d8e8e3]">
+    <div class="bg-[#e9f5db]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-[#ffe3e0] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
@@ -158,7 +158,7 @@
     </div>
 
     <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
+    <div class="bg-[#ffe3e0]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-semibold">frequently asked questions</h3>

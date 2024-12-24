@@ -30,8 +30,8 @@
     </section>
 
     <%--about--%>
-    <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3]  px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center ">
+    <div class="bg-[#faf8f7] ">
+        <div class="bg-[#dadded]  px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
@@ -54,9 +54,11 @@
                     <p class="">MSMEs are classified into <span class="font-semibold text-black">Micro, Small, and Medium Enterprises</span> based on their <span class="font-semibold text-black">investment in plant/machinery/equipment</span> and <span class="font-semibold text-black">annual turnover.</span></p>
                     <table>
                         <thead>
-                            <th>Category</th>
-                            <th>Investment (in ₹)</th>
-                            <th>Turnover (in ₹)</th>
+                            <tr>
+                                <th>Category</th>
+                                <th>Investment (in ₹)</th>
+                                <th>Turnover (in ₹)</th>
+                            </tr>
                         </thead>
                         <tbody class="text-center">
                             <tr>
@@ -86,9 +88,9 @@
     </div>
 
     <!-- about -->
-    <div class="bg-[#E5F1E3]">
+    <div class="bg-[#dadded]">
   <section
-    class="grid lg:grid-cols-2 grid-cols-1 gap-10 lg:gap-20 bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-10 px-5 sm:px-20">
+    class="grid lg:grid-cols-2 grid-cols-1 gap-10 lg:gap-20 bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20">
 
     <!-- Left Content -->
     <div class="flex flex-col justify-center items-start">
@@ -144,7 +146,7 @@
 </div>
 
     <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
+    <div class="bg-[#e9f5db]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>

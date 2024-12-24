@@ -4,27 +4,19 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <section
+
         class="flex flex-col lg:flex-row items-center justify-between bg-[#faf8f7] min-h-screen py-20 pt-[12vh] px-5 sm:px-20 gap-10 lg:gap-20">
-
-
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2 lg:pl-8 ">
 
             <h1 class="text-3xl  text-[#1c5a88] font-bold mb-3 ">One Person Company</h1>
             <p class="font-medium">
-                A One Person Company (OPC) is a business entity that is owned and run by a single individual, combining the benefits of a sole proprietorship with the advantages of a limited liability company. It was introduced under the Companies Act, 2013 to encourage individual entrepreneurs to operate as a corporate entity, while limiting liability and gaining access to funding opportunities.
+                    A One Person Company (OPC) is a business entity that is owned and run by a single individual, combining the benefits of a sole proprietorship with the advantages of a limited liability company. It was introduced under the Companies Act, 2013 to encourage individual entrepreneurs to operate as a corporate entity, while limiting liability and gaining access to funding opportunities.
                 <br />
                 <br />
-                An OPC provides the advantage of limited liability, meaning the owner’s personal assets are protected, and it requires only one director and one shareholder to start, unlike a traditional Private Limited Company that needs at least two.
-
+                     An OPC provides the advantage of limited liability, meaning the owner’s personal assets are protected, and it requires only one director and one shareholder to start, unlike a traditional Private Limited Company that needs at least two.
             </p>
-
-            <%--<h2 class="text-5xl  font-bold text-gray-900 mb-6 leading-tight">Easily Register
-            Your Private Limited Company with ComplyLocal
-        </h2>
-        <a href="#" class="bg-yellow-400 hover:bg-yellow-500 text-black px-6 py-3 rounded-md font-medium">Learn More
-        </a>--%>
         </div>
 
         <!-- Image -->
@@ -42,13 +34,13 @@
 
 
 
-    <div class="#FAFAFA">
-        <section class="bg-[#E5F1E3]  sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+    <div class="#faf8f7">
+        <section class="bg-[#dadded]  sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
                 <h3 class="text-3xl font-semibold mb-8">Benefits of One Person Company (OPC)</h3>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Limited Liability
+                <h4 class="text-xl font-semibold">Limited Liability
                 </h4>
                 <p class="text-gray-500 mt-4">
                     Just like a Private Limited Company, an OPC offers limited liability, meaning the personal assets of the sole member are protected from any business debts or liabilities.
@@ -96,9 +88,9 @@
     </div>
 
 
-    <div class="bg-[#E5F1E3]">
+    <div class="bg-[#dadded]">
         <!-- document -->
-        <div class=" bg-[#ece4db] w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] ">
+        <div class=" bg-[#e9f5db] w-full px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] ">
             <div class="text-center lg:text-left mb-12 flex flex-col justify-between ">
                 <h1 class="text-3xl font-bold mb-2 w-full">Documents Required for OPC Registration</h1>
                 <div class="flex flex-col gap-2 w-full">
@@ -112,7 +104,7 @@
 
 
             <div class="grid grid-cols-1 md:grid-cols-3 items-stretch gap-4  place-items-center">
-                <div class="flex flex-col  bg-[#f9f9f9]  rounded-2xl p-8 px-12 w-full shadow-xl">
+                <div class="flex flex-col  bg-[#faf8f7]  rounded-2xl p-8 px-12 w-full shadow-xl">
 
                     <h3 class="text-2xl font-semibold mb-4">For the Sole Member (Shareholder)</h3>
                     <ul class="text-gray-900  space-y-2 list-disc">
@@ -126,7 +118,7 @@
                 </div>
 
 
-                <div class="flex flex-col  bg-[#f9f9f9]  rounded-2xl p-8 px-12 w-full shadow-xl">
+                <div class="flex flex-col  bg-[#faf8f7]  rounded-2xl p-8 px-12 w-full shadow-xl">
 
                     <h3 class="text-2xl font-semibold mb-4 ">For the
                         <br />
@@ -141,7 +133,7 @@
                 </div>
 
                
-                <div class="flex flex-col bg-[#f9f9f9] rounded-2xl p-8 px-12 w-full shadow-xl">
+                <div class="flex flex-col bg-[#faf8f7] rounded-2xl p-8 px-12 w-full shadow-xl">
                     <h3 class="text-2xl font-semibold mb-4 ">For the Registered Office Address</h3>
                     <ul class="text-gray-900 space-y-2 list-disc">
                         <li><span class="font-semibold">Utility Bill/Property Tax Receipt  </span>(for proof of the location)</li>
@@ -156,9 +148,9 @@
     </div>
 
     <!-- about -->
-    <div class="bg-[#ece4db]">
+    <div class="bg-[#e9f5db]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAF1] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-[#ffe3e0] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
@@ -191,7 +183,7 @@
             </div>
         </section>
     </div>
-    <div class="bg-[#DAEAF1]">
+    <div class="bg-[#ffe3e0]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>
@@ -246,7 +238,7 @@
                         <span class="open">+</span>
                         <span class="close hidden">-</span>
                     </div>
-                    <p class="text-gray-500 pt-2 hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
+                    <p class="text-gray-500 pt-2  hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
                 </div>
             </div>
         </section>

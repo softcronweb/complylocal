@@ -25,7 +25,7 @@
     </section>
     <%-- services --%>
     <div class="bg-[#faf8f7]">
-        <div class="bg-[#bcd4e6] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
+        <div class="bg-[#dadded] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
 
             <div>
                 <h2 class="text-3xl text-black font-semibold">MCA SERVICES</h2>
@@ -35,7 +35,7 @@
             </div>
 
             <div class="grid sm:grid-cols-2 md:grid-cols-3  gap-4">
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Company
                         <br />
                         Incorporation</h3>
@@ -54,7 +54,7 @@
                 </div>
 
 
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Director Identification Number (DIN)
 
                     </h3>
@@ -74,7 +74,7 @@
                 </div>
 
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Digital Signature Certificate (DSC)
 
                     </h3>
@@ -96,7 +96,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Filing of Annual Returns and Financial Statements
 
                     </h3>
@@ -115,7 +115,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Change in
                         <br />
                         Company Details
@@ -138,7 +138,7 @@
                 </div>
 
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Director and Shareholder Compliances
 
                     </h3>
@@ -159,7 +159,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Company Annual Compliance
 
                     </h3>
@@ -180,7 +180,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Corporate
                         <br />
                         Filings
@@ -199,7 +199,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#3c3c3c] rounded-xl">
+                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Company Dissolution or Closure
 
                     </h3>
@@ -223,8 +223,8 @@
 
 
     <%-- why choose us --%>
-    <div class="bg-[#bcd4e6]">
-        <section class="bg-[#d8e8e3] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+    <div class="bg-[#dadded]">
+        <section class="bg-[#e9f5db] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
                 <h3 class="text-3xl font-semibold mb-8">Why Choose Our MCA Services?</h3>
 
@@ -267,7 +267,7 @@
     </div>
 
     <!-- FAQ -->
-    <div class="bg-[#d8e8e3]">
+    <div class="bg-[#e9f5db]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>
