@@ -50,7 +50,7 @@
                 </div>
                 <div class="md:col-span-2 flex flex-col gap-4 text-gray-500">
                     <p>
-                        Proprietors service can help you decide if it is the right structure for you. Most businesses in India start individually without other’s participation. An individual carrying out business activities is the sole proprietor and its business entity is said to be a Proprietorship Firm. The identity of an individual and the business are not different from each other. But due to the lower tax rate, flexibility and multiple advantages people prefer this structure for the early stage of business. With the inclusion of partners, the control over operation reduces. Hence, these proprietors choose to run the business single-handedly and land upon sole proprietorship firm registration. Although there is no specific Act to regulate this organization, there are many ways to register a Sole Proprietorship firm. Small businesses aiming to take lower risks prefer this structure. Learn more about Sole Proprietorship services with GetmyCA Sole Proprietorship procedure & documents.
+                        Proprietors service can help you decide if it is the right structure for you. Most businesses in India start individually without other’s participation. An individual carrying out business activities is the sole proprietor and its business entity is said to be a Proprietorship Firm. The identity of an individual and the business are not different from each other. But due to the lower tax rate, flexibility and multiple advantages people prefer this structure for the early stage of business. With the inclusion of partners, the control over operation reduces. Hence, these proprietors choose to run the business single-handedly and land upon sole proprietorship firm registration. Although there is no specific Act to regulate this organization, there are many ways to register a Sole Proprietorship firm. Small businesses aiming to take lower risks prefer this structure.
                     </p>
 
                     <a href="#" class="flex w-fit hover:bg-white hover:text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
@@ -62,7 +62,7 @@
     <!-- about -->
     <div class="bg-[#E5F1E3]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-purple-100 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
@@ -90,7 +90,7 @@
     </div>
 
      <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
+<%--    <div class="bg-[#DAEAFA]">
      <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
          <div class="md:pr-8">
              <h3 class="text-6xl font-bold">frequently asked questions</h3>
@@ -149,5 +149,5 @@
              </div>
          </div>
      </section>
- </div>
+ </div>--%>
 </asp:Content>

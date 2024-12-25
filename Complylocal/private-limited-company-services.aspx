@@ -11,7 +11,7 @@
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h1 class="text-3xl font-bold mb-3 text-[#1c5a88]">Private Limited Company</h1>
             <p class="font-medium">
-                A Private Limited Company (PLC) is a type of business entity privately held by a group of shareholders. It is one of the most popular and trusted forms of business structure in India due to its limited liability protection, separate legal identity, and ease of fundraising.
+                A Private Limited Company (PLC) is a type of business entity privately held by a group of shareholders. It is one of the most popular and trusted forms of business structure in India due to its limited liability protection, separate legal identity, and ease of fund raising.
                 <br />
                 <br />
                 This structure is ideal for startups, small and medium enterprises (SMEs), and businesses looking to raise investment or venture capital funding.
@@ -30,47 +30,52 @@
     </section>
     <%--about--%>
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
-            <!--- heading -->
-            <div class="grid md:grid-cols-3 gap-8">
-                <div>
+        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] grid md:grid-cols-12 gap-8 ">
+          
+             <div class="col-span-4 w-full flex justify-center items-center">
+     <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl "/>
+ </div>
+            <div class="space-y-8 col-span-8">
+                
                     <h2 class="text-3xl font-semibold">Why Register as a Private Limited Company?
                     </h2>
-                </div>
-                <div class="md:col-span-2 flex flex-col gap-4 text-gray-900 md:pl-8">
+                
+                <div class=" flex flex-col gap-4 text-gray-900 ">
 
-                    <ol class="list-decimal ml-4">
-                        <li class="pl-1">
-                            <span class="font-semibold">Limited Liability: </span>Shareholders' personal assets are protected in case of business losses or debts.
+                    <ol class="list-decimal text-xl ml-4">
+                        <li class="pl-1 ">
+                            <span class="font-semibold">Limited Liability</span>
                         </li>
 
                         <li class="pl-1">
-                            <span class="font-semibold">Separate Legal Identity:  </span>The company has its own legal status, separate from its owners, and can own property, enter contracts, and sue or be sued.
+                            <span class="font-semibold">Separate Legal Identity </span>
                         </li>
 
                         <li class="pl-1">
-                            <span class="font-semibold">Fundraising & Investment:  </span>Private Limited Companies can attract venture capital, private equity, and angel investors.
+                            <span class="font-semibold">Fundraising & Investment </span>
                         </li>
 
                         <li class="pl-1">
-                            <span class="font-semibold">Perpetual Existence:  </span>The company’s existence is not affected by the death, retirement, or exit of shareholders or directors.
+                            <span class="font-semibold">Perpetual Existence</span>
                         </li>
 
                         <li class="pl-1">
-                            <span class="font-semibold">Tax Benefits:  </span>Avail various tax benefits and deductions offered to companies under the Income Tax Act.
+                            <span class="font-semibold">Tax Benefits</span>
                         </li>
 
                         <li class="pl-1">
-                            <span class="font-semibold">Enhanced Credibility:   </span>Customers, investors, and financial institutions trust registered companies more than unregistered businesses.
+                            <span class="font-semibold">Enhanced Credibility</span>
                         </li>
                         <li class="pl-1">
-                            <span class="font-semibold">Easy Transfer of Shares:   </span>Shares can be transferred among shareholders, enabling the entry and exit of investors easily.
+                            <span class="font-semibold">Easy Transfer of Shares</span>
                         </li>
                     </ol>
 
-                    <a href="#" class="flex w-fit bg-[#faf8f7] text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
+                  
                 </div>
             </div>
+
+           
         </div>
     </div>
 
@@ -82,7 +87,7 @@
 
             <!-- left Content -->
 
-            <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
+            <div class="flex flex-col lg:w-1/2  items-start">
                 <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Requirements for Private Limited Company Registration
                 </h2>
                 <h3 class="text-xl font-semibold text-black">To register a Private Limited Company, you must meet the following basic requirements:</h3>
@@ -92,22 +97,22 @@
                         <span class="font-semibold">Minimum Directors</span> At least 2 directors (maximum 15). One director must be an Indian resident.</li>
 
                     <li>
-                        <span class="font-semibold">Minimum Shareholders:</span> At least 2 shareholders (can be the same as directors).</li>
+                        <span class="font-semibold">Minimum Shareholders</span> At least 2 shareholders (can be the same as directors).</li>
 
                     <li>
-                        <span class="font-semibold">Capital Requiremen:</span> There is no minimum capital requirement, but the capital must be declared during registration.</li>
+                        <span class="font-semibold">Capital Requiremen</span> There is no minimum capital requirement, but the capital must be declared during registration.</li>
                     <li>
-                        <span class="font-semibold">Registered Office Address: </span>A local address in India to receive official correspondence.</li>
+                        <span class="font-semibold">Registered Office Address </span>A local address in India to receive official correspondence.</li>
 
                     <li>
-                        <span class="font-semibold">Unique Company Name:  </span>The name of the company should be unique and not similar to any existing company name or trademark.</li>
+                        <span class="font-semibold">Unique Company Name </span>The name of the company should be unique and not similar to any existing company name or trademark.</li>
                 </ol>
 
                 <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
                 </a>
             </div>
             <!-- Image -->
-            <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
+            <div class=" lg:w-1/2 flex justify-center items-center">
                 <div class="relative">
                     <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
                 </div>

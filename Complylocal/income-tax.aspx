@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="income-tax-return.aspx.cs" Inherits="Complylocal.income_tax_return" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="income-tax.aspx.cs" Inherits="Complylocal.income_tax_return" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -24,78 +24,65 @@
             </div>
         </div>
     </section>
-
-
     <%-- why choose us --%>
-    <div class="bg-[#faf8f7]">
-        <section class="bg-[#dadded] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
-            <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h3 class="text-3xl font-semibold mb-8">Why Choose Us ?</h3>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Expertise & Experience
-                </h4>
-                <p class="text-gray-500 mt-4">
-                    Seasoned tax advisors with in-depth knowledge of tax laws and regulations.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Personalized Solutions
-                </h4>
-                <p class="text-gray-500 mt-4">
-                    Tailored tax planning strategies to meet individual and business needs.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Compliance & Accuracy
-                </h4>
-                <p class="text-gray-500 mt-4">Ensure 100 percent compliance with tax regulations, minimizing audit risks. </p>
+    <div class="bg-[#fafafa] ">
+        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] items-center sm:rounded-t-[100px] grid md:grid-cols-12 gap-8 ">
+            <div class="col-span-4 w-full flex justify-center items-center">
+                <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
             </div>
 
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Tax Savings
+            <div class="space-y-8 col-span-8">
 
-                </h4>
-                <p class="text-gray-500 mt-4">
-                    Maximize tax benefits and reduce liabilities with proactive planning.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">End-to-End Support
+                <h2 class="text-3xl font-semibold">Why Choose Us ?
+                </h2>
 
-                </h4>
-                <p class="text-gray-500 mt-4">Assistance with filings, appeals, and audits at every step.</p>
+                <div class=" flex flex-col gap-4 text-gray-900 ">
+
+                    <ol class="list-disc text-xl ml-4 grid md:grid-cols-2 gap-1">
+                        <li class="pl-1">
+                            <span class="font-semibold">Expertise & Experience </span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Personalized Solutions </span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Compliance & Accuracy</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Tax Savings</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">End-to-End Support</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Time-Saving & Hassle-Free</span>
+                        </li>
+                        <li class="pl-1 ">
+                            <span class="font-semibold">Transparent Pricing</span></li>
+                        <li class="pl-1 ">
+                            <span class="font-semibold">Technology-Driven Approach</span>
+
+                        </li>
+                        <li class="pl-1 ">
+                            <span class="font-semibold">Dedicated Customer Support</span>
+
+                        </li>
+                        <li class="pl-1 ">
+                            <span class="font-semibold">Confidential & Secure</span>
+
+                        </li>
+                    </ol>
+
+
+                </div>
             </div>
 
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Time-Saving & Hassle-Free
-                </h4>
-                <p class="text-gray-500 mt-4">Leave the paperwork to us while you focus on your business</p>
-            </div>
 
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Transparent Pricing
-                </h4>
-                <p class="text-gray-500 mt-4">No hidden fees, clear and upfront pricing for all services.</p>
-            </div>
-            <div class="p-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Technology-Driven Approach
-                </h4>
-                <p class="text-gray-500 mt-4">Use of modern software for seamless filing and tracking.</p>
-            </div>
-
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Dedicated Customer Support
-                </h4>
-                <p class="text-gray-500 mt-4">Responsive support to resolve your queries quickly.</p>
-            </div>
-
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Confidential & Secure
-                </h4>
-                <p class="text-gray-500 mt-4">Guaranteed confidentiality and data security for all financial information.</p>
-            </div>
-        </section>
+        </div>
     </div>
 
     <!-- about -->
@@ -135,6 +122,8 @@
             </div>
         </section>
     </div>
+
+
 
     <!-- FAQ -->
     <div class="bg-[#e9f5db]">

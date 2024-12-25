@@ -69,7 +69,7 @@
   <ItemGroup>
     <Content Include="add-directors.aspx" />
     <Content Include="additional-business-place.aspx" />
-    <Content Include="AOA-AMA.aspx" />
+    <Content Include="MCA-Services.aspx" />
     <Content Include="assets\css\StyleSheet.css" />
     <Content Include="assets\images\aboutus.png" />
     <Content Include="assets\images\aboutus2.png" />
@@ -120,7 +120,7 @@
     <Content Include="gst-registration.aspx" />
     <Content Include="gst-returns.aspx" />
     <Content Include="iec-code.aspx" />
-    <Content Include="income-tax-return.aspx" />
+    <Content Include="income-tax.aspx" />
     <Content Include="limited-liability-partnership.aspx" />
     <Content Include="msme-registration.aspx" />
     <Content Include="one-person-company.aspx" />
@@ -154,12 +154,12 @@
     <Compile Include="additional-business-place.aspx.designer.cs">
       <DependentUpon>additional-business-place.aspx</DependentUpon>
     </Compile>
-    <Compile Include="AOA-AMA.aspx.cs">
-      <DependentUpon>AOA-AMA.aspx</DependentUpon>
+    <Compile Include="MCA-Services.aspx.cs">
+      <DependentUpon>MCA-Services.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="AOA-AMA.aspx.designer.cs">
-      <DependentUpon>AOA-AMA.aspx</DependentUpon>
+    <Compile Include="MCA-Services.aspx.designer.cs">
+      <DependentUpon>MCA-Services.aspx</DependentUpon>
     </Compile>
     <Compile Include="authorized-capital-change.aspx.cs">
       <DependentUpon>authorized-capital-change.aspx</DependentUpon>
@@ -245,12 +245,12 @@
     <Compile Include="iec-code.aspx.designer.cs">
       <DependentUpon>iec-code.aspx</DependentUpon>
     </Compile>
-    <Compile Include="income-tax-return.aspx.cs">
-      <DependentUpon>income-tax-return.aspx</DependentUpon>
+    <Compile Include="income-tax.aspx.cs">
+      <DependentUpon>income-tax.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="income-tax-return.aspx.designer.cs">
-      <DependentUpon>income-tax-return.aspx</DependentUpon>
+    <Compile Include="income-tax.aspx.designer.cs">
+      <DependentUpon>income-tax.aspx</DependentUpon>
     </Compile>
     <Compile Include="limited-liability-partnership.aspx.cs">
       <DependentUpon>limited-liability-partnership.aspx</DependentUpon>

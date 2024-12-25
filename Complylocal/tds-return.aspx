@@ -39,84 +39,69 @@
 
 
     <%-- why choose us --%>
-    <div class="bg-[#faf8f7]">
-        <section class="bg-[#dadded] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
-            <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h2 class="text-3xl font-semibold mb-8">Why Choose Us ?</h2>
+
+
+    <div class="bg-[#fafafa] ">
+        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] items-center grid md:grid-cols-12 gap-8 ">
+
+            <div class="col-span-4 w-full flex justify-center items-center">
+                <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
             </div>
-            <div class="p-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Expert Guidance
-                </h4>
-                <p class="text-gray-500 text-lg  mt-4">
-                    Accurate TDS calculation, deduction, and timely deposit. 
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-2xl font-semibold ">Compliance Assurance
-                </h4>
-                <p class="text-gray-500 text-lg mt-4 bg-white">
-                    Stay 100 percent compliant with TDS laws and avoid penalties.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">End-to-End Support
-                </h4>
-                <p class="text-gray-500 text-lg mt-4">From deduction to filing TDS returns, we handle it all.</p>
+            <div class="space-y-8 col-span-8">
+
+                <h2 class="text-3xl font-semibold">Why Choose Us ?
+                </h2>
+
+                <div class=" flex flex-col gap-4 text-gray-900 ">
+
+                    <ol class="list-disc text-xl ml-4 grid md:grid-cols-2 gap-1">
+                        <li class="pl-1 ">
+                            <span class="font-semibold">Expert Guidance</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Compliance Assurance</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">End-to-End Support </span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Error-Free Filing</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Timely Reminders</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">PAN & TAN Assistance</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Dispute Resolution</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Affordable Pricing</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Technology-Driven Approach</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Dedicated Customer Suppor</span>
+                        </li>
+                    </ol>
+
+
+                </div>
             </div>
 
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Error-Free Filing
 
-                </h4>
-                <p class="text-gray-500 text-lg mt-4">
-                    Minimize errors with our advanced verification process.
-                </p>
-            </div>
-
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Timely Reminders 
-                </h4>
-                <p class="text-gray-500 text-lg mt-4">
-                    Never miss a deadline with our proactive alerts and notifications.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-2xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">PAN & TAN Assistance 
-                </h4>
-                <p class="text-gray-500 text-lg mt-4">
-                    Support with PAN, TAN registration, and corrections.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Dispute Resolution 
-                </h4>
-                <p class="text-gray-500 text-lg mt-4">
-                    Quick resolution of TDS notices and mismatch issues.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Affordable Pricing  
-                </h4>
-                <p class="text-gray-500 text-lg mt-4">
-                    Transparent pricing with no hidden charges.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Technology-Driven Approach 
-                </h4>
-                <p class="text-gray-500 text-lg mt-4">
-                    Use of smart tools for accuracy and speed.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Dedicated Customer Support
-                </h4>
-                <p class="text-gray-500 text-lg mt-4">
-                    Round-the-clock assistance from TDS experts.
-                </p>
-            </div>
-        </section>
+        </div>
     </div>
+
+
+
 
 
 

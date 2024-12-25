@@ -232,14 +232,6 @@
                     </div>
                     <p class="text-gray-500 pt-2 hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
                 </div>
-                <div class=" border-b py-4 faq-item">
-                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Should I attend the registration face to face?</h5>
-                        <span class="open">+</span>
-                        <span class="close hidden">-</span>
-                    </div>
-                    <p class="text-gray-500 pt-2  hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
-                </div>
             </div>
         </section>
     </div>

@@ -63,67 +63,55 @@
     </div>
 
     <%-- why choose us --%>
-    <div class="bg-[#dadded]">
-        <section class="bg-[#e9f5db] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
-            <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h3 class="text-3xl mb-8 font-semibold">Benefits of FSSAI Registration</h3>
+    <div class="bg-[#dadded] ">
+        <div class="bg-[#e9f5db] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] items-center grid md:grid-cols-12 gap-8 ">
 
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Legal Compliance
-                </h4>
-                <p class="text-gray-500  mt-4">
-                    Operating without an FSSAI license can result in hefty fines, penalties, and closure of the business.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Build Customer Trust
-                </h4>
-                <p class="text-gray-500 mt-4 bg-white">
-                    The FSSAI logo on products reassures customers that the food is safe to consume.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Market Expansion
-                </h4>
-                <p class="text-gray-500 mt-4">An FSSAI license allows you to expand your food business nationwide and beyond.</p>
-            </div>
 
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Use of FSSAI Logo
+            <div class="space-y-8 col-span-8">
 
-                </h4>
-                <p class="text-gray-500  mt-4">
-                    You can display the FSSAI logo on food packages, menus, and advertising materials, enhancing brand trust
-                </p>
-            </div>
+                <h2 class="text-3xl font-semibold">Benefits of FSSAI Registration
+                </h2>
 
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Business Credibility
-                </h4>
-                <p class="text-gray-500 mt-4">
-                    It demonstrates that your business follows the necessary food safety standards.
-                </p>
-            </div>
+                <div class=" flex flex-col gap-4 text-gray-900 ">
 
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Legal Protection
-                </h4>
-                <p class="text-gray-500 mt-4">
-                    In case of false complaints or legal issues, having an FSSAI license strengthens your legal position.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Government Support  
-                </h4>
-                <p class="text-gray-500 mt-4">
-                    Many government initiatives and subsidies are available only to FSSAI-registered businesses.
-                </p>
+                    <ol class="list-decimal text-xl ml-4 grid md:grid-cols-2 gap-1 ">
+                        <li class="pl-1 ">
+                            <span class="font-semibold">Legal Compliance</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Build Customer Trust</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Market Expansion</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Use of FSSAI Logo</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Business Credibility</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Legal Protection</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Government Support</span>
+                        </li>
+                    </ol>
+
+
+                </div>
             </div>
 
-        </section>
+            <div class="col-span-4 w-full flex justify-center items-center">
+                <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
+            </div>
+        </div>
     </div>
-
     <!-- about -->
     <div class="bg-[#e9f5db]">
         <section

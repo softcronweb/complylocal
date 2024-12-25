@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="AOA-AMA.aspx.cs" Inherits="Complylocal.AOA_AMA" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="MCA-Services.aspx.cs" Inherits="Complylocal.AOA_AMA" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -74,7 +74,7 @@
                 </div>
 
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
+                <%--                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Digital Signature Certificate (DSC)
 
                     </h3>
@@ -94,7 +94,7 @@
 
 
                     </ul>
-                </div>
+                </div>--%>
 
                 <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Filing of Annual Returns and Financial Statements
@@ -199,7 +199,7 @@
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
+                <%--<div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Company Dissolution or Closure
 
                     </h3>
@@ -215,14 +215,14 @@
                         </li>
 
                     </ul>
-                </div>
+                </div>--%>
             </div>
 
         </div>
     </div>
 
 
-    <%-- why choose us --%>
+<%--     why choose us 
     <div class="bg-[#dadded]">
         <section class="bg-[#e9f5db] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
@@ -264,6 +264,51 @@
                 <p class="text-gray-500 mt-4">We handle the paperwork, filings, and legalities, making it easier for you to focus on growing your business.</p>
             </div>
         </section>
+    </div>--%>
+
+
+    <%-- Why choose us --%>
+    <div class="bg-[#dadded] ">
+        <div class="bg-[#e9f5db] px-5 sm:px-20 py-20 rounded-t-[50px]  sm:rounded-t-[100px] grid md:grid-cols-12 gap-8 ">
+
+
+            <div class="space-y-8 col-span-8">
+
+                <h2 class="text-3xl font-semibold">Why Choose Our MCA Services?
+                </h2>
+
+                <div class=" flex flex-col gap-4 text-gray-900 ">
+
+                    <ol class="list-decimal text-xl ml-4">
+                        <li class="pl-1 ">
+                            <span class="font-semibold">Expert Guidance</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Timely and Efficient</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Comprehensive Services </span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Affordable Solutions</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Simplified Process</span>
+                        </li>
+                    </ol>
+
+
+                </div>
+            </div>
+
+            <div class="col-span-4 w-full flex justify-center items-center">
+                <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
+            </div>
+        </div>
     </div>
 
     <!-- FAQ -->
