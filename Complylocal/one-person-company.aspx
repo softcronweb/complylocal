@@ -22,7 +22,7 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
+                <img src="assets/images/single-person.jpg" alt="Team Working" class="rounded-xl ">
                 <!-- Decorative Element -->
                 <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
             </div>
@@ -150,7 +150,7 @@
     <!-- about -->
     <div class="bg-[#e9f5db]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#ffe3e0] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-purple-100 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
@@ -183,56 +183,5 @@
             </div>
         </section>
     </div>
-    <div class="bg-[#ffe3e0]">
-        <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
-            <div class="md:pr-8">
-                <h3 class="text-3xl font-bold">frequently asked questions</h3>
-                <p class="text-gray-500 mt-4">
-                    Frequently asked question (FAQ) pages to find answars.
-                </p>
-            </div>
-            <div class="md:col-span-2 flex flex-col gap-4">
-                <div class=" border-y py-4 faq-item">
-                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>What is the average time taken to register a private limited company? </h5>
-                        <span class="open">+</span>
-                        <span class="close hidden">-</span>
-                    </div>
-                    <p class="text-gray-500 pt-2 hidden ans">The registration part is of 10–15 days; after that simply place and receive orders.</p>
-                </div>
-                <div class=" border-b py-4 faq-item">
-                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Can a private limited company be registered with One Director? </h5>
-                        <span class="open">+</span>
-                        <span class="close hidden">-</span>
-                    </div>
-                    <p class="text-gray-500 pt-2 hidden ans">You cannot; you must have at least two directors to register a private limited company.</p>
-                </div>
-                <div class=" border-b py-4 faq-item">
-                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>What is the minimum capital requirement to register a private limited company? </h5>
-                        <span class="open">+</span>
-                        <span class="close hidden">-</span>
-                    </div>
-                    <p class="text-gray-500 pt-2 hidden ans">No, there is no minimum capital required. You can even begin with a humble sum of money.</p>
-                </div>
-                <div class=" border-b py-4 faq-item">
-                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Do I need an actual office address to register? </h5>
-                        <span class="open">+</span>
-                        <span class="close hidden">-</span>
-                    </div>
-                    <p class="text-gray-500 pt-2 hidden ans">Yes, you may need to have a registered office address as an individual or facility. It could be a residential or commercial property.</p>
-                </div>
-                <div class=" border-b py-4 faq-item">
-                    <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                        <h5>Whether overseas directors can be appointed in a private limited company? </h5>
-                        <span class="open">+</span>
-                        <span class="close hidden">-</span>
-                    </div>
-                    <p class="text-gray-500 pt-2 hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
-                </div>
-            </div>
-        </section>
-    </div>
+
 </asp:Content>

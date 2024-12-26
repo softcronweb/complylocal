@@ -69,6 +69,13 @@
   <ItemGroup>
     <Content Include="add-directors.aspx" />
     <Content Include="additional-business-place.aspx" />
+    <Content Include="assets\images\digital-sign.png" />
+    <Content Include="assets\images\fssai-registration.png" />
+    <Content Include="assets\images\income-tax.png" />
+    <Content Include="assets\images\LLM.png" />
+    <Content Include="assets\images\MSME-reg.png" />
+    <Content Include="assets\images\private-limited.png" />
+    <Content Include="assets\images\single-person.jpg" />
     <Content Include="MCA-Services.aspx" />
     <Content Include="assets\css\StyleSheet.css" />
     <Content Include="assets\images\aboutus.png" />
@@ -122,6 +129,7 @@
     <Content Include="iec-code.aspx" />
     <Content Include="income-tax.aspx" />
     <Content Include="limited-liability-partnership.aspx" />
+    <Content Include="MSME-reg.png" />
     <Content Include="msme-registration.aspx" />
     <Content Include="one-person-company.aspx" />
     <Content Include="pan-registration.aspx" />
@@ -131,6 +139,7 @@
     <Content Include="proprietorship-firm.aspx" />
     <Content Include="registered-office-change.aspx" />
     <Content Include="revised-returns.aspx" />
+    <Content Include="single-person.jpg" />
     <Content Include="tan-registration.aspx" />
     <Content Include="tds-return.aspx" />
     <Content Include="trademark-registration.aspx" />

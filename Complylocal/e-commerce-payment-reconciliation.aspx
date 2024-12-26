@@ -9,7 +9,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">E-Commerce Payment Reconcilation</h2>
-            <ul class="list-disc text-2xl  font-semibold ml-8 text-[#991c20]">
+            <ul class="list-disc font-medium ml-4 text-black">
                 <li>Improve Data accuracy</li>
                 <li>Generate Excess payment Invoices </li>
                 <li>Finding Less Received Payment Invoices</li>
@@ -36,7 +36,7 @@
     </section> 
 <%--about--%>
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px]  flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
@@ -57,7 +57,7 @@
     <!-- about -->
     <div class="bg-[#E5F1E3]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-purple-100 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
@@ -84,7 +84,7 @@
     </div>
 
      <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
+    <%--<div class="bg-[#DAEAFA]">
      <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
          <div class="md:pr-8">
              <h3 class="text-6xl font-bold">frequently asked questions</h3>
@@ -143,5 +143,5 @@
              </div>
          </div>
      </section>
- </div>
+ </div>--%>
 </asp:Content>

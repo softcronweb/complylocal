@@ -8,7 +8,7 @@
 
             <!-- left Content -->
 
-            <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
+            <div class="order-1 sm:order-2 flex flex-col lg:w-1/2 lg:pl-8">
                 <h2 class="text-4xl text-[#1c5a88] font-bold mb-3 ">Add Director</h2>
                 <h4 class="text-xl font-semibold text-[#991c20]">
                     A company can intimate changes among 

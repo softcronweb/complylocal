@@ -9,15 +9,13 @@
 
             <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
                 <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">Virtual Place of Business </h2>
-                <ul class="list-disc text-2xl font-semibold ml-8 text-[#991c20]">
+                <ul class="list-disc font-medium ml-4">
                     <li>Increase Productvity</li>
                     <li>Save money </li>
                     <li>Less overhead</li>
                     <li>No commute time</li>
                     <li>Employee are easily more active  </li>
                     <li>Increase Flexibility </li>
-
-
                 </ul>
                 <%--<h2 class="text-5xl  font-bold text-gray-900 mb-6 leading-tight">Easily Register
                 Your Private Limited Company with ComplyLocal
@@ -59,7 +57,7 @@
     <!-- about -->
     <div class="bg-[#E5F1E3]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-purple-100 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
@@ -67,10 +65,10 @@
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
                 <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Virtual Place of Business (VPOB)
                 </h2>
-                <p class="text-gray-600 text-lg mb-6">
+                <p class="text-gray-600 mb-6">
                    You have the space all over India, without even sitting in an office in any part of INDIA. It is also known as VPOB(Virtual Place of business) to E-commerce Sellers. Virtual Office — You can have a professional business address for your company in almost every state where you do not get GST registration.
                 </p>
-                <p class="text-gray-600 text-lg mb-6">
+                <p class="text-gray-600 mb-6">
                    The biggest attraction there is no office lease, no utility bills you’re tempting us now, and no hardware or any costs that come with having a brick-and-mortar operation. Not only can all those savings be passed along to clients, but it is cutting into your profit margin and ability to reinvest in those people.
                 </p>
 
@@ -88,65 +86,5 @@
         </section>
     </div>
 
-     <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
-     <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
-         <div class="md:pr-8">
-             <h3 class="text-6xl font-bold">frequently asked questions</h3>
-             <p class="text-gray-500 text-xl mt-4">
-                 Frequently asked question (FAQ) pages to find answars.
-             </p>
-         </div>
-         <div class="md:col-span-2 flex flex-col gap-4">
-             <div class=" border-y py-4 faq-item">
-                 <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                     <h5>What is the average time taken to register a private limited company? </h5>
-                     <span class="open">+</span>
-                     <span class="close hidden">-</span>
-                 </div>
-                 <p class="text-gray-500 text-sm hidden ans">The registration part is of 10–15 days; after that simply place and receive orders.</p>
-             </div>
-             <div class=" border-b py-4 faq-item">
-                 <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                     <h5>Can a private limited company be registered with One Director? </h5>
-                     <span class="open">+</span>
-                     <span class="close hidden">-</span>
-                 </div>
-                 <p class="text-gray-500 text-sm hidden ans">You cannot; you must have at least two directors to register a private limited company.</p>
-             </div>
-             <div class=" border-b py-4 faq-item">
-                 <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                     <h5>What is the minimum capital requirement to register a private limited company? </h5>
-                     <span class="open">+</span>
-                     <span class="close hidden">-</span>
-                 </div>
-                 <p class="text-gray-500 text-sm hidden ans">No, there is no minimum capital required. You can even begin with a humble sum of money.</p>
-             </div>
-             <div class=" border-b py-4 faq-item">
-                 <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                     <h5>Do I need an actual office address to register? </h5>
-                     <span class="open">+</span>
-                     <span class="close hidden">-</span>
-                 </div>
-                 <p class="text-gray-500 text-sm hidden ans">Yes, you may need to have a registered office address as an individual or facility. It could be a residential or commercial property.</p>
-             </div>
-             <div class=" border-b py-4 faq-item">
-                 <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                     <h5>Whether overseas directors can be appointed in a private limited company? </h5>
-                     <span class="open">+</span>
-                     <span class="close hidden">-</span>
-                 </div>
-                 <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
-             </div>
-             <div class=" border-b py-4 faq-item">
-                 <div class="text-lg font-semibold flex gap-4 justify-between items-center">
-                     <h5>Should I attend the registration face to face?</h5>
-                     <span class="open">+</span>
-                     <span class="close hidden">-</span>
-                 </div>
-                 <p class="text-gray-500 text-sm hidden ans">Yes, foreign citizens can also be directors; they need to get a director identification number DIN.</p>
-             </div>
-         </div>
-     </section>
- </div>
+   
 </asp:Content>

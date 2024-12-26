@@ -11,7 +11,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link
         href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
@@ -49,9 +49,8 @@
                             class="absolute z-50 hidden group-hover:block top-full left-0 bg-black text-gray-400 rounded-sm shadow-lg w-64">
                             <li><a href="private-limited-company-services.aspx" class="block px-4 py-2 hover:text-white ">Private Limited Company</a></li>
                             <li><a href="one-person-company.aspx" class="block px-4 py-2 hover:text-white ">One Person Company</a></li>
-                            <li><a href="limited-liability-partnership.aspx" class="block px-4 py-2 hover:text-white ">Limited Liability Partnership</a></li>
-                            <li><a href="partnership-firm.aspx" class="block px-4 py-2 hover:text-white ">Partnership Firm</a></li>
-                            <li><a href="proprietorship-firm.aspx" class="block px-4 py-2 hover:text-white ">Proprietorship Firm</a></li>
+                            <li><a href="limited-liability-partnership.aspx" class="block px-4 py-2 hover:text-white ">LLP & Partnership</a></li>
+                           <li><a href="proprietorship-firm.aspx" class="block px-4 py-2 hover:text-white ">Proprietorship Firm</a></li>
                         </ul>
                     </li>
                     <li class="">
@@ -64,7 +63,7 @@
                             class="absolute z-50 hidden group-hover:block top-full left-0 bg-black text-gray-400 rounded-sm shadow-lg w-64">
                             <li><a href="additional-business-place.aspx" class="block px-4 py-2 hover:text-white ">Additional Business Place</a></li>
                             <li><a href="virtual-business-place.aspx" class="block px-4 py-2 hover:text-white ">Virtual Business Place</a></li>
-                            <li><a href="e-commerce-gst.aspx" class="block px-4 py-2 hover:text-white ">E-Commerce GST</a></li>
+                            <li><a href="e-commerce-gst.aspx" class="block px-4 py-2 hover:text-white ">E-Commerce Services</a></li>
                             <li><a href="e-commerce-gst-return.aspx" class="block px-4 py-2 hover:text-white ">E-Commerce GST Returns</a></li>
                             <li><a href="e-commerce-payment-reconciliation.aspx" class="block px-4 py-2 hover:text-white ">E-Commerce Payment Reconciliation</a></li>
                             <li><a href="e-way-bill-registration.aspx" class="block px-4 py-2 hover:text-white ">E-Way Bill Registration</a></li>

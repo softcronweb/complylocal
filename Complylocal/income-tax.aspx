@@ -9,7 +9,7 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h1 class="text-3xl font-bold mb-1 text-[#1c5a88] ">INCOME TAX</h1>
+            <h1 class="text-3xl font-bold mb-1 text-[#1c5a88]">INCOME TAX</h1>
             <h2 class="text-xl font-semibold text-[#1c5a88] mb-3">Maximize your refund, minimize your stress</h2>
             <p class="font-medium">
                 Income tax or direct tax is an important part of the Indian tax structure affecting diverse persons including individuals, HUFs, Corporate, partnerships, LLPs, Societies and others.
@@ -18,9 +18,9 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
+                <img src="assets/images/income-tax.png" alt="Team Working" class="rounded-xl ">
                 <!-- Decorative Element -->
-                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+                <%--<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>--%>
             </div>
         </div>
     </section>
@@ -32,29 +32,23 @@
             </div>
 
             <div class="space-y-8 col-span-8">
-
                 <h2 class="text-3xl font-semibold">Why Choose Us ?
                 </h2>
-
                 <div class=" flex flex-col gap-4 text-gray-900 ">
 
-                    <ol class="list-disc text-xl ml-4 grid md:grid-cols-2 gap-1">
+                    <ol class="list-disc text-lg ml-4 grid md:grid-cols-2 gap-1">
                         <li class="pl-1">
                             <span class="font-semibold">Expertise & Experience </span>
                         </li>
-
                         <li class="pl-1">
                             <span class="font-semibold">Personalized Solutions </span>
                         </li>
-
                         <li class="pl-1">
                             <span class="font-semibold">Compliance & Accuracy</span>
                         </li>
-
                         <li class="pl-1">
                             <span class="font-semibold">Tax Savings</span>
                         </li>
-
                         <li class="pl-1">
                             <span class="font-semibold">End-to-End Support</span>
                         </li>
@@ -65,23 +59,16 @@
                             <span class="font-semibold">Transparent Pricing</span></li>
                         <li class="pl-1 ">
                             <span class="font-semibold">Technology-Driven Approach</span>
-
                         </li>
                         <li class="pl-1 ">
                             <span class="font-semibold">Dedicated Customer Support</span>
-
                         </li>
                         <li class="pl-1 ">
                             <span class="font-semibold">Confidential & Secure</span>
-
                         </li>
                     </ol>
-
-
                 </div>
             </div>
-
-
         </div>
     </div>
 

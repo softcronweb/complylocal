@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">TAN Registration</h2>
-            <ul class="list-disc text-2xl  font-semibold ml-8 text-[#991c20]">
+            <ul class="list-disc  ml-4 font-medium">
                 <li>Apply for TAN</li>
                 <li>Deduct Tax from Income or Payments</li>
                 <li>Deposit Tax within time limits specified</li>
@@ -29,7 +29,7 @@
     </section>
     <%--about--%>
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+        <div class="bg-[#E5F1E3] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
             <!--- heading -->
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
@@ -57,10 +57,10 @@
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
                 <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">TAN registration
                 </h2>
-                <p class="text-gray-600 text-lg mb-6">
+                <p class="text-gray-600  mb-6">
                     Welcome to ComplyLocal, the trusted partner for your hassle-free registration of Tax Deduction and Collection Account Number (TAN). Opt for easy and simple tax compliance with our tailored, user-friendly platform to suit the needs of both individuals and businesses. ComplyLocal can assist you in applying for your TAN online, which helps you to get tax deductions or collection compliance most professionally and efficiently.
                 </p>
-                <p class="text-gray-600 text-lg mb-6">
+                <p class="text-gray-600  mb-6">
                     Goodbye to complex paperwork & long processes; we will be your Single Point of Contact for TAN Registration and ease up the rest so you can concentrate on growing. You will be able to get ahead in your tax liabilities with our state-of-the-art platform. Sign up free with ComplyLocal and simplify compliance for your business today!
                 </p>
 

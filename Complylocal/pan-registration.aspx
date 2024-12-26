@@ -9,7 +9,7 @@
 
     <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
         <h1 class="text-3xl font-bold mb-3 text-[#1c5a88]">PAN Registration</h1>
-        <ul class="list-disc text-2xl  font-semibold ml-8 text-[#991c20]">
+        <ul class="list-disc font-medium ml-4">
             <li>Opening a Bank/Demat Account </li>
             <li>Starting a Business</li>
             <li>Making Invesment, Buying RBI Bonds/Insurance</li>
@@ -29,7 +29,7 @@
 </section>
 <%--about--%>
 <div class="bg-[#fafafa] ">
-    <div class="bg-[#E5F1E3] text-[#1c5a88] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen flex justify-center items-center  ">
+    <div class="bg-[#E5F1E3] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] flex justify-center items-center  ">
         <!--- heading -->
         <div class="grid md:grid-cols-3 gap-8">
             <div>

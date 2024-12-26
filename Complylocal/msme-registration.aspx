@@ -22,9 +22,9 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
+                <img src="assets/images/MSME-reg.png" alt="Team Working" class="rounded-xl ">
                 <!-- Decorative Element -->
-                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+                <%--<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>--%>
             </div>
         </div>
     </section>
@@ -101,7 +101,7 @@
             <p class="text-gray-900 text-lg mb-6">
                 Registering as an MSME brings a range of benefits and support from the government. Here’s how it can help your business
             </p>
-            <ol class="list-decimal text-black font-medium ml-4 mb-6">
+            <ol class="list-decimal text-black font-medium text-lg ml-4 mb-6">
                 <li class="pl-1">Access to Collateral-Free Loans</li>
                 <li class="pl-1">Subsidies & Government Support</li>
                 <li class="pl-1">Lower Interest Rates on Loans</li>
@@ -131,7 +131,7 @@
         <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">
             Documents Required for MSME Registration
         </h2>
-        <ol class="list-decimal text-black ml-4 mb-6">
+        <ol class="list-decimal text-black text-lg ml-4 mb-6">
             <li class="pl-1">Aadhaar Card</li>
             <li class="pl-1">PAN Card</li>
             <li class="pl-1">Business Address Proof</li>

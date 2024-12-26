@@ -15,10 +15,10 @@
 
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
-            <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
+            <div class="relative w-full">
+                <img src="assets/images/fssai-registration.png" alt="Team Working" class="rounded-xl w-full max-h-[300px] object-contain">
                 <!-- Decorative Element -->
-                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+                <%--<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>--%>
             </div>
         </div>
     </section>
@@ -102,8 +102,6 @@
                             <span class="font-semibold">Government Support</span>
                         </li>
                     </ol>
-
-
                 </div>
             </div>
 

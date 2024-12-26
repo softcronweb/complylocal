@@ -34,6 +34,12 @@
                 <p class="text-lg text-gray-900 pt-4">
                     We offer a range of accounting solutions to help e-commerce businesses stay organized, financially healthy, and compliant with tax regulations. 	
                 </p>
+                <ol class="list-decimal ml-4 text-gray-900">
+                    <li>APOB (Additional Place of Business)</li>
+                    <li>VPOB (Virtual Place of Business)</li>
+                    <li>E-Commerce GST Returns</li>
+                    <li>E-commerce Payment Reconciliation</li>
+                </ol>
             </div>
 
             <div class="grid sm:grid-cols-2 md:grid-cols-3  gap-4">

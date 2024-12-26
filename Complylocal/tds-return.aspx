@@ -54,7 +54,7 @@
 
                 <div class=" flex flex-col gap-4 text-gray-900 ">
 
-                    <ol class="list-disc text-xl ml-4 grid md:grid-cols-2 gap-1">
+                    <ol class="list-disc text-lg ml-4 grid md:grid-cols-2 gap-1">
                         <li class="pl-1 ">
                             <span class="font-semibold">Expert Guidance</span>
                         </li>

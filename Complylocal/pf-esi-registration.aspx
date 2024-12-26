@@ -10,7 +10,7 @@
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h1 class="text-3xl font-bold mb-3 text-[#1c5a88] ">Employee State Insurance Registration</h1>
-            <ul class="list-disc text-2xl  font-semibold ml-8 text-[#991c20]">
+            <ul class="list-disc font-medium ml-4">
                 <li>Medical Benefit</li>
                 <li>Sickness Benefit</li>
                 <li>Maternity Benefit</li>
@@ -66,7 +66,7 @@
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
                 <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">PF and ESI Registration Fund
                 </h2>
-                <p class="text-gray-600 text-lg mb-6">
+                <p class="text-gray-600 mb-6">
                     We at ComplyLocal ensure that Provident Fund (PF) and Employee State Insurance(ESI) registration is done as per the mandatory requirement. With our added knowledge, you can be certain to have a successful registration and stay focused on your own business. Our experts take you through the complete process, preparing all documents and submitting them correctly while complying with legal requirements. For startups, SMEs, and large companies, we tailor our services to your requirements with bespoke solutions to give you peace of mind. Register with ComplyLocal to register your PF and ESI compliantly, efficiently & professionally. We will handle the intricacies so you can scale your business. Get in touch, and we can get started.
                 </p>
 
