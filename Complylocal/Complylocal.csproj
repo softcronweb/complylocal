@@ -129,7 +129,6 @@
     <Content Include="iec-code.aspx" />
     <Content Include="income-tax.aspx" />
     <Content Include="limited-liability-partnership.aspx" />
-    <Content Include="MSME-reg.png" />
     <Content Include="msme-registration.aspx" />
     <Content Include="one-person-company.aspx" />
     <Content Include="pan-registration.aspx" />
@@ -139,7 +138,7 @@
     <Content Include="proprietorship-firm.aspx" />
     <Content Include="registered-office-change.aspx" />
     <Content Include="revised-returns.aspx" />
-    <Content Include="single-person.jpg" />
+    <Content Include="subsidy.aspx" />
     <Content Include="tan-registration.aspx" />
     <Content Include="tds-return.aspx" />
     <Content Include="trademark-registration.aspx" />
@@ -345,6 +344,13 @@
     </Compile>
     <Compile Include="revised-returns.aspx.designer.cs">
       <DependentUpon>revised-returns.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="subsidy.aspx.cs">
+      <DependentUpon>subsidy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="subsidy.aspx.designer.cs">
+      <DependentUpon>subsidy.aspx</DependentUpon>
     </Compile>
     <Compile Include="tan-registration.aspx.cs">
       <DependentUpon>tan-registration.aspx</DependentUpon>

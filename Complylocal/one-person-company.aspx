@@ -154,11 +154,11 @@
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">Eligibility for One Person Company (OPC) Registration
+                <h2 class="text-3xl  font-bold text-gray-900 mb-4 leading-tight">Eligibility for One Person Company (OPC) Registration
                 </h2>
                 <h4 class="text-xl font-semibold text-black">To form an OPC, you must meet the following eligibility criteria:</h4>
 
-                <ol class="ml-4 my-8 list-decimal">
+                <ol class="ml-4 my-4 list-decimal ">
                     <li class="pl-1">
                         <span class="font-semibold">Single Member:</span> Only one individual can be the sole shareholder of the company, and that individual must be an Indian citizen and a resident of India.</li>
 
@@ -177,8 +177,6 @@
             <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
                 <div class="relative">
                     <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                    <!-- Decorative Element -->
-                    <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
                 </div>
             </div>
         </section>

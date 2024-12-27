@@ -42,71 +42,7 @@
 
 
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] items-center grid md:grid-cols-12 gap-8 ">
 
-            <div class="col-span-4 w-full flex justify-center items-center">
-                <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
-            </div>
-            <div class="space-y-8 col-span-8">
-
-                <h2 class="text-3xl font-semibold">Why Choose Us ?
-                </h2>
-
-                <div class=" flex flex-col gap-4 text-gray-900 ">
-
-                    <ol class="list-disc text-lg ml-4 grid md:grid-cols-2 gap-1">
-                        <li class="pl-1 ">
-                            <span class="font-semibold">Expert Guidance</span>
-                        </li>
-
-                        <li class="pl-1">
-                            <span class="font-semibold">Compliance Assurance</span>
-                        </li>
-
-                        <li class="pl-1">
-                            <span class="font-semibold">End-to-End Support </span>
-                        </li>
-
-                        <li class="pl-1">
-                            <span class="font-semibold">Error-Free Filing</span>
-                        </li>
-
-                        <li class="pl-1">
-                            <span class="font-semibold">Timely Reminders</span>
-                        </li>
-
-                        <li class="pl-1">
-                            <span class="font-semibold">PAN & TAN Assistance</span>
-                        </li>
-                        <li class="pl-1">
-                            <span class="font-semibold">Dispute Resolution</span>
-                        </li>
-                        <li class="pl-1">
-                            <span class="font-semibold">Affordable Pricing</span>
-                        </li>
-                        <li class="pl-1">
-                            <span class="font-semibold">Technology-Driven Approach</span>
-                        </li>
-                        <li class="pl-1">
-                            <span class="font-semibold">Dedicated Customer Suppor</span>
-                        </li>
-                    </ol>
-
-
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-
-
-
-
-
-
-    <!-- about -->
-    <div class="bg-[#dadded]">
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
@@ -163,10 +99,78 @@
                 </div>
             </div>
         </section>
+
+
+    </div>
+
+
+
+
+
+
+    <!-- about -->
+    <div class="bg-[#e9f5db]">
+        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] items-center grid md:grid-cols-12 gap-8 ">
+
+            <div class="space-y-8 col-span-8">
+
+                <h2 class="text-3xl font-semibold">Why Choose Us ?
+                </h2>
+
+                <div class=" flex flex-col gap-4 text-gray-900 ">
+
+                    <ol class="list-disc text-lg ml-4 grid md:grid-cols-2 gap-1">
+                        <li class="pl-1 ">
+                            <span class="font-semibold">Expert Guidance</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Compliance Assurance</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">End-to-End Support </span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Error-Free Filing</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">Timely Reminders</span>
+                        </li>
+
+                        <li class="pl-1">
+                            <span class="font-semibold">PAN & TAN Assistance</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Dispute Resolution</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Affordable Pricing</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Technology-Driven Approach</span>
+                        </li>
+                        <li class="pl-1">
+                            <span class="font-semibold">Dedicated Customer Suppor</span>
+                        </li>
+                    </ol>
+
+
+                </div>
+            </div>
+
+            <div class="col-span-4 w-full flex justify-center items-center">
+                <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
+            </div>
+
+
+        </div>
     </div>
 
     <!-- FAQ -->
-    <div class="bg-[#e9f5db]">
+    <div class="bg-[#dadded]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>

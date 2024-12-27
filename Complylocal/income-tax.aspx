@@ -77,10 +77,10 @@
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
             <!-- left Content -->
-            <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
+            <div class="flex flex-col lg:w-1/2 items-start">
                 <h2 class="text-3xl  font-bold text-gray-900  leading-tight">INCOME TAX SERVICES
                 </h2>
-                <ul class="ml-4 my-6 font-medium list-disc">
+                <ul class="ml-4 my-4 font-medium list-disc">
                     <li>Return filing</li>
                     <li>Defective return (Sec 139(9)</li>
                     <li>Updated return (ITR -U)</li>
@@ -100,7 +100,7 @@
                 </a>
             </div>
             <!-- Image -->
-            <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
+            <div class=" lg:w-1/2 flex justify-center items-center">
                 <div class="relative">
                     <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
                     <!-- Decorative Element -->

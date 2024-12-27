@@ -79,17 +79,17 @@
     <!-- about -->
     <div class="bg-[#dadded]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-purple-100 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row justify-between bg-purple-100 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
 
             <div class="flex flex-col lg:w-1/2  items-start">
-                <h2 class="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-6 leading-tight">Requirements for Private Limited Company Registration
+                <h2 class="text-2xl sm:text-3xl font-bold text-gray-900 mb-6 leading-tight">Requirements for Private Limited Company Registration
                 </h2>
-                <h3 class="text-lg sm:text-xl lg:text-2xl font-semibold text-black">To register a Private Limited Company, you must meet the following basic requirements:</h3>
+                <h3 class="text-lg sm:text-xl font-semibold text-black">To register a Private Limited Company, you must meet the following basic requirements:</h3>
 
-                <ol class="ml-4 my-8 list-decimal text-sm sm:text-base lg:text-lg">
+                <ol class="ml-4 my-4 list-decimal">
                     <li>
                         <span class="font-semibold">Minimum Directors</span> At least 2 directors (maximum 15). One director must be an Indian resident.</li>
                     <li>
@@ -108,9 +108,9 @@
                 </a>
             </div>
             <!-- Image -->
-            <div class=" lg:w-1/2 flex justify-center items-center">
+            <div class=" lg:w-1/2 flex justify-center ">
                 <div class="relative">
-                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
+                    <img src="assets/images/MSME-reg.png" alt="Team Working" class="rounded-xl ">
                 </div>
             </div>
         </section>

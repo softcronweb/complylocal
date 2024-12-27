@@ -54,7 +54,7 @@
                         <li><span class="font-semibold">E-Invoicing </span>for GST-compliant businesses</li>
                         <li><span class="font-semibold">Signing PDF Documents & Agreements </span>securely and legally.</li>
                     </ul>
-                    <a href="#" class="flex w-fit bg-[#faf8f7] text-black items-center gap-2 p-4 border rounded-2xl text-xs font-semibold">LEARN MORE <span><i class="fa-solid fa-caret-right"></i></span></a>
+                   
                 </div>
             </div>
         </div>

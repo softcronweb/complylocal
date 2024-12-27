@@ -9,10 +9,10 @@
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
-            <h1 class="text-3xl font-bold mb-3 text-[#1c5a88] ">E-Commerce Services</h1>
+            <h1 class="text-3xl font-bold mb-1 text-[#1c5a88] ">E-Commerce Services</h1>
+            <h2 class="text-xl font-semibold text-[#1c5a88] mb-3">Balancing Your Books, Building Your Future.</h2>
             <p class="font-medium ">
-                In the fast-paced world of e-commerce, managing your financial records accurately is essential for growth and compliance. At Complylocal, we specialize in providing comprehensive accounting services tailored to the unique needs of e-commerce businesses. From handling day-to-day transactions to tax planning and financial reporting, we ensure your financial processes are streamlined, transparent, and compliant.
-
+                In the fast-paced world of e-commerce, managing your financial records accurately is essential for growth and compliance. <span class="font-semibold">At Complylocal</span>, we specialize in providing comprehensive accounting services tailored to the unique needs of e-commerce businesses. From handling day-to-day transactions to tax planning and financial reporting, we ensure your financial processes are streamlined, transparent, and compliant.
             </p>
         </div>
 
@@ -30,7 +30,7 @@
     <div class="bg-[#faf8f7]">
         <div class="bg-[#dadded] sm:rounded-t-[100px] rounded-t-[50px] py-20 px-5 sm:px-20 flex flex-col justify-center gap-12 text-white">
             <div>
-                <h2 class="text-3xl text-black font-semibold text-black">Our E-Commerce Services</h2>
+                <h2 class="text-3xl text-black font-semibold text-black"> Accounting Services for E-Commerce Businesses </h2>
                 <p class="text-lg text-gray-900 pt-4">
                     We offer a range of accounting solutions to help e-commerce businesses stay organized, financially healthy, and compliant with tax regulations. 	
                 </p>
@@ -41,7 +41,6 @@
                     <li>E-commerce Payment Reconciliation</li>
                 </ol>
             </div>
-
             <div class="grid sm:grid-cols-2 md:grid-cols-3  gap-4">
                 <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black  rounded-xl">
                     <h3 class="text-2xl">Bookkeeping and Financial Record Keeping</h3>
@@ -49,9 +48,7 @@
                     <ul class="list-disc ml-4 ">
                         <li>Daily/Monthly Bookkeeping</li>
                         <li>Recording Sales and Purchases</li>
-                        <li>Handling Returns and Refunds</li>
-                        <li>Tracking Operating Expenses and Cost of Goods Sold (COGS)</li>
-
+                       
                     </ul>
                 </div>
 
@@ -67,14 +64,12 @@
                         <li>Profit and Loss Statements (P&L)</li>
                         <li>Balance Sheets</li>
                         <li>Cash Flow Statements</li>
-                        <li>Custom Financial Reports for Decision Making</li>
-                        <li>Key Performance Indicators (KPIs) Reporting</li>
-
+                       
                     </ul>
                 </div>
 
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black  rounded-xl">
+                <%--<div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black  rounded-xl">
                     <h3 class="text-2xl">GST Compliance and Filing
 
                     </h3>
@@ -88,9 +83,9 @@
                         <li>Multi-State GST Compliance</li>
                         <li>Reconciliation</li>
                     </ul>
-                </div>
+                </div>--%>
 
-                <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
+                <%--<div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Profitability Analysis
 
                     </h3>
@@ -104,7 +99,7 @@
                         <li>Product Profitability Reports</li>
                         <li>Identifying Loss-Making Products and Operations</li>
                     </ul>
-                </div>
+                </div>--%>
 
                 <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black  rounded-xl">
                     <h3 class="text-2xl">Tax Planning and Filing
@@ -116,12 +111,12 @@
                     <ul class="list-disc ml-4 ">
                         <li>Income Tax Return Filing (ITR)</li>
                         <li>Tax Deductions and Credits Optimization</li>
-                        <li>GST and TDS Filing</li>
+                        <li>TDS Return Filing</li>
                     </ul>
                 </div>
 
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
+<%--                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">
                         Cash Flow Management
                     </h3>
@@ -136,7 +131,7 @@
                         <li>Cash Flow Management</li>
 
                     </ul>
-                </div>
+                </div>--%>
 
                 <div class="flex flex-col gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">Financial Forecasting and Budgeting
@@ -148,14 +143,11 @@
                     <ul class="list-disc ml-4">
                         <li>Revenue and Expense Forecasting</li>
                         <li>Setting Financial Goals and Milestones</li>
-                        <li>Creating Annual and Quarterly Budgets</li>
-                        <li>Cash Flow Projections for Scaling the Business</li>
-                        <li>Scenario Planning for Business Growth</li>
-
+                       
                     </ul>
                 </div>
 
-                <div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
+                <%--<div class="flex flex-col  gap-8 p-8 bg-[#faf8f7] text-black rounded-xl">
                     <h3 class="text-2xl">
                         E-Commerce Business Consulting
                     </h3>
@@ -169,7 +161,7 @@
                         <li>Optimizing Financial Systems and Software</li>
                         <li>Debt Restructuring and Financial Resilience</li>
                     </ul>
-                </div>
+                </div>--%>
             </div>
 
         </div>
@@ -182,46 +174,54 @@
     <div class="bg-[#dadded]">
         <section class="bg-[#e9f5db] sm:px-20 px-5 py-20 grid sm:grid-cols-2 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
             <div class="sm:col-span-2 text-center flex flex-col items-center justify-center">
-                <h3 class="text-3xl font-semibold mb-8">Why Choose Us for E-Commerce Accounting Services ?</h3>
+                <h3 class="text-3xl font-semibold mb-8">Why Choose Us for E-Commerce Accounting Services?</h3>
+            </div>
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">Industry Expertise
+                </h4>
+                <p class="text-gray-500 mt-4">
+                    : Our team has extensive experience working with e-commerce businesses and understands the unique accounting challenges you face.
+                </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Customized Solutions
                 </h4>
-                <p class="text-gray-500 mt-4">
-                    We offer personalized accounting services tailored to your business size, structure, and needs.
+                <p class=" text-gray-500 mt-4">
+                    We offer personalized accounting services according to your business size, structure, and needs.
                 </p>
             </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">Technology-Driven
                 </h4>
-                <p class=" text-gray-500 mt-4">
-                    We leverage the latest accounting software and tools to automate processes and provide real-time insights into your business’s financial health.
-                </p>
-            </div>
-            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
-                <h4 class="text-xl font-semibold ">Compliance Focused
-                </h4>
-                <p class="text-gray-500 mt-4">We ensure that your e-commerce business stays compliant with all local and international tax and accounting regulations. </p>
+                <p class="text-gray-500 mt-4">We adopted the latest accounting software and tools to automate processes. </p>
             </div>
 
+            <div class="p-8 border-t shadow-xl rounded-xl bg-white">
+                <h4 class="text-xl font-semibold ">
+                    Compliance Focused
+                </h4>
+                <p class=" text-gray-500 mt-4">
+                   We ensure that your e-commerce business stays compliant with tax and accounting regulations.
+                </p>
+            </div>
             <div class="p-8 border-t shadow-xl rounded-xl bg-white">
                 <h4 class="text-xl font-semibold ">
                     Scalable Services
                 </h4>
                 <p class=" text-gray-500 mt-4">
-                    As your business grows, our services scale with you, providing continuous support through every stage of your e-commerce journey.
+                  As your business grows, our services scale with you, providing continuous support through every stage of your e-commerce journey.
                 </p>
             </div>
         </section>
     </div>
 
     <!-- about -->
-    <div class="bg-[#e9f5db]">
+    <%--<div class="bg-[#e9f5db]">
         <section
             class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
-            <!-- left Content -->
+            
 
             <div class="flex flex-col lg:w-1/2 lg:order-2 items-start">
 
@@ -241,20 +241,19 @@
                 <a href="#" class="bg-[#991e20] text-white px-6 py-3 rounded-md font-medium">Contact Now
                 </a>
             </div>
-            <!-- Image -->
+         
             <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
                 <div class="relative">
                     <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                    <!-- Decorative Element -->
-                    <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
+                   
                 </div>
             </div>
         </section>
-    </div>
+    </div>--%>
 
 
     <!-- FAQ -->
-    <div class="bg-[#DAEAFA]">
+    <div class="bg-[#e9f5db]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>
