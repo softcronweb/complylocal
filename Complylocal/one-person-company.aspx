@@ -30,7 +30,7 @@
     </section>
 
 
-    <%--about--%>
+    <%--benifit--%>
 
 
 
