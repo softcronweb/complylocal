@@ -19,24 +19,27 @@
         <!-- Image -->
         <div class="order-3 lg:w-1/2">
             <div class="relative">
-               <img src="assets/images/private-limited.png" alt="Team Working" class="rounded-xl">
+                <img src="assets/images/hero/6.png" alt="Team Working" class="rounded-xl ">
                 <!-- Decorative Element -->
-                <%--<div class="hidden sm:inline-block absolute  bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>--%>
+                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+
             </div>
         </div>
     </section>
     <%--about--%>
     <div class="bg-[#fafafa] ">
         <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] items-center grid md:grid-cols-12 gap-8 ">
-          
-             <div class="col-span-4 w-full flex justify-center items-center">
-     <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl "/>
- </div>
+
+            <div class="col-span-4  flex justify-center items-center">
+                <div class="w-[300px] h-[300px] rounded-xl">
+                    <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl w-full h-full object-cover"/>
+                </div>
+            </div>
             <div class="space-y-8 col-span-8">
-                
-                    <h2 class="text-2xl sm:text-3xl lg:text-4xl font-semibold">Why Register as a Private Limited Company?
-                    </h2>
-                
+
+                <h2 class="text-2xl sm:text-3xl lg:text-4xl font-semibold">Why Register as a Private Limited Company?
+                </h2>
+
                 <div class=" flex flex-col gap-4 text-gray-900 ">
 
                     <ol class="list-decimal text-sm sm:text-base lg:text-lg ml-4 grid md:grid-cols-2">
@@ -68,11 +71,11 @@
                         </li>
                     </ol>
 
-                  
+
                 </div>
             </div>
 
-           
+
         </div>
     </div>
 
@@ -104,16 +107,15 @@
                         <span class="font-semibold">Unique Company Name </span>The name of the company should be unique and not similar to any existing company name or trademark.</li>
                 </ol>
 
-                <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
-                </a>
+                
             </div>
             <!-- Image -->
             <div class=" lg:w-1/2 flex justify-center ">
-                <div class="relative">
-                    <img src="assets/images/MSME-reg.png" alt="Team Working" class="rounded-xl ">
+                <div class="relative w-[300px] h-[300px] rounded-xl ">
+                    <img src="assets/images/MSME-reg.png" alt="Team Working" class="w-full h-full object-cover rounded-xl  ">
                 </div>
             </div>
         </section>
     </div>
-   
+
 </asp:Content>

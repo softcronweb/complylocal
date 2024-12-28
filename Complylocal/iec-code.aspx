@@ -24,9 +24,9 @@
      <!-- Image -->
      <div class=" order-3  lg:w-1/2">
          <div class="relative">
-             <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
-             <!-- Decorative Element -->
-             <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+                           <img src="assets/images/hero/7.png" alt="Team Working" class="rounded-xl ">
+<!-- Decorative Element -->
+<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
          </div>
      </div>
  </section>
@@ -52,7 +52,7 @@
  <!-- about -->
  <div class="bg-[#E5F1E3]">
      <section
-         class="flex flex-col lg:flex-row items-center justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+         class="flex flex-col lg:flex-row justify-between bg-[#DAEAFA] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
          <!-- left Content -->
@@ -61,10 +61,10 @@
              <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">IEC Code
 
              </h2>
-             <p class="text-gray-600 text-lg mb-6">
+             <p class="text-gray-600 mb-6">
                 ComplyLocal is your top resource for everything related to the Import Export Code (IEC). Our website is a complete guide, offering expert advice and essential tools. We keep the IEC application process super simple and uncomplicated. Are you an established exporter or new to international trade? ComplyLocal supports the complete process. Our team offers step-by-step guidance on the latest regulation updates.
              </p>
-             <p class="text-gray-600 text-lg mb-6">
+             <p class="text-gray-600  mb-6">
                  Make the whole process effortless & say goodbye to back-and-forth conversations. We make it quick, easy, and user-friendly on our end, so your end is hassle-free! Let us help you with fact-filled, simplified solutions like how we do for so many others who rely on ComplyLocal.
              </p>
              <h4 class="text-gray-600 text-lg mb-6 font-semibold">Introduce yourself to the world of international markets with ComplyLocal.</h4>
@@ -73,11 +73,10 @@
              </a>
          </div>
          <!-- Image -->
-         <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
-             <div class="relative">
-                 <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                 <!-- Decorative Element -->
-                 <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
+         <div class="lg:order-1 lg:w-1/2 flex items-center">
+             <div class="relative w-[300px] h-[300px] rounded-xl">
+                  <img src="assets/images/small/37.png" alt="Team Working"  class="rounded-xl w-full h-full object-cover">
+                 
              </div>
          </div>
      </section>

@@ -12,8 +12,8 @@
             <h1 class="text-3xl font-bold mb-3 text-[#1c5a88] ">MSME registration</h1>
             <p class="font-medium">
                 The Micro, Small, and Medium Enterprises (MSME) sector is one of the most vital parts of India's economy. To avail of these benefits, businesses must obtain an MSME Registration (also known as Udyam Registration).
-                <br/>
-                <br/>
+                <br />
+                <br />
                 MSME Registration (Udyam Registration) is a government certification that officially recognizes your business as a Micro, Small, or Medium Enterprise. This registration enables businesses to access a variety of benefits, including financial support, subsidies, priority loans, and eligibility for government tenders. It also enhances the credibility of the business in the market.
   
             </p>
@@ -22,9 +22,9 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/MSME-reg.png" alt="Team Working" class="rounded-xl ">
+                <img src="assets/images/hero/15.png" alt="Team Working" class="rounded-xl object-cover">
                 <!-- Decorative Element -->
-                <%--<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>--%>
+                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
             </div>
         </div>
     </section>
@@ -89,61 +89,59 @@
 
     <!-- about -->
     <div class="bg-[#dadded]">
-  <section
-    class="grid lg:grid-cols-2 grid-cols-1 gap-10 lg:gap-20 bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20">
+        <section
+            class="grid lg:grid-cols-2 grid-cols-1 gap-10 lg:gap-20 bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20">
 
-    <!-- Left Content -->
-    <div class="flex flex-col justify-center items-start">
-        <div class="relative">
-            <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">
-                Benefits of MSME Registration
-            </h2>
-            <p class="text-gray-900 text-lg mb-6">
-                Registering as an MSME brings a range of benefits and support from the government. Here’s how it can help your business
-            </p>
-            <ol class="list-decimal text-black font-medium text-lg ml-4 mb-6">
-                <li class="pl-1">Access to Collateral-Free Loans</li>
-                <li class="pl-1">Subsidies & Government Support</li>
-                <li class="pl-1">Lower Interest Rates on Loans</li>
-                <li class="pl-1">Protection Against Delayed Payments</li>
-                <li class="pl-1">Concession on Electricity Bills</li>
-                <li class="pl-1">Eligibility for Government Tenders</li>
-                <li class="pl-1">Tax Benefits</li>
-                <li class="pl-1">Easier Access to Credit & Funding</li>
-            </ol>
-        </div>
+            <!-- Left Content -->
+            <div class="flex flex-col justify-center items-start">
+                <div class="relative">
+                    <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">Benefits of MSME Registration
+                    </h2>
+                    <p class="text-gray-900 text-lg mb-6">
+                        Registering as an MSME brings a range of benefits and support from the government. Here’s how it can help your business
+                    </p>
+                    <ol class="list-decimal text-black font-medium text-lg ml-4 mb-6">
+                        <li class="pl-1">Access to Collateral-Free Loans</li>
+                        <li class="pl-1">Subsidies & Government Support</li>
+                        <li class="pl-1">Lower Interest Rates on Loans</li>
+                        <li class="pl-1">Protection Against Delayed Payments</li>
+                        <li class="pl-1">Concession on Electricity Bills</li>
+                        <li class="pl-1">Eligibility for Government Tenders</li>
+                        <li class="pl-1">Tax Benefits</li>
+                        <li class="pl-1">Easier Access to Credit & Funding</li>
+                    </ol>
+                </div>
+            </div>
+
+            <!-- Right Content with Images -->
+
+            <!-- Image 1 -->
+            <div class="relative flex justify-center ">
+                <img src="assets/images/small/38.png" alt="Team Working" class="rounded-xl w-[300px] h-[300px]  object-cover">
+            </div>
+            <!-- Image 2 -->
+            <div class="relative flex justify-center  hidden lg:inline-block">
+                <img src="assets/images/small/35.png" alt="Team Working" class="rounded-xl w-[300px] h-[300px] object-cover">
+            </div>
+
+
+            <!-- Documents Section -->
+            <div class="flex flex-col justify-center items-start">
+                <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">Documents Required for MSME Registration
+                </h2>
+                <ol class="list-decimal text-black text-lg ml-4 mb-6">
+                    <li class="pl-1">Aadhaar Card</li>
+                    <li class="pl-1">PAN Card</li>
+                    <li class="pl-1">Business Address Proof</li>
+                    <li class="pl-1">Bank Account Details</li>
+                    <li class="pl-1">Details of Business Activities (Manufacturing/Service)</li>
+                    <li class="pl-1">Eligibility for Government Tenders</li>
+                    <li class="pl-1">Investment Details</li>
+                    <li class="pl-1">Turnover Details (Annual Turnover for Previous Financial Year)</li>
+                </ol>
+            </div>
+        </section>
     </div>
-
-    <!-- Right Content with Images -->
-
-        <!-- Image 1 -->
-        <div class="relative flex justify-center">
-            <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl w-full h-auto max-w-[300px] object-cover">
-        </div>
-        <!-- Image 2 -->
-        <div class="relative flex justify-center hidden lg:inline-block">
-            <img src="assets/images/aboutusimg3.png" alt="Team Working" class="rounded-xl w-full h-auto max-w-[300px] object-cover">
-        </div>
-    
-
-    <!-- Documents Section -->
-    <div class="flex flex-col justify-center items-start">
-        <h2 class="text-3xl font-bold text-gray-900 mb-6 leading-tight">
-            Documents Required for MSME Registration
-        </h2>
-        <ol class="list-decimal text-black text-lg ml-4 mb-6">
-            <li class="pl-1">Aadhaar Card</li>
-            <li class="pl-1">PAN Card</li>
-            <li class="pl-1">Business Address Proof</li>
-            <li class="pl-1">Bank Account Details</li>
-            <li class="pl-1">Details of Business Activities (Manufacturing/Service)</li>
-            <li class="pl-1">Eligibility for Government Tenders</li>
-            <li class="pl-1">Investment Details</li>
-            <li class="pl-1">Turnover Details (Annual Turnover for Previous Financial Year)</li>
-        </ol>
-    </div>
-</section>
-</div>
 
     <!-- FAQ -->
     <div class="bg-[#e9f5db]">

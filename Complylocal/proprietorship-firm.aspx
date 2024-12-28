@@ -22,10 +22,10 @@
 
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
-            <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
-                <!-- Decorative Element -->
-                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+            <div class="relative flex items-center justify-center">
+                              <img src="assets/images/hero/7.png" alt="Team Working" class="rounded-xl ">
+<!-- Decorative Element -->
+<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
             </div>
         </div>
     </section>
@@ -130,17 +130,13 @@
                         <span class="font-semibold">Obtain Professional Licenses:  </span>Depending on the nature of the business, additional licenses may be required.</li>
 
                 </ol>
-
-                <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
-                </a>
             </div>
 
             <!-- Image -->
             <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
-                <div class="relative">
-                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                    <!-- Decorative Element -->
-                    <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
+                <div class="relative w-[300px] h-[300px] rounded-xl">
+                    <img src="assets/images/aboutusimg3.png" alt="Team Working" class="rounded-xl w-full h-full object-cover ">
+                    
                 </div>
             </div>
         </section>

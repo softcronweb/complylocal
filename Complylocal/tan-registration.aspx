@@ -21,9 +21,8 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
-                <!-- Decorative Element -->
-                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+                <img src="assets/images/TAN-Registration.jpg" alt="Team Working" class="rounded-xl ">
+                
             </div>
         </div>
     </section>
@@ -70,9 +69,9 @@
             <!-- Image -->
             <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
                 <div class="relative">
-                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                    <!-- Decorative Element -->
-                    <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
+                                  <img src="assets/images/Partnership.jpg" alt="Team Working" class="rounded-xl ">
+<!-- Decorative Element -->
+<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
                 </div>
             </div>
         </section>

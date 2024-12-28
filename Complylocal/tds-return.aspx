@@ -29,9 +29,9 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
-                <!-- Decorative Element -->
-                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+                              <img src="assets/images/hero/1.png" alt="Team Working" class="rounded-xl object-cover">
+<!-- Decorative Element -->
+<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
             </div>
         </div>
     </section>
@@ -42,9 +42,8 @@
 
 
     <div class="bg-[#fafafa] ">
-
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row justify-between bg-[#dadded] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
@@ -87,39 +86,31 @@
                     </ul>
                 </div>
 
-                <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
-                </a>
+    
             </div>
             <!-- Image -->
-            <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
-                <div class="relative">
-                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                    <!-- Decorative Element -->
-                    <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
+            <div class="lg:order-1 lg:w-1/2 flex  ">
+                <div class="relative w-[300px] h-[300px]">
+                    <img src="assets/images/small/22.png" alt="Team Working" class="rounded-xl w-full h-full object-cover">
+                    
                 </div>
             </div>
         </section>
 
 
     </div>
-
-
-
-
-
-
     <!-- about -->
-    <div class="bg-[#e9f5db]">
-        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] items-center grid md:grid-cols-12 gap-8 ">
+    <div class="bg-[#dadded]">
+        <div class=" bg-[#e9f5db] px-5 sm:px-20 py-20 rounded-t-[50px] sm:rounded-t-[100px] gap-8 ">
 
-            <div class="space-y-8 col-span-8">
+            <div class="space-y-8">
 
                 <h2 class="text-3xl font-semibold">Why Choose Us ?
                 </h2>
 
                 <div class=" flex flex-col gap-4 text-gray-900 ">
 
-                    <ol class="list-disc text-lg ml-4 grid md:grid-cols-2 gap-1">
+                    <ol class="list-disc text-lg ml-4 grid md:grid-cols-2 lg:grid-cols-3 gap-1">
                         <li class="pl-1 ">
                             <span class="font-semibold">Expert Guidance</span>
                         </li>
@@ -156,21 +147,69 @@
                             <span class="font-semibold">Dedicated Customer Suppor</span>
                         </li>
                     </ol>
-
-
                 </div>
             </div>
 
-            <div class="col-span-4 w-full flex justify-center items-center">
-                <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
-            </div>
+           
 
 
         </div>
     </div>
 
+
+    <%-- why choose us --%>
+<div class="bg-[#e9f5db]">
+    <section class="bg-[#ffe3e0] sm:px-20 px-5 py-20 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
+
+        <div class="">
+           <h2 class="text-3xl font-semibold text-center mb-8">Due Date of TDS Return</h2>
+
+        </div>
+        <div class="overflow-x-auto bg-white p-6 shadow-md rounded-md">
+   
+    <table class="table-auto w-full border-collapse border border-gray-300 text-sm">
+      <thead>
+        <tr class="bg-yellow-100">
+          <th class="border border-gray-300 px-4 py-2 text-left">Quarter</th>
+          <th class="border border-gray-300 px-4 py-2 text-left">TDS Return Due Date</th>
+          <th class="border border-gray-300 px-4 py-2 text-left">Quarter</th>
+          <th class="border border-gray-300 px-4 py-2 text-left">TCS Return Due Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="border border-gray-300 px-4 py-2">1st (April-June)</td>
+          <td class="border border-gray-300 px-4 py-2">31st July</td>
+          <td class="border border-gray-300 px-4 py-2">1st (April-June)</td>
+          <td class="border border-gray-300 px-4 py-2">15th July</td>
+        </tr>
+        <tr class="bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2">2nd (July-Sep)</td>
+          <td class="border border-gray-300 px-4 py-2">31st October</td>
+          <td class="border border-gray-300 px-4 py-2">2nd (July-Sep)</td>
+          <td class="border border-gray-300 px-4 py-2">15th October</td>
+        </tr>
+        <tr>
+          <td class="border border-gray-300 px-4 py-2">3rd (Oct-Dec)</td>
+          <td class="border border-gray-300 px-4 py-2">31st Jan</td>
+          <td class="border border-gray-300 px-4 py-2">3rd (Oct-Dec)</td>
+          <td class="border border-gray-300 px-4 py-2">15th Jan</td>
+        </tr>
+        <tr class="bg-gray-50">
+          <td class="border border-gray-300 px-4 py-2">4th (Jan-March)</td>
+          <td class="border border-gray-300 px-4 py-2">31st May</td>
+          <td class="border border-gray-300 px-4 py-2">4th (Jan-March)</td>
+          <td class="border border-gray-300 px-4 py-2">15th May</td>
+        </tr>
+      </tbody>
+    </table>
+            <h3 class="font-semibold text-sm mt-2">Due Date of TDS/ TCS Payment- Every 7th day of the next month</h3>
+  </div>
+    </section>
+</div>
+
     <!-- FAQ -->
-    <div class="bg-[#dadded]">
+    <div class="bg-[#ffe3e0]">
         <section class="bg-purple-100 sm:px-20 px-5 py-20 sm:rounded-t-[100px] rounded-t-[50px] grid lg:grid-cols-3 gap-8">
             <div class="md:pr-8">
                 <h3 class="text-3xl font-bold">frequently asked questions</h3>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="gst-returns.aspx.cs" Inherits="Complylocal.gst_returns" %>
+﻿%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="gst-returns.aspx.cs" Inherits="Complylocal.gst_returns" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -8,7 +8,7 @@
 
         <!-- left Content -->
 
-        <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
+        <div class="order-1 sm:order-2 flex flex-col lg:w-1/2 lg:pl-8">
             <h2 class="text-3xl font-bold mb-3 text-[#1c5a88] ">GST Return</h2>
             <ul class="list-disc font-medium ml-4">
                 <li>Draw Data Easily from Tally, Excel, Busy etc.</li>
@@ -23,9 +23,9 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
-                <!-- Decorative Element -->
-                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+                               <img src="assets/images/Partnership.jpg" alt="Team Working" class="rounded-xl ">
+<!-- Decorative Element -->
+<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
             </div>
         </div>
     </section>

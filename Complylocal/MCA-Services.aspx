@@ -17,9 +17,9 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
-                <!-- Decorative Element -->
-                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+                               <img src="assets/images/hero/10.png" alt="Team Working" class="rounded-xl ">
+<!-- Decorative Element -->
+<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
             </div>
         </div>
     </section>
@@ -269,7 +269,7 @@
 
     <%-- Why choose us --%>
     <div class="bg-[#dadded] ">
-        <div class="bg-[#e9f5db] px-5 sm:px-20 py-20 rounded-t-[50px]  sm:rounded-t-[100px] grid md:grid-cols-12 gap-8 ">
+        <div class="bg-[#e9f5db] px-5 sm:px-20 py-20 rounded-t-[50px] items-center  sm:rounded-t-[100px] grid md:grid-cols-12 gap-8 ">
 
 
             <div class="space-y-8 col-span-8">
@@ -306,7 +306,9 @@
             </div>
 
             <div class="col-span-4 w-full flex justify-center items-center">
-                <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
+                <div class="w-[300px] h-[300px] rounded-xl">
+                    <img src="assets/images/office.jpg" alt="whywe" class="rounded-xl w-full h-full object-cover" />
+                </div>
             </div>
         </div>
     </div>

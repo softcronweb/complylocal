@@ -5,7 +5,6 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <section
         class="flex flex-col lg:flex-row items-center justify-between bg-[#faf8f7] min-h-screen py-20 pt-[12vh] px-5 sm:px-20 gap-10 lg:gap-20">
-
         <!-- left Content -->
 
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8 ">
@@ -23,9 +22,9 @@
         <!-- Image -->
         <div class=" order-3 lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/LLM.png" alt="Team Working" class="rounded-xl ">
+                <img src="assets/images/Partnership.jpg" alt="Team Working" class="rounded-xl ">
                 <!-- Decorative Element -->
-                <%--<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>--%>
+                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
             </div>
         </div>
     </section>
@@ -34,7 +33,9 @@
     <div class="bg-[#fafafa] ">
         <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] items-center sm:rounded-t-[100px] grid md:grid-cols-12 gap-8 ">
             <div class="col-span-4 w-full flex justify-center items-center">
-                <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
+                <div class="w-[300px] h-[300px] rounded-xl">
+                    <img src="assets/images/private-limited.png" alt="whywe" class="rounded-xl w-full h-full object-cover " />
+                </div>
             </div>
 
             <div class="space-y-8 col-span-8">
@@ -75,15 +76,15 @@
     <!-- about -->
     <div class="bg-[#dadded]">
         <section
-            class="flex flex-col lg:flex-row items-center justify-between bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 gap-10 lg:gap-20">
+            class="flex flex-col lg:flex-row items-center justify-between bg-[#e9f5db] rounded-t-[50px] sm:rounded-t-[100px] py-20 px-5 sm:px-20 gap-10 lg:gap-20">
 
 
             <!-- left Content -->
 
-            <div class="flex flex-col lg:w-1/2  items-start">
-                <h2 class="text-3xl  font-bold text-gray-900 mb-6 leading-tight">What is a Partnership?
+            <div class="flex flex-col lg:flex-row gap-4  items-start">
+                <h2 class="text-3xl  lg:w-1/3 font-bold text-gray-900 mb-6 leading-tight">What is a Partnership?
                 </h2>
-                <p class="text-gray-600 font-medium mb-6">
+                <p class="text-gray-600 font-medium mb-6 w-2/3">
                     A Partnership is a business structure where two or more individuals come together to manage and operate a business, sharing both profits and liabilities. It is one of the simplest forms of business entities, typically formed by a mutual agreement between the partners. Unlike a company, a partnership doesn’t require complex registration procedures, making it an ideal choice for small businesses and professionals.
                     <br />
                     <br />
@@ -92,13 +93,7 @@
 
             </div>
             <!-- Image -->
-            <div class=" lg:w-1/2 flex justify-center items-center">
-                <div class="relative">
-                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                    <!-- Decorative Element -->
-                    <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
-                </div>
-            </div>
+
         </section>
     </div>
 
@@ -106,17 +101,15 @@
     <div class="bg-[#e9f5db]">
         <section class="bg-[#ffe3e0] sm:px-20 px-5 py-20 gap-8 sm:rounded-t-[100px] rounded-t-[50px]">
 
-            <div class="items-center grid md:grid-cols-12 gap-8 mb-8">
-                <div class="col-span-4 w-full flex justify-center items-center">
-                    <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
-                </div>
+            <div class="items-center grid gap-8 mb-8">
+            
 
-                <div class="space-y-8 col-span-8">
+                <div class="space-y-8 ">
                     <h2 class="text-3xl font-semibold">Why Choose a Partnership for Your Business?
                     </h2>
                     <div class=" flex flex-col gap-4 text-gray-900 ">
 
-                        <ol class="list-disc text-lg ml-4 grid md:grid-cols-2 gap-1">
+                        <ol class="list-disc text-lg ml-4  md:grid-cols-2 gap-1">
                             <li class="pl-1">
                                 <span class="font-semibold">Simple and Cost-Effective Setup </span>
                             </li>
@@ -142,7 +135,7 @@
                     </div>
                 </div>
             </div>
-            <div class=" max-w-4xl mx-auto p-4 overflow-x-auto ">
+            <div class=" max-w-4xl  overflow-x-auto ">
                 <table class="w-full border-collapse border border-gray-300">
                     <thead>
                         <tr class="bg-gray-200 text-left">
@@ -239,7 +232,7 @@
             <!-- Image -->
             <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
                 <div class="relative">
-                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
+                    <img src="assets/images/small/23.png" alt="Team Working" class="rounded-xl ">
                     <!-- Decorative Element -->
                     <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
                 </div>

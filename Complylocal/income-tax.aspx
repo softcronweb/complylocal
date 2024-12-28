@@ -18,25 +18,25 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/income-tax.png" alt="Team Working" class="rounded-xl ">
+                <img src="assets/images/hero/14.png" alt="Team Working" class="rounded-xl ">
                 <!-- Decorative Element -->
-                <%--<div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>--%>
+                <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
             </div>
         </div>
     </section>
     <%-- why choose us --%>
     <div class="bg-[#fafafa] ">
-        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px] items-center sm:rounded-t-[100px] grid md:grid-cols-12 gap-8 ">
-            <div class="col-span-4 w-full flex justify-center items-center">
+        <div class="bg-[#dadded] px-5 sm:px-20 py-20 rounded-t-[50px]  sm:rounded-t-[100px] gap-8 ">
+            <%--<div class="col-span-4 w-full flex justify-center items-center">
                 <img src="assets/images/aboutus.png" alt="whywe" class="rounded-xl " />
-            </div>
+            </div>--%>
 
-            <div class="space-y-8 col-span-8">
+            <div class="space-y-8 col-span-">
                 <h2 class="text-3xl font-semibold">Why Choose Us ?
                 </h2>
                 <div class=" flex flex-col gap-4 text-gray-900 ">
 
-                    <ol class="list-disc text-lg ml-4 grid md:grid-cols-2 gap-1">
+                    <ol class="list-disc text-lg ml-4 grid md:grid-cols-2 lg:grid-cols-3 gap-1">
                         <li class="pl-1">
                             <span class="font-semibold">Expertise & Experience </span>
                         </li>
@@ -80,29 +80,88 @@
             <div class="flex flex-col lg:w-1/2 items-start">
                 <h2 class="text-3xl  font-bold text-gray-900  leading-tight">INCOME TAX SERVICES
                 </h2>
-                <ul class="ml-4 my-4 font-medium list-disc">
-                    <li>Return filing</li>
-                    <li>Defective return (Sec 139(9)</li>
-                    <li>Updated return (ITR -U)</li>
-                    <li>Rectification</li>
-                    <li>Projections</li>
-                    <li>Tax Advisory</li>
-                    <li>Register as Legal heir</li>
-                    <li>Response to outstanding demand</li>
-                    <li>Response to Income Tax Proceedings</li>
-                    <li>Obtaining various certificates from income tax departments</li>
-                    <li>Advance tax calculation</li>
+                <h4 class="font-semibold text-lg mt-4">Income Tax Return filing (ITR Filing)</h4>
+                <ul class="ml-4 my-2 font-medium list-disc">
+                    <li>Filing ITRs for <span class="font-semibold">Individuals, HUFs, Firms, LLPs, Companies, and Trusts.</span></li>
+                    <li>Preparation and submission of forms like <span class="font-semibold">ITR-1 to ITR-7.</span></li>
+                </ul>
+                <h4 class="font-semibold text-lg mt-4">Defective Return (Sec 139(9))</h4>
+
+                <ul class="ml-4 my-2 font-medium list-disc">
+                    <li>An Income Tax return may be treated as <span class="font-semibold">defective</span> if Mandatory information or documents are missing.</li>
+                    <li>Errors are identified by the Income Tax Department during processing.</li>
+                    <li>Response can be submitted within <span class="font-semibold">15 days</span> from the date of receiving the notice.</li>
+
+                </ul>
+                <h4 class="font-semibold text-lg mt-4">Updated Return (ITR -U)</h4>
+                <ul class="ml-4 my-2 font-medium list-disc">
+                    <li><span class="font-semibold">Section 139(8A)</span> of the <span class="font-semibold">Income Tax Act, 1961</span>, allowing taxpayers to <span class="font-semibold">update their income tax returns</span> even after the original or belated return has been filed.</li>
+                    <li>Can be filed <span class="font-semibold">within 24 months</span> from the <span class="font-semibold">end of the relevant assessment year</span>
+                    </li>
 
                 </ul>
 
+                <h4 class="font-semibold text-lg mt-4">Rectification of Return (Section 154)</h4>
+                <ul class="ml-4 my-2 font-medium list-disc">
+                    <li>Return must be <span class="font-semibold">processed under Section 143(1) for filing rectification</span></li>
+                    <li>Rectification can be filed if there is :-
+                        <ul class="ml-4 my-2 list-disc font-medium">
+                            <li>Calculation errors.</li>
+                            <li>Incorrect details of <span>deductions or exemptions.</span></li>
+                            <li>Mismatch in <span class="font-semibold">tax credit (TDS/TCS)</span> details with <span class="font-semibold">Form 26AS.</span></li>
+                            <li>Incorrect data entry (e.g., PAN, name, etc.).</li>
+                            <li>Mistakes in <span class="font-semibold">carry-forward of losses.</span></li>
+                        </ul>
+                    </li>
 
-                <a href="#" class="bg-[#991c20] text-white px-6 py-3 rounded-md font-medium">Contact Now
-                </a>
+                    <li>Rectification request can be filed <span class="font-semibold">within 4 years</span> from the <span class="font-semibold">end of the financial year</span> in which the order was passed by the assessing officer.</li>
+
+                </ul>
+
+                <h4 class="font-semibold text-lg mt-4">Projections (CMA Data , Projected and Provisional Balance Sheet)</h4>
+                <h4 class="font-semibold text-lg mt-4">Tax Advisory</h4>
+                <ul class="ml-4 my-2 font-medium  list-disc">
+                    <li>Advice on <span class="font-semibold">tax-saving investments</span>, deductions, and exemptions.</li>
+                    <li>Handling <span class="font-semibold">capital gains computations</span> for property sales or securities.</li>
+                </ul>
+                <h4 class="font-semibold text-lg mt-4">Registration as a Legal heir </h4>
+                <h4 class="font-semibold text-lg ">Response to Income Tax Proceedings</h4>
+                <h4 class="font-semibold text-lg ">Advance tax calculation and Payment</h4>
+                <h5 class="font-semibold text-lg mt-2">Advance tax can be paid in 4 instalments:</h5>
+                <div class="overflow-x-auto w-full max-w-2xl">
+                    <table class="table-auto border-collapse border border-gray-400 w-full text-left bg-white">
+                        <thead>
+                            <tr class="bg-gray-200">
+                                <th class="border border-gray-300 px-4 py-2">Due Date</th>
+                                <th class="border border-gray-300 px-4 py-2">Advance Tax Liability</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="border border-gray-300 px-4 py-2">15<sup>th</sup> June</td>
+                                <td class="border border-gray-300 px-4 py-2">15%</td>
+                            </tr>
+                            <tr>
+                                <td class="border border-gray-300 px-4 py-2">15<sup>th</sup> September</td>
+                                <td class="border border-gray-300 px-4 py-2">45%</td>
+                            </tr>
+                            <tr>
+                                <td class="border border-gray-300 px-4 py-2">15<sup>th</sup> December</td>
+                                <td class="border border-gray-300 px-4 py-2">75%</td>
+                            </tr>
+                            <tr>
+                                <td class="border border-gray-300 px-4 py-2">15<sup>th</sup> March</td>
+                                <td class="border border-gray-300 px-4 py-2">100%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
             </div>
             <!-- Image -->
             <div class=" lg:w-1/2 flex justify-center items-center">
-                <div class="relative">
-                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
+                <div class="relative w-[300px] h-[300px] rounded-xl">
+                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl w-full h-full object-cover ">
                     <!-- Decorative Element -->
                     <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
                 </div>

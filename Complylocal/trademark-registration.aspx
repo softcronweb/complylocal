@@ -11,7 +11,7 @@
         <div class="order-1 sm:order-2 flex flex-col lg:w-1/2  lg:pl-8">
             <h2 class="text-3xl font-bold text-[#1c5a88] mb-2">Trademark Registration</h2>
             <h3 class="text-[#1c5a88] font-semibold mb-3 text-xl">Protect Your Brand Identity with Trademark Registration</h3>
-            <div class="font-medium">  
+            <div class="font-medium">
                 <p>
                     A Trademark is a unique symbol, logo, word, name, or design that identifies and distinguishes your products or services from those of competitors. It serves as a valuable intellectual property asset for your business.
                 </p>
@@ -31,7 +31,7 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/herotesting.png" alt="Team Working" class="rounded-xl ">
+                <img src="assets/images/hero/15.png" alt="Team Working" class="rounded-xl ">
                 <!-- Decorative Element -->
                 <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
             </div>
@@ -90,7 +90,7 @@
 
 
 
-   
+
 
     <!-- about -->
     <div class="bg-[#dadded]">
@@ -124,8 +124,8 @@
             </div>
             <!-- Image -->
             <div class="lg:order-1 lg:w-1/2 flex justify-center items-center">
-                <div class="relative">
-                    <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
+                <div class="relative w-[300px] h-[300px] rounded-xl">
+                    <img src="assets/images/pendoc.jpg" alt="Team Working" class="rounded-xl object-cover h-full w-full">
                     <!-- Decorative Element -->
                     <!-- <div class="absolute bottom-0 right-0 bg-yellow-400 w-20 h-20 rounded-br-full "></div> -->
                 </div>

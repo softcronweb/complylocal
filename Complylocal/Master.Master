@@ -86,9 +86,9 @@
                             <li><a href="msme-registration.aspx" class="block px-4 py-2 hover:text-white ">MSME Registration</a></li>
                             <li><a href="fssai-registration.aspx" class="block px-4 py-2 hover:text-white ">FSSAI Registration</a></li>
                             <li><a href="subsidy.aspx" class="block px-4 py-2 hover:text-white ">Subsidy</a></li>
-                        
-                            <li><a href="pan-registration.aspx" class="block px-4 py-2 hover:text-white ">PAN Registration</a></li>
-                            <li><a href="tan-registration.aspx" class="block px-4 py-2 hover:text-white ">TAN Registration</a></li>
+
+                            <li><a href="pan-registration.aspx" class="block px-4 py-2 hover:text-white ">PAN & TAN Registration</a></li>
+                            <%--<li><a href="tan-registration.aspx" class="block px-4 py-2 hover:text-white ">TAN Registration</a></li>--%>
                             <li><a href="iec-code.aspx" class="block px-4 py-2 hover:text-white ">IEC Code</a></li>
                         </ul>
                     </li>

@@ -145,8 +145,7 @@
                     <ul class="text-gray-600 space-y-2 list-disc ml-4">
                         <li>Private Limited Company</li>
                         <li>One Person Company</li>
-                        <li>Limited Liability Partnership</li>
-                        <li>Partnership Firm</li>
+                        <li>LLP & Partnership</li>
                         <li>Proprietorship Firm</li>
 
                     </ul>
@@ -197,10 +196,9 @@
                         <br>
                         Services</h3>
                     <ul class="text-gray-600 space-y-2 list-disc ml-4">
-                        <li>Income Tax Return</li>
-                        <li>TDS Returns</li>
-                        <li>GST Returns</li>
-                        <li>Revised Returns</li>
+                        <li>Income Tax</li>
+                        <li>TDS/TCS</li>
+                        <li>GST</li>
                     </ul>
                 </div>
             </div>

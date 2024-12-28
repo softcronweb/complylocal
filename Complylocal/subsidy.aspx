@@ -21,9 +21,10 @@
         <!-- Image -->
         <div class=" order-3  lg:w-1/2">
             <div class="relative">
-                <img src="assets/images/single-person.jpg" alt="Team Working" class="rounded-xl ">
+                <img src="assets/images/hero/1.png" alt="Team Working" class="rounded-xl ">
                 <!-- Decorative Element -->
                 <div class="absolute bottom-0 right-0 bg-[#991c20] w-20 h-20 rounded-bl-full"></div>
+
             </div>
         </div>
     </section>
@@ -83,8 +84,8 @@
 
                 <!-- Image -->
                 <div class="lg:order-1 lg:w-1/3 flex justify-center items-center">
-                    <div class="relative">
-                        <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
+                    <div class="relative w-[300px] h-[300px] rounded-xl">
+                        <img src="assets/images/small/32.png" alt="Team Working" class="rounded-xl w-full h-full object-cover ">
                     </div>
                 </div>
             </div>
@@ -113,8 +114,8 @@
 
                 <!-- Image -->
                 <div class=" lg:w-1/3 flex justify-center items-center">
-                    <div class="relative">
-                        <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
+                    <div class="relative w-[300px] h-[300px] rounded-xl">
+                        <img src="assets/images/small/34.png" alt="Team Working" class="rounded-xl w-full h-full object-cover ">
                     </div>
                 </div>
             </div>
@@ -126,74 +127,73 @@
     </div>
 
 
-      <!-- Key point -->
-  <div class="bg-[#faf8f7]">
-      <section
-          class=" bg-[#dadded] rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 ">
+    <!-- Key point -->
+    <div class="bg-[#dadded]">
+        <section
+            class=" bg-purple-100 rounded-t-[50px] sm:rounded-t-[100px] min-h-screen py-20 px-5 sm:px-20 ">
 
-          <h4 class="text-xl font-semibold text-black">2.	VAT ASSISTANCE ON CLEANER FUELS</h4>
-          <p class="mt-2">
-              The Government recognizes that industries in the Haryana are being pushed to shift to cleaner fuels including natural gas, due to concerns arising from the severity of air pollution. The shift would increase the cost of production for industries affecting their competitiveness
-          </p>
+            <h4 class="text-xl font-semibold text-black">2.	VAT ASSISTANCE ON CLEANER FUELS</h4>
+            <p class="mt-2">
+                The Government recognizes that industries in the Haryana are being pushed to shift to cleaner fuels including natural gas, due to concerns arising from the severity of air pollution. The shift would increase the cost of production for industries affecting their competitiveness
+            </p>
 
-          <div class="flex flex-col lg:flex-row items-center lg:items-start justify-between lg:gap-20 gap-10 mt-10 ">
-              <!-- left Content -->
+            <div class="flex flex-col lg:flex-row items-center justify-between lg:gap-20 gap-10 mt-10 ">
+                <!-- left Content -->
 
-              <div class="flex flex-col lg:w-2/3 lg:order-2 items-start">
+                <div class="flex flex-col lg:w-2/3 lg:order-2 items-start">
 
-                  <h4 class="text-xl font-semibold text-black">Quantum of Assistance: </h4>
-                  <p class="mt-2">
-                      50 percent reimbursement on VAT consumed by the investor on natural gas (piped or compressed) on conversion to cleaner fuel used in the industries in the MSME, Large, Mega and Ultra-Mega sector in Haryana for a period of two years
-                  </p>
-                  <h4 class="text-xl font-semibold text-black mt-4">Eligibility: </h4>
-                  <p class="mt-2">
-                      MSME, Large, Mega and Ultra-Mega Units operating in the districts of the Haryana who have converted to cleaner fuels like CNG/PNG/LPG shall be provided financial support by way of reimbursement of VAT on purchase of CNG/PNG/LPG. 
-                  </p>
-              </div>
+                    <h4 class="text-xl font-semibold text-black">Quantum of Assistance: </h4>
+                    <p class="mt-2">
+                        50 percent reimbursement on VAT consumed by the investor on natural gas (piped or compressed) on conversion to cleaner fuel used in the industries in the MSME, Large, Mega and Ultra-Mega sector in Haryana for a period of two years
+                    </p>
+                    <h4 class="text-xl font-semibold text-black mt-4">Eligibility: </h4>
+                    <p class="mt-2">
+                        MSME, Large, Mega and Ultra-Mega Units operating in the districts of the Haryana who have converted to cleaner fuels like CNG/PNG/LPG shall be provided financial support by way of reimbursement of VAT on purchase of CNG/PNG/LPG. 
+                    </p>
+                </div>
 
-              <!-- Image -->
-              <div class="lg:order-1 lg:w-1/3 flex justify-center items-center">
-                  <div class="relative">
-                      <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                  </div>
-              </div>
-          </div>
+                <!-- Image -->
+                <div class="lg:order-1 lg:w-1/3 flex justify-center items-center">
+                    <div class="relative w-[300px] h-[300px] rounded-xl">
+                        <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl w-full h-full object-cover">
+                    </div>
+                </div>
+            </div>
 
-          <div class="flex flex-col lg:flex-row items-center lg:items-start justify-between lg:gap-20 gap-10 mt-10 ">
-              <!-- left Content -->
+            <div class="flex flex-col lg:flex-row items-center  justify-between lg:gap-20 gap-10 mt-10 ">
+                <!-- left Content -->
 
-              <div class="flex flex-col lg:w-2/3 items-start">
-                  <p class="">The units under the restrictive list of the industries notified under HEEP-2020 shall not be applicable for this assistance. The eligible Units shall also comply with the following conditions: - 
-                  </p>
+                <div class="flex flex-col lg:w-2/3 items-start">
+                    <p class="">
+                        The units under the restrictive list of the industries notified under HEEP-2020 shall not be applicable for this assistance. The eligible Units shall also comply with the following conditions: - 
+                    </p>
 
-                  <ol class="ml-4 my-8 mt-2 list-disc">
-                      <li class="pl-1">The unit should have IEM/Udyam Registration Certificate (URC) and Haryana Udhyam Memorandum (HUM). </li>
-                      <li class="pl-1">The unit should have obtained NOC/CLU from Competent Authority if applicable. </li>
-                      <li class="pl-1">The unit should be in regular commercial production at the time of disbursement and the subsidy shall not be released to a closed unit.</li>
-                      <li class="pl-1">•	 The units shall follow the guidelines released by Commission for Air Quality Management in National Capital Region and Adjoining Areas from time to time. </li>
-                      
-                  </ol>
+                    <ol class="ml-4 my-8 mt-2 list-disc">
+                        <li class="pl-1">The unit should have IEM/Udyam Registration Certificate (URC) and Haryana Udhyam Memorandum (HUM). </li>
+                        <li class="pl-1">The unit should have obtained NOC/CLU from Competent Authority if applicable. </li>
+                        <li class="pl-1">The unit should be in regular commercial production at the time of disbursement and the subsidy shall not be released to a closed unit.</li>
+                        <li class="pl-1">The units shall follow the guidelines released by Commission for Air Quality Management in National Capital Region and Adjoining Areas from time to time. </li>
 
-
-              </div>
-
-              <!-- Image -->
-              <div class=" lg:w-1/3 flex justify-center items-center">
-                  <div class="relative">
-                      <img src="assets/images/aboutus2.png" alt="Team Working" class="rounded-xl ">
-                  </div>
-              </div>
-          </div>
-
-          <p class="mt-10 font-medium">
-              This scheme is part of Haryana's broader efforts to promote industrial growth and competitiveness by ensuring that products manufactured within the state meet high-quality standards. By providing financial assistance for testing equipment, the government encourages MSMEs to adopt advanced quality assurance practices, thereby enhancing their marketability and compliance with international standards.
-          </p>
-      </section>
-  </div>
+                    </ol>
 
 
+                </div>
 
- 
+                <!-- Image -->
+                <div class=" lg:w-1/3 flex justify-center items-center">
+                    <div class="relative w-[300px] h-[300px] rounded-xl">
+                        <img src="assets/images/small/37.png" alt="Team Working"  class="rounded-xl w-full h-full object-cover">
+                    </div>
+                </div>
+            </div>
+
+
+        </section>
+    </div>
+
+
+
+
 
 
 
